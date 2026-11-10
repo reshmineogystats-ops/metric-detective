@@ -36,13 +36,15 @@ analysis/               pure Python analysis tools (pandas, numpy), no AI
   baseline.py           expected value per day (day-of-week + trend), flag unusual periods
   tools.py              compare_to_expected, decompose, segment_gap, drill_down, same_period_last_year
 agent/
+  tool_specs.py         tool descriptions the AI reads, how to run them, one-line step summaries
   loop.py               tool-calling loop with the Anthropic Messages API
   prompts.py            system prompt and answer format
   checks.py             number check: every number in the answer must come from a tool output
+ask.py                  command-line entry point (Milestone 2)
 feedback/               thumbs up/down log (question + rating only, never data)
 scripts/make_sample_data.py   generates the demo shop data
 evals/                  planted-anomaly test sets and scoring
-tests/                  pytest unit tests for analysis/
+tests/                  pytest tests for analysis/ and agent/ (agent tests use a scripted fake model: no key, no cost)
 ```
 
 ### Analysis tools (the agent can call these)
@@ -93,9 +95,14 @@ Prototype (for my reference): https://claude.ai/artifact/8HasyGthHLi9K33CptyRFq
 - **Unusual-period detection (Milestone 1):** scans every run of 1–14 consecutive days and scores the summed gap as a robust z-score. Bar set at 5.5 (high confidence at 7+), from simulation: on 30 clean copies of the demo shop, the top score was almost always below 5.5; with the planted problem it was usually 7–12. Re-check in Milestone 4 evals.
 - **Segment expected values** use each segment's share of revenue over the 28 days before the period, times total expected revenue.
 - **Personal-info detection** checks values too (emails, phone numbers), not just column names, and never mistakes date values for phone numbers.
+- **Agent loop (Milestone 2)** is a hand-written loop, not the SDK's beta tool runner, because it needs per-step progress, the 8-call cap and the number-check retry inside the loop. Model `claude-haiku-5-5` at effort `medium` (env overrides `METRIC_DETECTIVE_MODEL`, `METRIC_DETECTIVE_EFFORT`); no temperature (not accepted on current models).
+- **Structured answer** comes through a `submit_answer` tool (and `submit_update` for the Monday update), so the loop knows when the AI is done and gets JSON fields back.
+- **Step titles** come from a `reason` field every analysis tool takes; the one-line result is written by code from the tool output, so the progress view can't show a made-up number either.
+- **Number check rules:** a number passes if it matches a tool output ignoring sign, at the precision written ("$2,100" may round 2,136.64; rounding capped at 3%). Dates, times, whole numbers up to 12 and numbers in the user's question are not checked. One retry, then the answer is shown with a warning.
 
 ## Status
 - Milestone 1: done (27 tests passing).
+- Milestone 2: built and tested offline (46 tests passing). Live run pending an API key in `.env`.
 
 ## Success metrics to track
 Answers rated helpful per week (north star); time to explanation vs the user's usual way; accuracy on planted cases; % of new users who upload their own data and ask a question; % of answers whose update gets copied; % of users who return the next week.

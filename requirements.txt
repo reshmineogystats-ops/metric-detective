@@ -3,4 +3,7 @@ pandas>=2.2
 numpy>=1.26
 # Tests
 pytest>=8.0
-# Added in later milestones: anthropic, python-dotenv (agent), streamlit (app)
+# AI agent (Milestone 2)
+anthropic>=2.8
+python-dotenv>=1.0
+# Added in Milestone 3: streamlit (app)
