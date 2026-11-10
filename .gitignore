@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Secrets - never commit API keys
+.env
+.streamlit/secrets.toml
+
+# Files users upload. The generated demo file data/sample_shop.csv IS committed.
+uploads/
+data/*
+!data/sample_shop.csv
+
+# macOS
+.DS_Store
