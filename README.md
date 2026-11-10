@@ -1,4 +1,6 @@
-# Why Did It Move?
+# Metric Detective
+
+*An AI analyst that explains why your numbers moved.*
 
 **Turn Monday's "why are we down?" into a verified answer and a ready-to-send update in five minutes, from any spreadsheet export.**
 

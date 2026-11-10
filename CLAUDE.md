@@ -1,4 +1,4 @@
-# Why Did It Move? — project brief
+# Metric Detective — project brief
 
 Read this first in every session. It is the product spec for this repo.
 
