@@ -1,0 +1,1748 @@
+order_date,order_id,total,device,payment_method,region,sales_channel,customer_email
+2026-09-14 08:54,JHG-100005,92.84,Mobile,Shop Pay,South,Pinterest,customer1314@example.com
+2026-09-14 10:20,JHG-100013,30.81,Mobile,Credit card,South,Pinterest,customer623@example.com
+2026-09-14 10:28,JHG-100024,68.46,Desktop,Credit card,West,Online store,customer738@example.com
+2026-09-14 12:34,JHG-100023,31.7,Mobile,PayPal,West,Instagram shop,customer328@example.com
+2026-09-14 12:50,JHG-100008,49.18,Desktop,PayPal,West,Online store,customer668@example.com
+2026-09-14 13:11,JHG-100026,44.35,Mobile,PayPal,Northeast,Online store,customer1168@example.com
+2026-09-14 13:49,JHG-100002,63.77,Tablet,PayPal,South,Online store,customer307@example.com
+2026-09-14 13:50,JHG-100012,51.46,Desktop,Credit card,South,Online store,customer1103@example.com
+2026-09-14 14:36,JHG-100016,43.24,Mobile,Shop Pay,Northeast,Online store,customer63@example.com
+2026-09-14 14:59,JHG-100020,57.33,Mobile,Credit card,Northeast,Online store,customer838@example.com
+2026-09-14 15:09,JHG-100015,35.76,Tablet,Credit card,West,Online store,customer915@example.com
+2026-09-14 15:18,JHG-100021,33.77,Mobile,Apple Pay,West,Online store,customer281@example.com
+2026-09-14 15:25,JHG-100029,106.81,Desktop,Credit card,South,Instagram shop,customer444@example.com
+2026-09-14 15:29,JHG-100009,50.32,Mobile,Apple Pay,South,Online store,customer590@example.com
+2026-09-14 16:05,JHG-100011,38.46,Desktop,Credit card,West,Online store,customer570@example.com
+2026-09-14 16:31,JHG-100006,44.23,Desktop,PayPal,Midwest,Online store,customer102@example.com
+2026-09-14 16:58,JHG-100003,34.63,Desktop,Apple Pay,West,Online store,customer502@example.com
+2026-09-14 17:22,JHG-100025,50.63,Desktop,Shop Pay,West,Online store,customer1042@example.com
+2026-09-14 17:29,JHG-100010,48.72,Mobile,Shop Pay,South,Online store,customer386@example.com
+2026-09-14 17:29,JHG-100018,36.14,Mobile,PayPal,Northeast,Online store,customer1172@example.com
+2026-09-14 17:40,JHG-100019,41.12,Desktop,PayPal,West,Online store,customer1279@example.com
+2026-09-14 18:21,JHG-100017,56.36,Mobile,Shop Pay,Northeast,Online store,customer355@example.com
+2026-09-14 19:16,JHG-100028,39.36,Desktop,Credit card,West,Online store,customer227@example.com
+2026-09-14 19:21,JHG-100027,42.25,Desktop,Credit card,Northeast,Online store,customer86@example.com
+2026-09-14 19:22,JHG-100007,50.54,Mobile,Shop Pay,South,Pinterest,customer676@example.com
+2026-09-14 20:56,JHG-100014,40.35,Desktop,Credit card,Northeast,Online store,customer283@example.com
+2026-09-14 21:44,JHG-100022,53.58,Mobile,Apple Pay,Northeast,Online store,customer1092@example.com
+2026-09-14 21:52,JHG-100001,60.61,Mobile,Shop Pay,West,Online store,customer463@example.com
+2026-09-14 22:54,JHG-100004,49.2,Mobile,Shop Pay,Midwest,Online store,customer268@example.com
+2026-09-15 00:20,JHG-100033,83.9,Desktop,Credit card,West,Online store,customer8@example.com
+2026-09-15 01:41,JHG-100037,75.49,Mobile,Shop Pay,South,Online store,customer1029@example.com
+2026-09-15 04:51,JHG-100054,25.1,Mobile,Shop Pay,South,Online store,customer61@example.com
+2026-09-15 06:00,JHG-100051,81.54,Desktop,Credit card,South,Online store,customer929@example.com
+2026-09-15 06:01,JHG-100048,52.06,Desktop,PayPal,South,Online store,customer547@example.com
+2026-09-15 07:23,JHG-100058,55.51,Mobile,Shop Pay,West,Pinterest,customer963@example.com
+2026-09-15 09:40,JHG-100034,105.55,Mobile,Apple Pay,West,Online store,customer408@example.com
+2026-09-15 09:43,JHG-100040,58.46,Mobile,Apple Pay,Northeast,Online store,customer438@example.com
+2026-09-15 10:13,JHG-100055,44.93,Mobile,Shop Pay,West,Online store,customer1373@example.com
+2026-09-15 10:33,JHG-100031,68.87,Tablet,PayPal,Northeast,Online store,customer507@example.com
+2026-09-15 10:40,JHG-100038,42.75,Mobile,Shop Pay,Midwest,Online store,customer178@example.com
+2026-09-15 10:42,JHG-100043,36.57,Desktop,Shop Pay,Midwest,Online store,customer389@example.com
+2026-09-15 11:38,JHG-100035,37.61,Mobile,Shop Pay,South,Online store,customer1176@example.com
+2026-09-15 12:53,JHG-100030,30.35,Mobile,Credit card,West,Online store,customer357@example.com
+2026-09-15 12:56,JHG-100036,43.37,Mobile,Shop Pay,West,Online store,customer991@example.com
+2026-09-15 13:06,JHG-100053,59.8,Desktop,Shop Pay,South,Online store,customer630@example.com
+2026-09-15 13:41,JHG-100039,37.07,Mobile,Shop Pay,Midwest,Online store,customer734@example.com
+2026-09-15 13:52,JHG-100042,35.04,Mobile,Shop Pay,South,Online store,customer1064@example.com
+2026-09-15 14:05,JHG-100041,61.08,Mobile,Shop Pay,West,Online store,customer134@example.com
+2026-09-15 15:31,JHG-100056,68.3,Mobile,Shop Pay,Northeast,Online store,customer1351@example.com
+2026-09-15 17:18,JHG-100050,79.36,Mobile,Shop Pay,West,Online store,customer367@example.com
+2026-09-15 18:45,JHG-100052,56.62,Mobile,Shop Pay,South,Online store,customer862@example.com
+2026-09-15 18:47,JHG-100049,51.42,Mobile,Shop Pay,Northeast,Online store,customer1394@example.com
+2026-09-15 19:29,JHG-100032,44.27,Tablet,Credit card,Midwest,Online store,customer987@example.com
+2026-09-15 19:31,JHG-100057,57.19,Mobile,Credit card,South,Instagram shop,customer1035@example.com
+2026-09-15 20:52,JHG-100044,44.34,Desktop,Credit card,Midwest,Online store,customer126@example.com
+2026-09-15 21:48,JHG-100047,61.41,Mobile,Credit card,Midwest,Online store,customer214@example.com
+2026-09-15 22:04,JHG-100045,59.88,Mobile,Credit card,Midwest,Online store,customer1036@example.com
+2026-09-15 23:03,JHG-100046,27.51,Desktop,Credit card,South,Online store,customer1325@example.com
+2026-09-16 07:40,JHG-100072,28.56,Desktop,Credit card,Midwest,Instagram shop,customer1059@example.com
+2026-09-16 07:43,JHG-100061,58.62,Mobile,Credit card,West,Online store,customer276@example.com
+2026-09-16 08:45,JHG-100063,34.03,Mobile,Shop Pay,West,Online store,customer784@example.com
+2026-09-16 09:52,JHG-100081,54.79,Mobile,Shop Pay,West,Online store,customer330@example.com
+2026-09-16 10:04,JHG-100074,84.74,Mobile,Shop Pay,Northeast,Online store,customer798@example.com
+2026-09-16 10:09,JHG-100082,32.28,Mobile,Shop Pay,Northeast,Online store,customer443@example.com
+2026-09-16 10:24,JHG-100077,18.77,Mobile,Shop Pay,Northeast,Online store,customer558@example.com
+2026-09-16 10:38,JHG-100066,37.15,Desktop,Credit card,South,Online store,customer273@example.com
+2026-09-16 10:54,JHG-100078,71.07,Desktop,PayPal,West,Online store,customer852@example.com
+2026-09-16 11:21,JHG-100064,34.92,Desktop,Shop Pay,West,Online store,customer856@example.com
+2026-09-16 11:32,JHG-100076,27.06,Tablet,Credit card,West,Online store,customer440@example.com
+2026-09-16 11:39,JHG-100065,33.02,Mobile,Shop Pay,Midwest,Pinterest,customer967@example.com
+2026-09-16 11:42,JHG-100088,29.9,Mobile,Shop Pay,South,Online store,customer731@example.com
+2026-09-16 12:55,JHG-100087,57.77,Mobile,Shop Pay,West,Pinterest,customer241@example.com
+2026-09-16 13:06,JHG-100060,37.63,Desktop,Credit card,South,Online store,customer930@example.com
+2026-09-16 14:02,JHG-100079,49.83,Mobile,Shop Pay,South,Online store,customer1353@example.com
+2026-09-16 15:13,JHG-100086,55.49,Mobile,Shop Pay,Northeast,Online store,customer263@example.com
+2026-09-16 15:49,JHG-100059,39.53,Desktop,Credit card,Northeast,Online store,customer44@example.com
+2026-09-16 15:52,JHG-100080,116.22,Mobile,Shop Pay,West,Online store,customer568@example.com
+2026-09-16 16:30,JHG-100083,46.66,Desktop,PayPal,Northeast,Online store,customer326@example.com
+2026-09-16 17:15,JHG-100073,42.45,Mobile,Shop Pay,Northeast,Online store,customer437@example.com
+2026-09-16 17:27,JHG-100070,55.73,Tablet,Shop Pay,Midwest,Pinterest,customer1277@example.com
+2026-09-16 18:15,JHG-100085,58.17,Mobile,Shop Pay,South,Online store,customer559@example.com
+2026-09-16 18:25,JHG-100071,32.64,Desktop,Shop Pay,Midwest,Online store,customer733@example.com
+2026-09-16 19:13,JHG-100062,38.17,Desktop,Credit card,Midwest,Online store,customer987@example.com
+2026-09-16 19:40,JHG-100067,30.72,Mobile,Shop Pay,Northeast,Online store,customer1298@example.com
+2026-09-16 19:55,JHG-100068,40.26,Mobile,Credit card,West,Pinterest,customer530@example.com
+2026-09-16 21:49,JHG-100069,48.02,Desktop,Credit card,Northeast,Online store,customer47@example.com
+2026-09-16 21:54,JHG-100084,42.68,Desktop,Credit card,West,Online store,customer593@example.com
+2026-09-16 23:01,JHG-100075,32.21,Desktop,Credit card,West,Online store,customer486@example.com
+2026-09-17 00:32,JHG-100091,47.27,Desktop,PayPal,West,Online store,customer917@example.com
+2026-09-17 01:37,JHG-100116,42.75,Mobile,Credit card,Northeast,Instagram shop,customer425@example.com
+2026-09-17 08:50,JHG-100099,58.56,Mobile,Shop Pay,South,Instagram shop,customer988@example.com
+2026-09-17 09:31,JHG-100106,109.64,Desktop,Apple Pay,Northeast,Pinterest,customer1109@example.com
+2026-09-17 11:36,JHG-100105,31.65,Mobile,Credit card,West,Online store,customer801@example.com
+2026-09-17 12:01,JHG-100093,29.64,Desktop,Credit card,West,Online store,customer191@example.com
+2026-09-17 12:54,JHG-100089,81.74,Mobile,Shop Pay,West,Pinterest,customer846@example.com
+2026-09-17 13:43,JHG-100104,53.73,Mobile,Shop Pay,Northeast,Online store,customer757@example.com
+2026-09-17 14:18,JHG-100102,78.69,Desktop,Credit card,Northeast,Online store,customer796@example.com
+2026-09-17 14:53,JHG-100098,45.83,Desktop,PayPal,West,Online store,customer688@example.com
+2026-09-17 15:13,JHG-100103,38.17,Mobile,Shop Pay,South,Online store,customer1032@example.com
+2026-09-17 15:33,JHG-100117,33.92,Mobile,PayPal,South,Online store,customer523@example.com
+2026-09-17 15:54,JHG-100107,56.06,Desktop,Apple Pay,Midwest,Online store,customer844@example.com
+2026-09-17 17:24,JHG-100109,56.96,Tablet,Shop Pay,South,Online store,customer1077@example.com
+2026-09-17 17:37,JHG-100095,56.82,Mobile,Shop Pay,South,Online store,customer78@example.com
+2026-09-17 17:40,JHG-100108,44.93,Mobile,Credit card,South,Online store,customer354@example.com
+2026-09-17 17:48,JHG-100118,55.49,Desktop,PayPal,South,Online store,customer1133@example.com
+2026-09-17 18:52,JHG-100113,33.88,Mobile,Apple Pay,Northeast,Online store,customer923@example.com
+2026-09-17 19:22,JHG-100101,30.15,Desktop,Credit card,Midwest,Online store,customer247@example.com
+2026-09-17 19:47,JHG-100114,39.56,Tablet,Credit card,Midwest,Online store,customer940@example.com
+2026-09-17 19:52,JHG-100112,30.08,Mobile,Credit card,Northeast,Online store,customer515@example.com
+2026-09-17 19:54,JHG-100090,28.68,Desktop,Shop Pay,West,Online store,customer295@example.com
+2026-09-17 20:02,JHG-100115,62.61,Tablet,Credit card,West,Online store,customer484@example.com
+2026-09-17 20:08,JHG-100110,39.24,Mobile,Shop Pay,West,Online store,customer387@example.com
+2026-09-17 20:53,JHG-100111,82.98,Desktop,Credit card,West,Instagram shop,customer824@example.com
+2026-09-17 21:16,JHG-100097,44.06,Mobile,PayPal,Northeast,Online store,customer131@example.com
+2026-09-17 21:36,JHG-100100,59.38,Mobile,Apple Pay,West,Online store,customer313@example.com
+2026-09-17 21:44,JHG-100096,45.14,Mobile,Shop Pay,Northeast,Online store,customer1201@example.com
+2026-09-17 21:49,JHG-100094,58.11,Tablet,Credit card,South,Online store,customer912@example.com
+2026-09-17 23:38,JHG-100092,50.26,Desktop,Credit card,South,Online store,customer1349@example.com
+2026-09-18 00:24,JHG-100146,19.2,Mobile,Shop Pay,Northeast,Online store,customer251@example.com
+2026-09-18 02:43,JHG-100140,57.78,Desktop,Apple Pay,West,Online store,customer1003@example.com
+2026-09-18 06:23,JHG-100144,80.94,Mobile,Shop Pay,West,Online store,customer649@example.com
+2026-09-18 07:41,JHG-100132,30.79,Desktop,PayPal,Northeast,Online store,customer1013@example.com
+2026-09-18 08:28,JHG-100129,40.15,Desktop,Shop Pay,Northeast,Online store,customer1106@example.com
+2026-09-18 08:45,JHG-100121,27.44,Mobile,Shop Pay,Midwest,Online store,customer871@example.com
+2026-09-18 09:40,JHG-100134,46.8,Mobile,Shop Pay,Northeast,Online store,customer1072@example.com
+2026-09-18 09:45,JHG-100123,61.38,Mobile,Shop Pay,West,Online store,customer656@example.com
+2026-09-18 11:41,JHG-100130,36.87,Desktop,Credit card,South,Online store,customer100@example.com
+2026-09-18 11:43,JHG-100136,96.68,Mobile,Shop Pay,West,Online store,customer1295@example.com
+2026-09-18 11:48,JHG-100127,32.29,Desktop,PayPal,West,Online store,customer854@example.com
+2026-09-18 12:35,JHG-100125,32.1,Mobile,Shop Pay,Northeast,Online store,customer1106@example.com
+2026-09-18 12:40,JHG-100139,37.07,Mobile,Shop Pay,Northeast,Online store,customer428@example.com
+2026-09-18 13:11,JHG-100122,44.54,Mobile,Shop Pay,Northeast,Online store,customer300@example.com
+2026-09-18 13:30,JHG-100126,80.14,Mobile,Credit card,Midwest,Online store,customer212@example.com
+2026-09-18 13:40,JHG-100135,43.15,Desktop,Credit card,South,Online store,customer127@example.com
+2026-09-18 14:37,JHG-100149,37.53,Desktop,PayPal,West,Online store,customer879@example.com
+2026-09-18 15:08,JHG-100143,26.16,Mobile,Shop Pay,South,Online store,customer9@example.com
+2026-09-18 16:05,JHG-100119,23.5,Desktop,Shop Pay,Northeast,Online store,customer843@example.com
+2026-09-18 16:56,JHG-100133,30.47,Desktop,Shop Pay,South,Online store,customer765@example.com
+2026-09-18 18:08,JHG-100128,53.39,Desktop,PayPal,West,Online store,customer470@example.com
+2026-09-18 18:15,JHG-100145,47.25,Desktop,Shop Pay,South,Online store,customer1206@example.com
+2026-09-18 18:30,JHG-100120,75.57,Desktop,Credit card,Midwest,Online store,customer30@example.com
+2026-09-18 18:39,JHG-100150,32.22,Desktop,Credit card,West,Online store,customer1182@example.com
+2026-09-18 19:01,JHG-100131,42.6,Desktop,Shop Pay,West,Online store,customer1257@example.com
+2026-09-18 19:12,JHG-100138,43.64,Desktop,Credit card,Midwest,Online store,customer847@example.com
+2026-09-18 19:38,JHG-100148,63.75,Desktop,Credit card,Northeast,Online store,customer188@example.com
+2026-09-18 20:05,JHG-100142,51.2,Mobile,Shop Pay,Midwest,Online store,customer308@example.com
+2026-09-18 20:10,JHG-100137,139.61,Mobile,Credit card,West,Online store,customer154@example.com
+2026-09-18 20:42,JHG-100147,71.59,Tablet,Credit card,Midwest,Online store,customer361@example.com
+2026-09-18 22:16,JHG-100141,38.45,Mobile,Shop Pay,Northeast,Online store,customer147@example.com
+2026-09-18 23:17,JHG-100124,29.71,Desktop,PayPal,South,Online store,customer1204@example.com
+2026-09-19 07:13,JHG-100178,43.72,Mobile,Credit card,Northeast,Online store,customer1359@example.com
+2026-09-19 07:32,JHG-100180,42.11,Desktop,Credit card,West,Online store,customer971@example.com
+2026-09-19 07:46,JHG-100168,73.72,Tablet,Credit card,West,Online store,customer204@example.com
+2026-09-19 07:53,JHG-100167,23.54,Desktop,Credit card,West,Online store,customer473@example.com
+2026-09-19 08:00,JHG-100173,71.87,Desktop,Credit card,South,Online store,customer1341@example.com
+2026-09-19 08:12,JHG-100158,59.36,Mobile,Shop Pay,Northeast,Online store,customer402@example.com
+2026-09-19 09:06,JHG-100169,30.06,Mobile,PayPal,West,Online store,customer59@example.com
+2026-09-19 09:07,JHG-100152,64.75,Mobile,Shop Pay,West,Online store,customer266@example.com
+2026-09-19 09:08,JHG-100162,75.58,Desktop,Credit card,West,Online store,customer1046@example.com
+2026-09-19 10:54,JHG-100164,29.09,Mobile,Shop Pay,South,Online store,customer314@example.com
+2026-09-19 11:11,JHG-100160,58.25,Mobile,Shop Pay,South,Online store,customer340@example.com
+2026-09-19 12:17,JHG-100172,48.77,Desktop,Apple Pay,Northeast,Online store,customer433@example.com
+2026-09-19 13:12,JHG-100175,57.36,Mobile,Shop Pay,Northeast,Online store,customer120@example.com
+2026-09-19 13:37,JHG-100156,26.58,Mobile,Credit card,Midwest,Online store,customer4@example.com
+2026-09-19 13:45,JHG-100155,77.15,Mobile,Credit card,Northeast,Online store,customer569@example.com
+2026-09-19 13:47,JHG-100159,50.78,Desktop,PayPal,West,Online store,customer260@example.com
+2026-09-19 13:57,JHG-100184,130.41,Mobile,Shop Pay,West,Online store,customer202@example.com
+2026-09-19 14:49,JHG-100157,63.82,Mobile,Shop Pay,South,Online store,customer477@example.com
+2026-09-19 16:49,JHG-100171,52.67,Tablet,PayPal,West,Online store,customer18@example.com
+2026-09-19 17:10,JHG-100161,45.55,Mobile,Shop Pay,Midwest,Online store,customer103@example.com
+2026-09-19 17:12,JHG-100179,35.73,Mobile,Credit card,West,Instagram shop,customer393@example.com
+2026-09-19 17:38,JHG-100153,45.65,Desktop,Shop Pay,Northeast,Online store,customer468@example.com
+2026-09-19 18:00,JHG-100181,46.09,Desktop,PayPal,West,Online store,customer772@example.com
+2026-09-19 18:38,JHG-100170,126.85,Desktop,Credit card,South,Online store,customer1192@example.com
+2026-09-19 18:52,JHG-100151,26.29,Mobile,Shop Pay,South,Online store,customer66@example.com
+2026-09-19 18:56,JHG-100177,50.2,Desktop,Credit card,Midwest,Online store,customer611@example.com
+2026-09-19 19:12,JHG-100163,55.82,Mobile,PayPal,Northeast,Pinterest,customer1145@example.com
+2026-09-19 19:33,JHG-100182,80.17,Mobile,Shop Pay,West,Online store,customer666@example.com
+2026-09-19 19:59,JHG-100176,27.62,Desktop,Credit card,West,Online store,customer814@example.com
+2026-09-19 20:06,JHG-100166,49.34,Mobile,Shop Pay,Northeast,Online store,customer1062@example.com
+2026-09-19 20:52,JHG-100165,37.53,Tablet,Credit card,West,Online store,customer284@example.com
+2026-09-19 22:03,JHG-100183,93.43,Desktop,Shop Pay,West,Online store,customer681@example.com
+2026-09-19 22:59,JHG-100174,32.47,Desktop,Credit card,South,Online store,customer244@example.com
+2026-09-19 23:21,JHG-100154,46.01,Desktop,PayPal,West,Online store,customer129@example.com
+2026-09-20 00:29,JHG-100196,70.46,Mobile,PayPal,Northeast,Online store,customer866@example.com
+2026-09-20 02:59,JHG-100198,40.77,Tablet,Credit card,West,Online store,customer36@example.com
+2026-09-20 07:11,JHG-100214,65.85,Tablet,PayPal,Northeast,Online store,customer1366@example.com
+2026-09-20 07:33,JHG-100188,52.66,Mobile,Shop Pay,South,Online store,customer1033@example.com
+2026-09-20 09:10,JHG-100202,91.7,Mobile,PayPal,South,Online store,customer476@example.com
+2026-09-20 09:48,JHG-100190,39.93,Mobile,Apple Pay,Northeast,Online store,customer831@example.com
+2026-09-20 10:05,JHG-100210,42.96,Desktop,Credit card,South,Instagram shop,customer1397@example.com
+2026-09-20 11:26,JHG-100204,58.79,Mobile,Credit card,Northeast,Online store,customer857@example.com
+2026-09-20 11:52,JHG-100186,21.13,Desktop,PayPal,West,Online store,customer806@example.com
+2026-09-20 12:07,JHG-100206,57.88,Desktop,Credit card,South,Online store,customer726@example.com
+2026-09-20 12:22,JHG-100197,38.68,Desktop,Shop Pay,South,Instagram shop,customer1087@example.com
+2026-09-20 12:29,JHG-100192,32.25,Desktop,Credit card,West,Online store,customer1335@example.com
+2026-09-20 13:36,JHG-100201,23.85,Mobile,Shop Pay,West,Online store,customer139@example.com
+2026-09-20 13:47,JHG-100185,46.66,Mobile,Shop Pay,Northeast,Pinterest,customer389@example.com
+2026-09-20 14:02,JHG-100200,57.23,Desktop,PayPal,South,Online store,customer998@example.com
+2026-09-20 14:05,JHG-100187,30.26,Desktop,Shop Pay,South,Online store,customer597@example.com
+2026-09-20 14:16,JHG-100205,48.66,Mobile,Apple Pay,South,Online store,customer369@example.com
+2026-09-20 14:27,JHG-100208,31.03,Desktop,Credit card,West,Online store,customer659@example.com
+2026-09-20 16:18,JHG-100189,41.27,Desktop,PayPal,South,Online store,customer610@example.com
+2026-09-20 17:17,JHG-100191,77.51,Mobile,Credit card,West,Online store,customer720@example.com
+2026-09-20 17:27,JHG-100207,33.11,Desktop,Credit card,West,Online store,customer1374@example.com
+2026-09-20 17:36,JHG-100213,47.11,Desktop,Shop Pay,West,Online store,customer290@example.com
+2026-09-20 18:35,JHG-100199,46.67,Mobile,Credit card,South,Online store,customer1246@example.com
+2026-09-20 18:48,JHG-100211,106.87,Mobile,Shop Pay,West,Online store,customer1198@example.com
+2026-09-20 19:25,JHG-100203,58.97,Mobile,Shop Pay,Northeast,Online store,customer1078@example.com
+2026-09-20 19:26,JHG-100215,72.21,Mobile,Shop Pay,South,Online store,customer1288@example.com
+2026-09-20 19:52,JHG-100212,29.43,Mobile,Shop Pay,Northeast,Online store,customer477@example.com
+2026-09-20 20:48,JHG-100194,39.3,Mobile,Credit card,Northeast,Online store,customer510@example.com
+2026-09-20 21:29,JHG-100195,78.58,Mobile,Shop Pay,South,Online store,customer1024@example.com
+2026-09-20 22:41,JHG-100209,49.07,Mobile,Credit card,Northeast,Online store,customer877@example.com
+2026-09-20 22:43,JHG-100193,48.9,Desktop,Credit card,Northeast,Instagram shop,customer411@example.com
+2026-09-21 00:41,JHG-100233,28.24,Mobile,Credit card,Northeast,Pinterest,customer903@example.com
+2026-09-21 09:59,JHG-100224,83.91,Tablet,PayPal,West,Online store,customer1313@example.com
+2026-09-21 10:09,JHG-100231,84.91,Mobile,Credit card,Northeast,Online store,customer1046@example.com
+2026-09-21 12:16,JHG-100220,46.92,Tablet,Credit card,Northeast,Online store,customer1019@example.com
+2026-09-21 12:21,JHG-100246,35.07,Desktop,Apple Pay,South,Online store,customer468@example.com
+2026-09-21 12:47,JHG-100234,27.75,Mobile,Credit card,South,Online store,customer501@example.com
+2026-09-21 13:43,JHG-100227,48.4,Mobile,Credit card,West,Online store,customer1104@example.com
+2026-09-21 15:00,JHG-100241,24.54,Desktop,PayPal,Midwest,Online store,customer681@example.com
+2026-09-21 15:11,JHG-100230,64.83,Mobile,Apple Pay,Midwest,Pinterest,customer844@example.com
+2026-09-21 16:49,JHG-100216,33.55,Tablet,Shop Pay,Northeast,Online store,customer960@example.com
+2026-09-21 16:53,JHG-100221,52.9,Mobile,Credit card,West,Online store,customer1002@example.com
+2026-09-21 17:02,JHG-100225,41.87,Desktop,Credit card,South,Online store,customer125@example.com
+2026-09-21 17:24,JHG-100223,46.19,Mobile,Shop Pay,Midwest,Online store,customer192@example.com
+2026-09-21 17:28,JHG-100219,39.1,Mobile,PayPal,South,Online store,customer1179@example.com
+2026-09-21 17:56,JHG-100237,39.04,Mobile,Shop Pay,West,Online store,customer457@example.com
+2026-09-21 18:12,JHG-100217,53.4,Mobile,Apple Pay,South,Online store,customer155@example.com
+2026-09-21 18:12,JHG-100242,90.92,Desktop,Credit card,Midwest,Online store,customer1121@example.com
+2026-09-21 18:19,JHG-100236,61.85,Desktop,PayPal,Midwest,Online store,customer717@example.com
+2026-09-21 18:40,JHG-100244,25.88,Mobile,Shop Pay,South,Online store,customer993@example.com
+2026-09-21 18:41,JHG-100240,22.41,Mobile,Shop Pay,West,Online store,customer25@example.com
+2026-09-21 18:46,JHG-100232,44.58,Mobile,Shop Pay,Northeast,Online store,customer669@example.com
+2026-09-21 18:53,JHG-100226,27.4,Desktop,Credit card,Northeast,Instagram shop,customer345@example.com
+2026-09-21 19:19,JHG-100228,54.97,Desktop,Credit card,West,Online store,customer796@example.com
+2026-09-21 20:32,JHG-100238,53.78,Desktop,Credit card,Northeast,Online store,customer1131@example.com
+2026-09-21 20:35,JHG-100218,36.56,Desktop,Credit card,Northeast,Online store,customer178@example.com
+2026-09-21 21:27,JHG-100243,24.67,Desktop,PayPal,Midwest,Online store,customer547@example.com
+2026-09-21 21:31,JHG-100239,53.05,Desktop,Shop Pay,South,Online store,customer875@example.com
+2026-09-21 21:43,JHG-100229,55.69,Mobile,PayPal,West,Online store,customer1142@example.com
+2026-09-21 22:08,JHG-100222,44.82,Desktop,Credit card,South,Online store,customer993@example.com
+2026-09-21 22:41,JHG-100245,34.16,Desktop,PayPal,Midwest,Online store,customer326@example.com
+2026-09-21 22:48,JHG-100235,41.56,Tablet,Apple Pay,West,Online store,customer550@example.com
+2026-09-22 02:47,JHG-100276,87.82,Desktop,Credit card,Midwest,Online store,customer728@example.com
+2026-09-22 05:42,JHG-100253,59.68,Mobile,Apple Pay,Northeast,Pinterest,customer213@example.com
+2026-09-22 06:54,JHG-100271,110.09,Mobile,Shop Pay,West,Online store,customer300@example.com
+2026-09-22 07:24,JHG-100269,63.29,Mobile,Apple Pay,West,Online store,customer4@example.com
+2026-09-22 09:08,JHG-100267,58.16,Desktop,Credit card,West,Online store,customer276@example.com
+2026-09-22 09:58,JHG-100274,29.23,Mobile,Credit card,South,Online store,customer1245@example.com
+2026-09-22 11:08,JHG-100254,28.07,Mobile,Shop Pay,South,Online store,customer364@example.com
+2026-09-22 11:37,JHG-100248,55.62,Mobile,Shop Pay,West,Online store,customer938@example.com
+2026-09-22 11:55,JHG-100257,47.79,Mobile,Shop Pay,Northeast,Pinterest,customer610@example.com
+2026-09-22 13:41,JHG-100266,80.01,Mobile,PayPal,Northeast,Online store,customer1125@example.com
+2026-09-22 14:01,JHG-100251,37.54,Mobile,Shop Pay,Midwest,Online store,customer1344@example.com
+2026-09-22 14:18,JHG-100262,30.56,Mobile,Credit card,South,Online store,customer963@example.com
+2026-09-22 15:15,JHG-100256,30.65,Mobile,Shop Pay,South,Online store,customer817@example.com
+2026-09-22 15:52,JHG-100259,70.65,Mobile,Shop Pay,Midwest,Online store,customer668@example.com
+2026-09-22 15:52,JHG-100273,75.99,Mobile,Credit card,West,Pinterest,customer1209@example.com
+2026-09-22 16:06,JHG-100263,46.18,Mobile,Credit card,South,Online store,customer1175@example.com
+2026-09-22 16:09,JHG-100270,41.46,Desktop,PayPal,Midwest,Online store,customer874@example.com
+2026-09-22 16:11,JHG-100260,42.25,Desktop,Shop Pay,Midwest,Online store,customer1119@example.com
+2026-09-22 16:11,JHG-100249,32.66,Mobile,Shop Pay,West,Instagram shop,customer638@example.com
+2026-09-22 16:33,JHG-100275,31.63,Mobile,Shop Pay,West,Online store,customer371@example.com
+2026-09-22 16:38,JHG-100264,34.66,Desktop,Credit card,Midwest,Online store,customer616@example.com
+2026-09-22 17:15,JHG-100250,44.38,Tablet,Apple Pay,Midwest,Online store,customer847@example.com
+2026-09-22 18:48,JHG-100247,24.74,Desktop,Credit card,West,Online store,customer720@example.com
+2026-09-22 19:02,JHG-100258,36.08,Mobile,PayPal,West,Online store,customer455@example.com
+2026-09-22 20:23,JHG-100261,33.21,Desktop,Apple Pay,South,Pinterest,customer658@example.com
+2026-09-22 20:39,JHG-100265,37.49,Mobile,Shop Pay,Northeast,Online store,customer1141@example.com
+2026-09-22 20:47,JHG-100252,36.39,Mobile,Credit card,South,Online store,customer1282@example.com
+2026-09-22 21:01,JHG-100272,26.71,Desktop,PayPal,Northeast,Online store,customer117@example.com
+2026-09-22 21:52,JHG-100268,36.29,Desktop,Apple Pay,Northeast,Online store,customer1345@example.com
+2026-09-22 22:27,JHG-100255,37.85,Mobile,Shop Pay,South,Online store,customer144@example.com
+2026-09-23 07:30,JHG-100279,31.98,Mobile,Shop Pay,Midwest,Online store,customer625@example.com
+2026-09-23 07:50,JHG-100289,35.1,Desktop,Shop Pay,Northeast,Online store,customer323@example.com
+2026-09-23 07:53,JHG-100305,58.44,Mobile,Shop Pay,Midwest,Pinterest,customer1133@example.com
+2026-09-23 09:13,JHG-100308,36.4,Desktop,Credit card,Northeast,Online store,customer1086@example.com
+2026-09-23 09:13,JHG-100284,48.93,Desktop,Credit card,South,Online store,customer459@example.com
+2026-09-23 09:14,JHG-100285,31.32,Desktop,Shop Pay,Northeast,Online store,customer192@example.com
+2026-09-23 10:28,JHG-100280,50.94,Tablet,PayPal,West,Online store,customer250@example.com
+2026-09-23 10:47,JHG-100294,48.75,Desktop,Shop Pay,Northeast,Online store,customer1336@example.com
+2026-09-23 11:42,JHG-100282,50.64,Mobile,Credit card,Northeast,Online store,customer94@example.com
+2026-09-23 11:59,JHG-100277,45.64,Mobile,Apple Pay,West,Online store,customer180@example.com
+2026-09-23 12:51,JHG-100302,140.0,Tablet,Credit card,Northeast,Online store,customer1106@example.com
+2026-09-23 13:06,JHG-100288,40.91,Tablet,PayPal,South,Online store,customer1266@example.com
+2026-09-23 13:40,JHG-100307,43.32,Mobile,Shop Pay,South,Online store,customer916@example.com
+2026-09-23 13:47,JHG-100299,66.24,Desktop,Credit card,Northeast,Online store,customer1369@example.com
+2026-09-23 13:48,JHG-100287,99.65,Mobile,Shop Pay,Northeast,Online store,customer1312@example.com
+2026-09-23 14:45,JHG-100300,46.6,Desktop,Credit card,West,Online store,customer1314@example.com
+2026-09-23 15:01,JHG-100291,80.01,Desktop,Apple Pay,West,Online store,customer255@example.com
+2026-09-23 15:33,JHG-100286,48.59,Mobile,Shop Pay,Northeast,Instagram shop,customer1177@example.com
+2026-09-23 16:17,JHG-100297,48.78,Desktop,Shop Pay,West,Online store,customer479@example.com
+2026-09-23 16:38,JHG-100304,39.5,Mobile,Shop Pay,Midwest,Online store,customer1099@example.com
+2026-09-23 16:50,JHG-100283,36.85,Mobile,Apple Pay,Midwest,Online store,customer784@example.com
+2026-09-23 17:58,JHG-100281,26.91,Desktop,Credit card,South,Online store,customer1125@example.com
+2026-09-23 18:09,JHG-100303,50.53,Desktop,Shop Pay,West,Online store,customer597@example.com
+2026-09-23 19:21,JHG-100301,61.3,Mobile,Shop Pay,South,Online store,customer108@example.com
+2026-09-23 19:24,JHG-100296,28.56,Mobile,Shop Pay,West,Online store,customer1350@example.com
+2026-09-23 19:52,JHG-100292,70.51,Desktop,Shop Pay,Northeast,Instagram shop,customer1125@example.com
+2026-09-23 20:44,JHG-100290,16.05,Mobile,Shop Pay,Northeast,Online store,customer14@example.com
+2026-09-23 21:11,JHG-100298,66.41,Desktop,Credit card,West,Online store,customer1274@example.com
+2026-09-23 21:45,JHG-100295,28.64,Desktop,Credit card,Midwest,Instagram shop,customer665@example.com
+2026-09-23 22:33,JHG-100293,63.69,Desktop,Credit card,West,Online store,customer464@example.com
+2026-09-23 22:59,JHG-100278,29.01,Mobile,Shop Pay,West,Online store,customer402@example.com
+2026-09-23 23:36,JHG-100306,51.71,Desktop,Shop Pay,West,Online store,customer353@example.com
+2026-09-24 00:06,JHG-100313,78.68,Mobile,Shop Pay,South,Online store,customer965@example.com
+2026-09-24 02:34,JHG-100316,26.97,Desktop,Shop Pay,West,Online store,customer287@example.com
+2026-09-24 07:21,JHG-100309,37.75,Mobile,Shop Pay,West,Online store,customer1064@example.com
+2026-09-24 07:45,JHG-100323,35.36,Mobile,Shop Pay,West,Online store,customer473@example.com
+2026-09-24 08:09,JHG-100337,61.52,Desktop,Credit card,South,Online store,customer4@example.com
+2026-09-24 09:32,JHG-100336,28.65,Tablet,Credit card,South,Online store,customer715@example.com
+2026-09-24 09:59,JHG-100321,51.86,Desktop,Credit card,Midwest,Online store,customer712@example.com
+2026-09-24 10:11,JHG-100329,35.62,Desktop,PayPal,West,Online store,customer746@example.com
+2026-09-24 11:11,JHG-100314,40.46,Mobile,Shop Pay,West,Online store,customer1041@example.com
+2026-09-24 11:25,JHG-100319,63.19,Mobile,Credit card,West,Online store,customer332@example.com
+2026-09-24 11:56,JHG-100330,27.51,Desktop,Shop Pay,Northeast,Instagram shop,customer388@example.com
+2026-09-24 12:35,JHG-100320,50.5,Mobile,Shop Pay,Northeast,Pinterest,customer171@example.com
+2026-09-24 13:29,JHG-100334,48.15,Desktop,PayPal,Northeast,Online store,customer316@example.com
+2026-09-24 15:56,JHG-100333,44.19,Mobile,Shop Pay,Midwest,Online store,customer1246@example.com
+2026-09-24 16:09,JHG-100331,39.1,Mobile,Shop Pay,Northeast,Online store,customer1143@example.com
+2026-09-24 16:43,JHG-100335,33.08,Mobile,Shop Pay,West,Online store,customer872@example.com
+2026-09-24 17:44,JHG-100324,47.95,Mobile,Shop Pay,Northeast,Online store,customer1156@example.com
+2026-09-24 17:46,JHG-100317,34.99,Mobile,PayPal,Northeast,Online store,customer770@example.com
+2026-09-24 17:58,JHG-100328,35.38,Mobile,Apple Pay,West,Pinterest,customer1100@example.com
+2026-09-24 18:54,JHG-100325,27.36,Desktop,Shop Pay,South,Online store,customer172@example.com
+2026-09-24 19:28,JHG-100327,51.18,Desktop,Shop Pay,South,Online store,customer878@example.com
+2026-09-24 19:40,JHG-100310,55.17,Desktop,Shop Pay,West,Online store,customer187@example.com
+2026-09-24 19:57,JHG-100311,80.34,Mobile,Credit card,West,Pinterest,customer482@example.com
+2026-09-24 19:58,JHG-100318,35.82,Mobile,Shop Pay,West,Online store,customer364@example.com
+2026-09-24 20:12,JHG-100312,44.55,Mobile,Shop Pay,Midwest,Online store,customer1171@example.com
+2026-09-24 20:49,JHG-100322,46.47,Mobile,Credit card,West,Online store,customer1151@example.com
+2026-09-24 22:05,JHG-100315,75.31,Mobile,Credit card,West,Online store,customer615@example.com
+2026-09-24 23:29,JHG-100332,34.95,Desktop,Credit card,West,Instagram shop,customer805@example.com
+2026-09-24 23:57,JHG-100326,30.49,Mobile,Apple Pay,Northeast,Online store,customer1332@example.com
+2026-09-25 08:21,JHG-100362,36.89,Desktop,PayPal,Northeast,Pinterest,customer959@example.com
+2026-09-25 08:42,JHG-100349,51.25,Mobile,Shop Pay,Northeast,Online store,customer508@example.com
+2026-09-25 09:35,JHG-100354,33.28,Desktop,Apple Pay,Northeast,Online store,customer593@example.com
+2026-09-25 09:52,JHG-100348,41.38,Desktop,Credit card,Midwest,Online store,customer1185@example.com
+2026-09-25 10:46,JHG-100365,87.84,Mobile,Shop Pay,Midwest,Online store,customer900@example.com
+2026-09-25 11:21,JHG-100364,40.31,Desktop,Credit card,West,Online store,customer823@example.com
+2026-09-25 11:35,JHG-100356,83.78,Desktop,Shop Pay,Midwest,Online store,customer579@example.com
+2026-09-25 11:44,JHG-100368,27.12,Desktop,Shop Pay,West,Online store,customer386@example.com
+2026-09-25 11:45,JHG-100350,53.56,Desktop,Credit card,Midwest,Online store,customer584@example.com
+2026-09-25 12:17,JHG-100363,34.8,Mobile,Shop Pay,West,Online store,customer903@example.com
+2026-09-25 12:20,JHG-100361,55.77,Mobile,PayPal,Northeast,Pinterest,customer853@example.com
+2026-09-25 12:42,JHG-100341,57.57,Mobile,Shop Pay,West,Online store,customer701@example.com
+2026-09-25 13:24,JHG-100359,51.77,Desktop,Credit card,West,Online store,customer815@example.com
+2026-09-25 13:32,JHG-100360,39.72,Tablet,Shop Pay,Northeast,Online store,customer899@example.com
+2026-09-25 14:07,JHG-100351,44.88,Mobile,Credit card,West,Instagram shop,customer1190@example.com
+2026-09-25 14:38,JHG-100338,40.47,Desktop,Credit card,South,Online store,customer888@example.com
+2026-09-25 15:01,JHG-100367,67.58,Desktop,PayPal,Northeast,Online store,customer663@example.com
+2026-09-25 16:28,JHG-100347,43.92,Mobile,Shop Pay,South,Online store,customer15@example.com
+2026-09-25 18:07,JHG-100352,49.17,Mobile,Apple Pay,Midwest,Online store,customer830@example.com
+2026-09-25 19:19,JHG-100357,50.7,Mobile,Shop Pay,Northeast,Online store,customer1371@example.com
+2026-09-25 19:24,JHG-100353,25.14,Desktop,Credit card,South,Online store,customer794@example.com
+2026-09-25 20:33,JHG-100343,35.44,Desktop,Shop Pay,West,Online store,customer1302@example.com
+2026-09-25 20:36,JHG-100344,49.37,Desktop,Credit card,Northeast,Online store,customer664@example.com
+2026-09-25 20:39,JHG-100345,40.3,Mobile,Apple Pay,Northeast,Online store,customer830@example.com
+2026-09-25 20:45,JHG-100342,49.18,Desktop,Credit card,West,Online store,customer891@example.com
+2026-09-25 20:55,JHG-100358,23.64,Desktop,Credit card,West,Online store,customer556@example.com
+2026-09-25 21:10,JHG-100355,68.56,Desktop,Shop Pay,Midwest,Instagram shop,customer332@example.com
+2026-09-25 21:32,JHG-100366,61.29,Mobile,Credit card,South,Online store,customer38@example.com
+2026-09-25 21:45,JHG-100369,60.94,Mobile,PayPal,South,Online store,customer1024@example.com
+2026-09-25 21:50,JHG-100346,43.31,Mobile,Shop Pay,South,Online store,customer503@example.com
+2026-09-25 22:04,JHG-100339,34.09,Desktop,PayPal,Midwest,Online store,customer61@example.com
+2026-09-25 22:11,JHG-100340,68.62,Desktop,Credit card,Northeast,Online store,customer619@example.com
+2026-09-26 08:12,JHG-100376,42.98,Mobile,Credit card,Northeast,Online store,customer697@example.com
+2026-09-26 08:14,JHG-100377,52.06,Desktop,Shop Pay,West,Online store,customer1158@example.com
+2026-09-26 08:59,JHG-100387,54.27,Mobile,Shop Pay,West,Instagram shop,customer1388@example.com
+2026-09-26 09:10,JHG-100394,21.68,Mobile,PayPal,South,Online store,customer916@example.com
+2026-09-26 11:03,JHG-100385,56.31,Desktop,Credit card,West,Online store,customer623@example.com
+2026-09-26 11:28,JHG-100395,48.67,Mobile,Apple Pay,Midwest,Online store,customer947@example.com
+2026-09-26 11:49,JHG-100390,50.81,Mobile,Credit card,South,Online store,customer1038@example.com
+2026-09-26 12:03,JHG-100374,33.04,Desktop,Shop Pay,West,Online store,customer4@example.com
+2026-09-26 12:03,JHG-100400,50.15,Mobile,Shop Pay,South,Instagram shop,customer54@example.com
+2026-09-26 12:49,JHG-100370,56.38,Mobile,Shop Pay,South,Online store,customer132@example.com
+2026-09-26 12:53,JHG-100402,54.58,Mobile,Shop Pay,South,Online store,customer1165@example.com
+2026-09-26 13:11,JHG-100372,33.59,Tablet,Credit card,Northeast,Online store,customer1143@example.com
+2026-09-26 13:47,JHG-100401,23.81,Mobile,Shop Pay,Midwest,Online store,customer1043@example.com
+2026-09-26 14:45,JHG-100393,62.54,Desktop,Credit card,South,Online store,customer553@example.com
+2026-09-26 14:46,JHG-100371,16.29,Desktop,Credit card,West,Online store,customer1033@example.com
+2026-09-26 15:42,JHG-100389,54.54,Mobile,Credit card,South,Online store,customer52@example.com
+2026-09-26 16:55,JHG-100392,40.72,Mobile,Shop Pay,Northeast,Online store,customer944@example.com
+2026-09-26 17:11,JHG-100398,44.33,Desktop,Shop Pay,South,Online store,customer56@example.com
+2026-09-26 17:24,JHG-100375,64.14,Desktop,PayPal,South,Online store,customer1112@example.com
+2026-09-26 17:52,JHG-100373,22.56,Mobile,Credit card,Midwest,Online store,customer207@example.com
+2026-09-26 17:54,JHG-100396,69.1,Mobile,PayPal,Northeast,Instagram shop,customer491@example.com
+2026-09-26 17:58,JHG-100380,40.73,Desktop,Apple Pay,Midwest,Online store,customer1162@example.com
+2026-09-26 18:23,JHG-100378,68.29,Desktop,Credit card,South,Online store,customer443@example.com
+2026-09-26 19:14,JHG-100384,53.32,Mobile,Credit card,South,Online store,customer1031@example.com
+2026-09-26 20:06,JHG-100382,57.55,Mobile,Shop Pay,West,Online store,customer488@example.com
+2026-09-26 20:41,JHG-100388,82.16,Mobile,Shop Pay,Midwest,Online store,customer377@example.com
+2026-09-26 20:47,JHG-100386,50.81,Desktop,PayPal,West,Online store,customer1204@example.com
+2026-09-26 20:52,JHG-100379,33.46,Mobile,Credit card,Northeast,Online store,customer1224@example.com
+2026-09-26 21:11,JHG-100397,77.73,Mobile,Shop Pay,South,Online store,customer826@example.com
+2026-09-26 21:19,JHG-100399,55.95,Mobile,Shop Pay,Midwest,Online store,customer569@example.com
+2026-09-26 21:19,JHG-100403,28.23,Desktop,PayPal,Northeast,Online store,customer1227@example.com
+2026-09-26 21:41,JHG-100391,57.07,Desktop,PayPal,West,Online store,customer404@example.com
+2026-09-26 21:45,JHG-100381,35.74,Mobile,Apple Pay,South,Online store,customer107@example.com
+2026-09-26 23:14,JHG-100383,53.5,Desktop,PayPal,West,Online store,customer1376@example.com
+2026-09-27 06:09,JHG-100418,43.11,Desktop,Shop Pay,West,Online store,customer977@example.com
+2026-09-27 06:18,JHG-100422,60.69,Mobile,PayPal,Northeast,Online store,customer1067@example.com
+2026-09-27 07:53,JHG-100430,48.94,Desktop,Shop Pay,Northeast,Online store,customer709@example.com
+2026-09-27 08:35,JHG-100405,56.21,Desktop,Credit card,South,Instagram shop,customer927@example.com
+2026-09-27 08:50,JHG-100408,49.73,Tablet,PayPal,Northeast,Online store,customer648@example.com
+2026-09-27 09:45,JHG-100417,71.66,Desktop,Shop Pay,Northeast,Online store,customer609@example.com
+2026-09-27 09:47,JHG-100425,108.93,Mobile,Shop Pay,Northeast,Online store,customer934@example.com
+2026-09-27 10:20,JHG-100416,51.86,Mobile,Credit card,West,Online store,customer299@example.com
+2026-09-27 11:10,JHG-100413,80.35,Desktop,Credit card,South,Online store,customer890@example.com
+2026-09-27 11:27,JHG-100429,35.31,Mobile,Credit card,West,Online store,customer350@example.com
+2026-09-27 12:28,JHG-100428,42.17,Desktop,PayPal,Northeast,Online store,customer32@example.com
+2026-09-27 12:53,JHG-100426,47.38,Tablet,PayPal,Northeast,Online store,customer1105@example.com
+2026-09-27 13:01,JHG-100410,29.37,Desktop,Shop Pay,West,Online store,customer1072@example.com
+2026-09-27 13:31,JHG-100406,36.2,Desktop,PayPal,West,Online store,customer1351@example.com
+2026-09-27 14:04,JHG-100407,80.29,Mobile,Shop Pay,West,Instagram shop,customer657@example.com
+2026-09-27 14:23,JHG-100411,73.59,Desktop,Apple Pay,Midwest,Online store,customer1343@example.com
+2026-09-27 14:33,JHG-100409,33.88,Desktop,PayPal,Northeast,Instagram shop,customer201@example.com
+2026-09-27 14:34,JHG-100415,72.88,Desktop,PayPal,South,Instagram shop,customer749@example.com
+2026-09-27 15:02,JHG-100427,50.19,Mobile,Shop Pay,West,Online store,customer1007@example.com
+2026-09-27 15:27,JHG-100420,45.51,Mobile,Shop Pay,West,Online store,customer254@example.com
+2026-09-27 17:43,JHG-100431,58.73,Mobile,Credit card,Northeast,Online store,customer725@example.com
+2026-09-27 19:52,JHG-100404,46.09,Mobile,Shop Pay,Midwest,Online store,customer1250@example.com
+2026-09-27 20:36,JHG-100421,99.57,Desktop,PayPal,Midwest,Online store,customer256@example.com
+2026-09-27 20:44,JHG-100412,49.92,Desktop,Credit card,South,Online store,customer1322@example.com
+2026-09-27 20:53,JHG-100414,42.96,Mobile,Shop Pay,Midwest,Online store,customer1227@example.com
+2026-09-27 21:18,JHG-100424,44.99,Mobile,Shop Pay,West,Online store,customer290@example.com
+2026-09-27 21:39,JHG-100419,32.0,Mobile,Credit card,South,Online store,customer433@example.com
+2026-09-27 21:44,JHG-100423,48.88,Mobile,Credit card,Northeast,Online store,customer1296@example.com
+2026-09-28 00:50,JHG-100458,67.9,Mobile,Apple Pay,West,Online store,customer1018@example.com
+2026-09-28 03:25,JHG-100436,59.6,Desktop,PayPal,Northeast,Online store,customer1173@example.com
+2026-09-28 07:48,JHG-100446,110.98,Mobile,Apple Pay,West,Online store,customer359@example.com
+2026-09-28 10:29,JHG-100450,33.66,Desktop,PayPal,South,Online store,customer412@example.com
+2026-09-28 11:12,JHG-100440,63.65,Mobile,Credit card,Northeast,Online store,customer543@example.com
+2026-09-28 11:39,JHG-100459,67.29,Desktop,Credit card,South,Online store,customer696@example.com
+2026-09-28 12:05,JHG-100432,69.77,Mobile,Shop Pay,Midwest,Instagram shop,customer484@example.com
+2026-09-28 12:08,JHG-100438,46.84,Mobile,Shop Pay,Midwest,Online store,customer996@example.com
+2026-09-28 12:20,JHG-100435,32.25,Desktop,Credit card,Northeast,Online store,customer418@example.com
+2026-09-28 13:21,JHG-100434,58.2,Mobile,Shop Pay,Midwest,Online store,customer1196@example.com
+2026-09-28 15:30,JHG-100437,39.94,Mobile,Shop Pay,West,Online store,customer434@example.com
+2026-09-28 15:33,JHG-100457,52.58,Mobile,Credit card,Northeast,Online store,customer402@example.com
+2026-09-28 16:07,JHG-100433,40.15,Mobile,Shop Pay,Northeast,Instagram shop,customer44@example.com
+2026-09-28 16:28,JHG-100448,45.02,Mobile,Shop Pay,West,Online store,customer1381@example.com
+2026-09-28 17:11,JHG-100439,21.73,Mobile,Shop Pay,West,Instagram shop,customer1024@example.com
+2026-09-28 17:45,JHG-100452,66.47,Desktop,PayPal,Midwest,Online store,customer564@example.com
+2026-09-28 18:09,JHG-100453,52.61,Mobile,Shop Pay,South,Online store,customer30@example.com
+2026-09-28 18:55,JHG-100454,39.75,Mobile,Credit card,West,Online store,customer1131@example.com
+2026-09-28 19:09,JHG-100445,47.83,Desktop,Credit card,South,Online store,customer590@example.com
+2026-09-28 20:20,JHG-100451,21.39,Desktop,PayPal,West,Online store,customer563@example.com
+2026-09-28 20:35,JHG-100447,21.87,Mobile,Shop Pay,Midwest,Instagram shop,customer1112@example.com
+2026-09-28 20:39,JHG-100455,57.39,Desktop,Credit card,Midwest,Online store,customer1220@example.com
+2026-09-28 20:50,JHG-100449,70.28,Desktop,PayPal,Northeast,Online store,customer638@example.com
+2026-09-28 21:14,JHG-100441,30.15,Desktop,PayPal,Northeast,Online store,customer430@example.com
+2026-09-28 21:32,JHG-100444,43.06,Mobile,Shop Pay,South,Online store,customer384@example.com
+2026-09-28 22:30,JHG-100443,59.16,Desktop,Shop Pay,Northeast,Online store,customer1009@example.com
+2026-09-28 22:39,JHG-100456,56.51,Desktop,Shop Pay,West,Online store,customer131@example.com
+2026-09-28 22:56,JHG-100442,27.07,Mobile,Apple Pay,Midwest,Online store,customer1093@example.com
+2026-09-29 07:14,JHG-100476,60.28,Mobile,Shop Pay,Northeast,Online store,customer755@example.com
+2026-09-29 09:14,JHG-100462,66.77,Mobile,Shop Pay,South,Online store,customer436@example.com
+2026-09-29 10:22,JHG-100478,44.47,Mobile,Shop Pay,South,Online store,customer1209@example.com
+2026-09-29 11:19,JHG-100460,57.9,Desktop,Credit card,Midwest,Online store,customer540@example.com
+2026-09-29 11:22,JHG-100484,30.66,Mobile,Credit card,West,Online store,customer1348@example.com
+2026-09-29 11:34,JHG-100472,66.08,Desktop,Credit card,South,Online store,customer309@example.com
+2026-09-29 13:52,JHG-100471,44.4,Mobile,Shop Pay,West,Instagram shop,customer234@example.com
+2026-09-29 14:03,JHG-100473,98.71,Mobile,Shop Pay,Northeast,Online store,customer475@example.com
+2026-09-29 14:20,JHG-100464,33.94,Desktop,PayPal,Northeast,Instagram shop,customer257@example.com
+2026-09-29 14:41,JHG-100480,50.05,Desktop,PayPal,Northeast,Online store,customer782@example.com
+2026-09-29 15:10,JHG-100474,66.07,Tablet,Shop Pay,Midwest,Online store,customer1155@example.com
+2026-09-29 15:30,JHG-100466,29.58,Mobile,Shop Pay,South,Online store,customer626@example.com
+2026-09-29 16:05,JHG-100475,46.89,Desktop,Credit card,West,Online store,customer1336@example.com
+2026-09-29 16:42,JHG-100467,23.0,Desktop,Shop Pay,West,Online store,customer463@example.com
+2026-09-29 16:48,JHG-100483,81.26,Mobile,Credit card,West,Online store,customer740@example.com
+2026-09-29 17:00,JHG-100481,40.26,Mobile,Shop Pay,West,Online store,customer604@example.com
+2026-09-29 17:08,JHG-100468,41.25,Mobile,PayPal,Midwest,Online store,customer332@example.com
+2026-09-29 17:19,JHG-100465,45.24,Desktop,Credit card,South,Online store,customer782@example.com
+2026-09-29 17:42,JHG-100479,44.6,Tablet,Shop Pay,South,Instagram shop,customer200@example.com
+2026-09-29 18:16,JHG-100461,90.04,Tablet,Credit card,Northeast,Online store,customer131@example.com
+2026-09-29 19:06,JHG-100482,45.12,Desktop,PayPal,South,Online store,customer603@example.com
+2026-09-29 19:34,JHG-100487,54.84,Desktop,Credit card,Northeast,Online store,customer577@example.com
+2026-09-29 19:46,JHG-100470,72.86,Desktop,Credit card,South,Online store,customer354@example.com
+2026-09-29 20:00,JHG-100486,52.39,Desktop,PayPal,South,Online store,customer370@example.com
+2026-09-29 20:25,JHG-100488,33.7,Desktop,Credit card,Northeast,Online store,customer197@example.com
+2026-09-29 20:28,JHG-100463,40.77,Mobile,Credit card,West,Online store,customer559@example.com
+2026-09-29 20:58,JHG-100477,32.95,Desktop,Shop Pay,South,Online store,customer1259@example.com
+2026-09-29 21:06,JHG-100469,37.78,Desktop,PayPal,South,Online store,customer746@example.com
+2026-09-29 22:23,JHG-100485,42.19,Desktop,Credit card,South,Online store,customer156@example.com
+2026-09-30 00:08,JHG-100509,78.15,Mobile,Shop Pay,West,Online store,customer1273@example.com
+2026-09-30 04:55,JHG-100505,35.8,Mobile,Shop Pay,West,Online store,customer108@example.com
+2026-09-30 05:01,JHG-100512,46.78,Desktop,PayPal,South,Instagram shop,customer331@example.com
+2026-09-30 07:22,JHG-100498,22.83,Mobile,Shop Pay,Midwest,Online store,customer525@example.com
+2026-09-30 08:19,JHG-100497,28.14,Desktop,Shop Pay,Northeast,Online store,customer37@example.com
+2026-09-30 08:23,JHG-100517,54.25,Mobile,Shop Pay,West,Instagram shop,customer490@example.com
+2026-09-30 09:21,JHG-100491,27.88,Mobile,PayPal,Midwest,Online store,customer507@example.com
+2026-09-30 09:58,JHG-100511,26.48,Desktop,Credit card,South,Online store,customer77@example.com
+2026-09-30 10:48,JHG-100513,48.76,Mobile,Shop Pay,Midwest,Online store,customer834@example.com
+2026-09-30 11:21,JHG-100510,47.95,Mobile,Shop Pay,West,Online store,customer559@example.com
+2026-09-30 12:09,JHG-100489,38.56,Mobile,Shop Pay,West,Online store,customer628@example.com
+2026-09-30 12:35,JHG-100507,32.41,Mobile,Shop Pay,West,Instagram shop,customer235@example.com
+2026-09-30 12:54,JHG-100496,57.83,Desktop,Credit card,West,Online store,customer120@example.com
+2026-09-30 13:47,JHG-100515,25.99,Desktop,Credit card,West,Pinterest,customer97@example.com
+2026-09-30 14:00,JHG-100508,44.44,Desktop,PayPal,Northeast,Online store,customer290@example.com
+2026-09-30 16:10,JHG-100501,44.07,Mobile,Apple Pay,West,Online store,customer486@example.com
+2026-09-30 16:51,JHG-100493,45.67,Mobile,PayPal,West,Online store,customer774@example.com
+2026-09-30 17:01,JHG-100514,35.83,Mobile,PayPal,West,Online store,customer1100@example.com
+2026-09-30 17:05,JHG-100495,45.31,Mobile,Shop Pay,West,Online store,customer1317@example.com
+2026-09-30 17:20,JHG-100500,62.26,Mobile,Shop Pay,Northeast,Instagram shop,customer644@example.com
+2026-09-30 18:30,JHG-100502,42.93,Mobile,Shop Pay,West,Online store,customer585@example.com
+2026-09-30 18:41,JHG-100503,46.32,Mobile,Shop Pay,Northeast,Online store,customer1110@example.com
+2026-09-30 19:34,JHG-100499,36.49,Mobile,Credit card,South,Online store,customer1093@example.com
+2026-09-30 19:56,JHG-100490,41.32,Tablet,Credit card,South,Online store,customer490@example.com
+2026-09-30 21:38,JHG-100504,39.91,Mobile,Shop Pay,West,Online store,customer97@example.com
+2026-09-30 21:44,JHG-100492,26.45,Mobile,Apple Pay,South,Online store,customer341@example.com
+2026-09-30 22:27,JHG-100516,73.45,Mobile,Shop Pay,West,Online store,customer1059@example.com
+2026-09-30 23:47,JHG-100494,90.58,Desktop,Credit card,Northeast,Online store,customer1045@example.com
+2026-09-30 23:55,JHG-100506,68.64,Desktop,Credit card,West,Online store,customer478@example.com
+2026-10-01 00:08,JHG-100549,65.14,Desktop,Credit card,Midwest,Online store,customer552@example.com
+2026-10-01 03:37,JHG-100544,39.84,Desktop,Shop Pay,Northeast,Online store,customer440@example.com
+2026-10-01 04:20,JHG-100519,25.88,Mobile,Credit card,West,Online store,customer1163@example.com
+2026-10-01 06:34,JHG-100531,85.43,Mobile,Shop Pay,Midwest,Online store,customer671@example.com
+2026-10-01 07:29,JHG-100520,50.09,Mobile,Apple Pay,South,Online store,customer330@example.com
+2026-10-01 07:52,JHG-100521,14.13,Desktop,PayPal,Midwest,Online store,customer48@example.com
+2026-10-01 07:55,JHG-100529,36.62,Mobile,Shop Pay,Northeast,Instagram shop,customer678@example.com
+2026-10-01 08:32,JHG-100538,20.3,Desktop,PayPal,South,Online store,customer685@example.com
+2026-10-01 10:20,JHG-100534,75.63,Mobile,Shop Pay,Midwest,Online store,customer39@example.com
+2026-10-01 10:43,JHG-100518,44.29,Mobile,Credit card,West,Online store,customer266@example.com
+2026-10-01 11:08,JHG-100528,57.6,Tablet,Apple Pay,West,Online store,customer1114@example.com
+2026-10-01 11:31,JHG-100539,56.35,Mobile,Shop Pay,South,Online store,customer574@example.com
+2026-10-01 11:36,JHG-100523,53.14,Desktop,Credit card,West,Online store,customer576@example.com
+2026-10-01 13:16,JHG-100526,62.32,Desktop,PayPal,South,Online store,customer80@example.com
+2026-10-01 13:34,JHG-100550,51.79,Desktop,Credit card,West,Pinterest,customer604@example.com
+2026-10-01 13:40,JHG-100548,61.0,Tablet,Credit card,South,Online store,customer1047@example.com
+2026-10-01 13:47,JHG-100540,45.55,Mobile,Shop Pay,West,Online store,customer367@example.com
+2026-10-01 13:49,JHG-100537,25.16,Mobile,Apple Pay,Northeast,Online store,customer1212@example.com
+2026-10-01 15:05,JHG-100532,71.69,Mobile,Apple Pay,South,Online store,customer1227@example.com
+2026-10-01 16:41,JHG-100530,34.23,Desktop,PayPal,Northeast,Online store,customer677@example.com
+2026-10-01 17:12,JHG-100545,24.54,Mobile,Shop Pay,West,Instagram shop,customer809@example.com
+2026-10-01 17:51,JHG-100543,96.05,Mobile,Apple Pay,South,Online store,customer914@example.com
+2026-10-01 17:55,JHG-100535,34.06,Tablet,Credit card,West,Pinterest,customer424@example.com
+2026-10-01 18:18,JHG-100536,29.0,Desktop,PayPal,West,Online store,customer481@example.com
+2026-10-01 18:27,JHG-100547,32.4,Mobile,PayPal,West,Online store,customer296@example.com
+2026-10-01 18:42,JHG-100541,36.8,Tablet,Shop Pay,Northeast,Online store,customer474@example.com
+2026-10-01 19:19,JHG-100546,42.5,Mobile,Shop Pay,Midwest,Online store,customer552@example.com
+2026-10-01 19:37,JHG-100533,48.33,Mobile,Credit card,South,Online store,customer1060@example.com
+2026-10-01 19:59,JHG-100527,33.92,Mobile,Shop Pay,West,Online store,customer39@example.com
+2026-10-01 20:42,JHG-100525,19.43,Desktop,Credit card,West,Online store,customer832@example.com
+2026-10-01 20:49,JHG-100524,47.01,Mobile,Shop Pay,Northeast,Online store,customer845@example.com
+2026-10-01 21:19,JHG-100542,46.77,Desktop,PayPal,Midwest,Online store,customer503@example.com
+2026-10-01 21:50,JHG-100522,28.15,Mobile,Shop Pay,West,Online store,customer168@example.com
+2026-10-02 00:12,JHG-100581,44.34,Mobile,Credit card,West,Online store,customer1330@example.com
+2026-10-02 03:46,JHG-100575,62.27,Desktop,Credit card,West,Instagram shop,customer1051@example.com
+2026-10-02 07:23,JHG-100571,54.66,Mobile,Shop Pay,West,Instagram shop,customer384@example.com
+2026-10-02 10:03,JHG-100561,65.39,Mobile,Credit card,Northeast,Online store,customer844@example.com
+2026-10-02 10:18,JHG-100555,43.48,Mobile,Shop Pay,Midwest,Online store,customer210@example.com
+2026-10-02 10:20,JHG-100563,40.47,Mobile,Shop Pay,Northeast,Online store,customer1001@example.com
+2026-10-02 11:15,JHG-100553,22.13,Mobile,PayPal,Midwest,Online store,customer1305@example.com
+2026-10-02 11:25,JHG-100579,53.09,Mobile,Credit card,Northeast,Online store,customer694@example.com
+2026-10-02 11:57,JHG-100576,40.21,Mobile,Credit card,Northeast,Online store,customer658@example.com
+2026-10-02 12:08,JHG-100577,59.08,Desktop,Credit card,West,Instagram shop,customer1225@example.com
+2026-10-02 12:21,JHG-100572,43.41,Desktop,Credit card,West,Online store,customer393@example.com
+2026-10-02 12:50,JHG-100569,39.28,Mobile,PayPal,Northeast,Online store,customer103@example.com
+2026-10-02 13:10,JHG-100564,71.83,Desktop,Shop Pay,South,Online store,customer195@example.com
+2026-10-02 13:18,JHG-100565,78.99,Desktop,Credit card,Midwest,Online store,customer522@example.com
+2026-10-02 13:26,JHG-100574,42.94,Desktop,PayPal,West,Online store,customer564@example.com
+2026-10-02 13:52,JHG-100558,41.32,Desktop,Credit card,Midwest,Instagram shop,customer378@example.com
+2026-10-02 14:12,JHG-100557,97.94,Mobile,Shop Pay,Northeast,Online store,customer1086@example.com
+2026-10-02 15:22,JHG-100567,37.61,Desktop,PayPal,Midwest,Online store,customer13@example.com
+2026-10-02 15:26,JHG-100568,45.38,Desktop,PayPal,West,Online store,customer364@example.com
+2026-10-02 15:28,JHG-100566,66.61,Mobile,PayPal,South,Instagram shop,customer295@example.com
+2026-10-02 16:15,JHG-100554,37.02,Mobile,Shop Pay,West,Online store,customer765@example.com
+2026-10-02 17:25,JHG-100580,54.27,Mobile,Apple Pay,Midwest,Online store,customer232@example.com
+2026-10-02 17:29,JHG-100551,24.31,Desktop,PayPal,South,Instagram shop,customer69@example.com
+2026-10-02 17:37,JHG-100562,43.89,Mobile,Apple Pay,Midwest,Online store,customer525@example.com
+2026-10-02 18:08,JHG-100573,60.81,Mobile,Shop Pay,West,Online store,customer152@example.com
+2026-10-02 18:45,JHG-100560,36.32,Mobile,Credit card,Northeast,Online store,customer524@example.com
+2026-10-02 20:06,JHG-100556,33.66,Desktop,PayPal,Midwest,Online store,customer580@example.com
+2026-10-02 21:23,JHG-100559,60.42,Desktop,Shop Pay,South,Online store,customer386@example.com
+2026-10-02 21:42,JHG-100578,44.58,Mobile,Shop Pay,Midwest,Online store,customer91@example.com
+2026-10-02 21:54,JHG-100552,66.29,Mobile,Apple Pay,South,Online store,customer1239@example.com
+2026-10-02 22:20,JHG-100570,43.55,Mobile,Shop Pay,West,Online store,customer956@example.com
+2026-10-03 00:26,JHG-100583,76.66,Desktop,Credit card,West,Online store,customer921@example.com
+2026-10-03 08:39,JHG-100592,55.24,Mobile,Credit card,Midwest,Online store,customer1147@example.com
+2026-10-03 08:54,JHG-100607,63.76,Desktop,PayPal,South,Online store,customer525@example.com
+2026-10-03 09:01,JHG-100596,32.8,Mobile,Shop Pay,Midwest,Online store,customer852@example.com
+2026-10-03 09:47,JHG-100610,28.43,Mobile,Shop Pay,West,Instagram shop,customer818@example.com
+2026-10-03 10:01,JHG-100600,38.41,Mobile,Credit card,Midwest,Online store,customer1046@example.com
+2026-10-03 10:04,JHG-100611,18.77,Desktop,PayPal,Northeast,Online store,customer353@example.com
+2026-10-03 10:14,JHG-100601,53.7,Desktop,Credit card,Midwest,Online store,customer1247@example.com
+2026-10-03 10:29,JHG-100609,36.51,Desktop,Credit card,West,Online store,customer311@example.com
+2026-10-03 11:10,JHG-100590,47.0,Desktop,Credit card,South,Online store,customer216@example.com
+2026-10-03 11:52,JHG-100589,48.97,Mobile,Shop Pay,Midwest,Online store,customer387@example.com
+2026-10-03 12:37,JHG-100606,31.96,Mobile,Shop Pay,Midwest,Online store,customer819@example.com
+2026-10-03 12:37,JHG-100595,37.99,Desktop,Credit card,South,Online store,customer638@example.com
+2026-10-03 13:06,JHG-100597,38.12,Mobile,Shop Pay,West,Online store,customer516@example.com
+2026-10-03 13:09,JHG-100582,35.17,Mobile,Shop Pay,South,Online store,customer906@example.com
+2026-10-03 13:56,JHG-100599,67.08,Desktop,Credit card,Northeast,Online store,customer573@example.com
+2026-10-03 14:01,JHG-100608,43.24,Desktop,Credit card,Midwest,Online store,customer661@example.com
+2026-10-03 16:56,JHG-100591,48.32,Desktop,Shop Pay,Midwest,Online store,customer681@example.com
+2026-10-03 16:58,JHG-100593,63.54,Desktop,Credit card,Midwest,Online store,customer70@example.com
+2026-10-03 16:58,JHG-100586,60.36,Tablet,Shop Pay,Midwest,Online store,customer40@example.com
+2026-10-03 18:11,JHG-100594,31.7,Mobile,Shop Pay,South,Pinterest,customer632@example.com
+2026-10-03 18:12,JHG-100605,25.41,Mobile,Credit card,West,Online store,customer816@example.com
+2026-10-03 19:32,JHG-100604,56.51,Mobile,Shop Pay,Midwest,Online store,customer350@example.com
+2026-10-03 19:45,JHG-100603,52.53,Tablet,Apple Pay,Northeast,Online store,customer896@example.com
+2026-10-03 20:13,JHG-100598,49.5,Mobile,Apple Pay,Northeast,Online store,customer711@example.com
+2026-10-03 20:57,JHG-100588,44.7,Desktop,PayPal,Midwest,Online store,customer392@example.com
+2026-10-03 21:33,JHG-100585,55.69,Mobile,Shop Pay,Midwest,Online store,customer834@example.com
+2026-10-03 21:35,JHG-100587,58.07,Desktop,Credit card,Midwest,Online store,customer140@example.com
+2026-10-03 22:12,JHG-100584,80.78,Mobile,PayPal,Northeast,Online store,customer345@example.com
+2026-10-03 22:30,JHG-100602,45.75,Mobile,Shop Pay,South,Online store,customer274@example.com
+2026-10-04 06:37,JHG-100620,30.57,Mobile,Credit card,Northeast,Online store,customer513@example.com
+2026-10-04 07:59,JHG-100625,34.83,Mobile,Credit card,West,Online store,customer17@example.com
+2026-10-04 08:53,JHG-100633,41.62,Desktop,Apple Pay,Northeast,Online store,customer156@example.com
+2026-10-04 09:01,JHG-100621,47.57,Mobile,Apple Pay,West,Online store,customer473@example.com
+2026-10-04 09:49,JHG-100641,41.58,Tablet,Credit card,South,Online store,customer804@example.com
+2026-10-04 10:25,JHG-100615,44.49,Mobile,Shop Pay,West,Online store,customer176@example.com
+2026-10-04 11:06,JHG-100635,57.0,Mobile,Credit card,West,Instagram shop,customer1008@example.com
+2026-10-04 11:17,JHG-100623,16.92,Tablet,PayPal,South,Online store,customer909@example.com
+2026-10-04 11:18,JHG-100616,17.12,Desktop,Credit card,South,Online store,customer42@example.com
+2026-10-04 12:18,JHG-100639,38.36,Mobile,Shop Pay,Midwest,Online store,customer1193@example.com
+2026-10-04 13:08,JHG-100628,19.33,Desktop,Credit card,West,Online store,customer363@example.com
+2026-10-04 13:10,JHG-100626,35.52,Mobile,Credit card,West,Instagram shop,customer524@example.com
+2026-10-04 13:14,JHG-100617,49.25,Mobile,Shop Pay,Northeast,Online store,customer737@example.com
+2026-10-04 13:20,JHG-100612,34.67,Desktop,Credit card,West,Pinterest,customer1281@example.com
+2026-10-04 13:21,JHG-100638,67.18,Desktop,Shop Pay,Midwest,Online store,customer181@example.com
+2026-10-04 13:51,JHG-100624,46.41,Desktop,Credit card,West,Pinterest,customer772@example.com
+2026-10-04 14:04,JHG-100614,36.63,Mobile,Shop Pay,South,Online store,customer314@example.com
+2026-10-04 14:31,JHG-100636,51.19,Tablet,PayPal,Midwest,Instagram shop,customer1097@example.com
+2026-10-04 15:07,JHG-100637,114.22,Desktop,Credit card,West,Online store,customer824@example.com
+2026-10-04 15:14,JHG-100613,24.82,Desktop,Shop Pay,West,Online store,customer1355@example.com
+2026-10-04 15:22,JHG-100632,62.43,Mobile,PayPal,Northeast,Online store,customer1258@example.com
+2026-10-04 16:40,JHG-100619,40.11,Mobile,Shop Pay,West,Instagram shop,customer325@example.com
+2026-10-04 16:43,JHG-100627,66.57,Mobile,Credit card,South,Online store,customer148@example.com
+2026-10-04 17:18,JHG-100640,33.64,Desktop,Credit card,South,Online store,customer124@example.com
+2026-10-04 18:43,JHG-100629,60.51,Desktop,PayPal,Northeast,Online store,customer986@example.com
+2026-10-04 18:44,JHG-100630,55.37,Mobile,Credit card,Northeast,Pinterest,customer1389@example.com
+2026-10-04 20:00,JHG-100622,53.22,Desktop,Credit card,South,Online store,customer1327@example.com
+2026-10-04 20:17,JHG-100631,47.04,Mobile,Shop Pay,South,Online store,customer892@example.com
+2026-10-04 21:32,JHG-100618,35.86,Desktop,Shop Pay,West,Online store,customer433@example.com
+2026-10-04 21:39,JHG-100634,62.44,Mobile,Credit card,West,Online store,customer772@example.com
+2026-10-04 22:09,JHG-100642,29.26,Mobile,Shop Pay,Northeast,Online store,customer542@example.com
+2026-10-05 00:06,JHG-100656,42.2,Desktop,Credit card,West,Online store,customer1345@example.com
+2026-10-05 02:25,JHG-100673,23.88,Desktop,Shop Pay,South,Online store,customer320@example.com
+2026-10-05 02:30,JHG-100665,50.48,Desktop,Credit card,West,Online store,customer85@example.com
+2026-10-05 08:48,JHG-100671,52.98,Desktop,Credit card,South,Pinterest,customer684@example.com
+2026-10-05 09:31,JHG-100655,82.03,Mobile,Shop Pay,Midwest,Online store,customer465@example.com
+2026-10-05 09:37,JHG-100664,48.88,Mobile,Shop Pay,South,Online store,customer46@example.com
+2026-10-05 10:18,JHG-100653,46.21,Mobile,Shop Pay,South,Online store,customer767@example.com
+2026-10-05 10:44,JHG-100663,42.74,Desktop,Credit card,West,Online store,customer556@example.com
+2026-10-05 11:00,JHG-100662,49.9,Tablet,PayPal,Midwest,Online store,customer634@example.com
+2026-10-05 11:17,JHG-100645,31.48,Desktop,Shop Pay,Northeast,Online store,customer579@example.com
+2026-10-05 12:09,JHG-100646,41.61,Mobile,Shop Pay,West,Online store,customer349@example.com
+2026-10-05 12:36,JHG-100661,55.19,Desktop,PayPal,South,Online store,customer1220@example.com
+2026-10-05 13:45,JHG-100659,39.29,Mobile,Credit card,Midwest,Online store,customer306@example.com
+2026-10-05 14:14,JHG-100668,30.5,Mobile,Shop Pay,South,Online store,customer149@example.com
+2026-10-05 15:27,JHG-100657,70.15,Mobile,Credit card,South,Online store,customer1027@example.com
+2026-10-05 15:34,JHG-100658,31.12,Mobile,Credit card,West,Online store,customer433@example.com
+2026-10-05 15:53,JHG-100651,62.03,Mobile,Apple Pay,Northeast,Online store,customer308@example.com
+2026-10-05 16:27,JHG-100670,38.05,Desktop,Credit card,South,Online store,customer382@example.com
+2026-10-05 17:01,JHG-100648,44.07,Desktop,Apple Pay,Northeast,Online store,customer119@example.com
+2026-10-05 17:27,JHG-100643,36.33,Tablet,Shop Pay,South,Online store,customer1249@example.com
+2026-10-05 18:02,JHG-100644,32.38,Desktop,Credit card,West,Online store,customer712@example.com
+2026-10-05 18:21,JHG-100660,65.12,Tablet,PayPal,South,Online store,customer38@example.com
+2026-10-05 18:24,JHG-100649,35.45,Tablet,PayPal,Midwest,Pinterest,customer541@example.com
+2026-10-05 19:42,JHG-100650,45.17,Mobile,Shop Pay,West,Online store,customer1389@example.com
+2026-10-05 20:11,JHG-100667,24.15,Mobile,Credit card,South,Online store,customer510@example.com
+2026-10-05 20:20,JHG-100672,47.56,Desktop,Credit card,Northeast,Online store,customer790@example.com
+2026-10-05 20:46,JHG-100674,33.83,Mobile,Shop Pay,Northeast,Online store,customer257@example.com
+2026-10-05 20:50,JHG-100666,53.8,Mobile,Shop Pay,South,Online store,customer572@example.com
+2026-10-05 21:18,JHG-100647,13.7,Desktop,PayPal,Midwest,Online store,customer612@example.com
+2026-10-05 21:19,JHG-100652,92.34,Desktop,PayPal,Midwest,Online store,customer227@example.com
+2026-10-05 21:59,JHG-100669,33.08,Mobile,Credit card,Midwest,Online store,customer213@example.com
+2026-10-05 22:36,JHG-100654,20.95,Mobile,Apple Pay,West,Online store,customer977@example.com
+2026-10-06 02:05,JHG-100686,57.19,Mobile,Credit card,Northeast,Online store,customer1006@example.com
+2026-10-06 09:59,JHG-100703,78.61,Desktop,Shop Pay,West,Online store,customer63@example.com
+2026-10-06 10:01,JHG-100691,23.21,Mobile,Shop Pay,Midwest,Online store,customer758@example.com
+2026-10-06 11:15,JHG-100679,43.65,Desktop,Credit card,Northeast,Online store,customer1046@example.com
+2026-10-06 11:16,JHG-100695,40.16,Mobile,Shop Pay,South,Online store,customer382@example.com
+2026-10-06 11:53,JHG-100702,77.05,Mobile,Shop Pay,Midwest,Online store,customer257@example.com
+2026-10-06 12:17,JHG-100697,43.7,Tablet,Credit card,Northeast,Online store,customer976@example.com
+2026-10-06 12:30,JHG-100684,41.94,Mobile,Credit card,West,Online store,customer889@example.com
+2026-10-06 13:03,JHG-100704,76.8,Mobile,Shop Pay,West,Online store,customer1071@example.com
+2026-10-06 13:16,JHG-100706,40.67,Desktop,PayPal,West,Online store,customer467@example.com
+2026-10-06 13:17,JHG-100694,20.2,Mobile,Shop Pay,Northeast,Online store,customer709@example.com
+2026-10-06 14:01,JHG-100696,30.58,Desktop,Credit card,West,Online store,customer1098@example.com
+2026-10-06 14:15,JHG-100683,45.28,Mobile,Credit card,West,Instagram shop,customer6@example.com
+2026-10-06 14:57,JHG-100680,29.43,Mobile,Shop Pay,Northeast,Online store,customer693@example.com
+2026-10-06 16:37,JHG-100705,54.18,Tablet,Shop Pay,West,Online store,customer1061@example.com
+2026-10-06 16:54,JHG-100685,40.2,Mobile,Shop Pay,Northeast,Online store,customer139@example.com
+2026-10-06 18:24,JHG-100701,107.68,Desktop,Credit card,South,Online store,customer938@example.com
+2026-10-06 18:26,JHG-100678,23.7,Desktop,Credit card,West,Online store,customer18@example.com
+2026-10-06 18:39,JHG-100687,54.25,Mobile,Shop Pay,South,Online store,customer273@example.com
+2026-10-06 18:45,JHG-100675,29.03,Mobile,PayPal,South,Pinterest,customer188@example.com
+2026-10-06 19:31,JHG-100699,28.83,Mobile,Credit card,West,Online store,customer181@example.com
+2026-10-06 19:38,JHG-100681,58.5,Mobile,Credit card,West,Pinterest,customer1063@example.com
+2026-10-06 20:05,JHG-100700,47.8,Mobile,Credit card,Northeast,Online store,customer116@example.com
+2026-10-06 20:39,JHG-100698,63.6,Desktop,Shop Pay,West,Online store,customer371@example.com
+2026-10-06 21:01,JHG-100688,47.52,Desktop,Credit card,West,Online store,customer92@example.com
+2026-10-06 21:34,JHG-100689,47.14,Mobile,Credit card,South,Online store,customer1358@example.com
+2026-10-06 21:44,JHG-100676,36.79,Mobile,Shop Pay,South,Online store,customer1165@example.com
+2026-10-06 21:48,JHG-100693,38.5,Desktop,Credit card,Midwest,Online store,customer619@example.com
+2026-10-06 21:50,JHG-100682,70.43,Mobile,Shop Pay,West,Online store,customer1344@example.com
+2026-10-06 21:51,JHG-100677,41.14,Mobile,Apple Pay,West,Online store,customer1243@example.com
+2026-10-06 21:55,JHG-100690,51.17,Mobile,Shop Pay,West,Online store,customer1038@example.com
+2026-10-06 23:19,JHG-100692,66.53,Tablet,Credit card,Midwest,Online store,customer229@example.com
+2026-10-07 09:24,JHG-100721,59.15,Mobile,Credit card,Northeast,Online store,customer1201@example.com
+2026-10-07 09:38,JHG-100715,43.0,Mobile,Credit card,Midwest,Online store,customer689@example.com
+2026-10-07 10:28,JHG-100725,54.3,Mobile,Shop Pay,Northeast,Online store,customer266@example.com
+2026-10-07 11:08,JHG-100723,41.2,Mobile,Shop Pay,South,Online store,customer22@example.com
+2026-10-07 11:47,JHG-100728,29.64,Desktop,Shop Pay,South,Online store,customer1151@example.com
+2026-10-07 12:38,JHG-100713,49.74,Tablet,Credit card,Midwest,Online store,customer307@example.com
+2026-10-07 13:22,JHG-100734,80.07,Tablet,Credit card,Northeast,Online store,customer1067@example.com
+2026-10-07 13:23,JHG-100708,25.48,Desktop,PayPal,West,Online store,customer407@example.com
+2026-10-07 13:31,JHG-100717,86.69,Mobile,Shop Pay,West,Online store,customer742@example.com
+2026-10-07 13:51,JHG-100735,48.11,Mobile,Apple Pay,Northeast,Online store,customer356@example.com
+2026-10-07 14:14,JHG-100730,50.12,Mobile,Apple Pay,West,Online store,customer1055@example.com
+2026-10-07 15:08,JHG-100709,40.38,Mobile,Credit card,Northeast,Instagram shop,customer400@example.com
+2026-10-07 15:44,JHG-100716,46.03,Tablet,Credit card,Midwest,Online store,customer1262@example.com
+2026-10-07 16:20,JHG-100720,37.22,Mobile,Shop Pay,West,Online store,customer582@example.com
+2026-10-07 16:37,JHG-100719,38.41,Mobile,Shop Pay,West,Online store,customer1108@example.com
+2026-10-07 16:51,JHG-100707,66.23,Desktop,Credit card,South,Instagram shop,customer1344@example.com
+2026-10-07 17:41,JHG-100726,36.8,Mobile,Shop Pay,West,Online store,customer742@example.com
+2026-10-07 18:02,JHG-100733,40.12,Desktop,Shop Pay,West,Instagram shop,customer187@example.com
+2026-10-07 18:08,JHG-100732,45.59,Desktop,PayPal,Northeast,Online store,customer862@example.com
+2026-10-07 18:30,JHG-100711,37.27,Mobile,Shop Pay,South,Online store,customer674@example.com
+2026-10-07 18:43,JHG-100729,49.63,Mobile,Shop Pay,West,Online store,customer680@example.com
+2026-10-07 19:46,JHG-100731,22.87,Desktop,Credit card,Midwest,Online store,customer878@example.com
+2026-10-07 19:52,JHG-100727,30.1,Desktop,Credit card,West,Online store,customer1004@example.com
+2026-10-07 20:11,JHG-100724,45.48,Mobile,Shop Pay,Northeast,Online store,customer1328@example.com
+2026-10-07 20:17,JHG-100712,96.2,Mobile,Apple Pay,West,Online store,customer52@example.com
+2026-10-07 20:50,JHG-100718,43.58,Mobile,Shop Pay,Northeast,Online store,customer579@example.com
+2026-10-07 20:55,JHG-100710,56.52,Desktop,Credit card,West,Online store,customer350@example.com
+2026-10-07 21:14,JHG-100722,46.16,Mobile,Shop Pay,Midwest,Online store,customer215@example.com
+2026-10-07 23:07,JHG-100714,36.71,Desktop,Apple Pay,West,Online store,customer24@example.com
+2026-10-08 02:34,JHG-100759,33.69,Desktop,Credit card,West,Instagram shop,customer443@example.com
+2026-10-08 07:59,JHG-100765,25.33,Desktop,PayPal,West,Online store,customer206@example.com
+2026-10-08 09:40,JHG-100758,61.4,Mobile,Shop Pay,South,Online store,customer239@example.com
+2026-10-08 10:13,JHG-100768,42.76,Mobile,Shop Pay,Northeast,Online store,customer1300@example.com
+2026-10-08 10:19,JHG-100762,66.71,Desktop,Credit card,West,Online store,customer848@example.com
+2026-10-08 10:42,JHG-100736,101.57,Mobile,Shop Pay,South,Online store,customer231@example.com
+2026-10-08 10:54,JHG-100766,30.69,Mobile,PayPal,West,Online store,customer713@example.com
+2026-10-08 11:03,JHG-100761,35.94,Tablet,Shop Pay,West,Online store,customer557@example.com
+2026-10-08 11:38,JHG-100739,37.45,Desktop,Credit card,West,Online store,customer226@example.com
+2026-10-08 13:10,JHG-100746,39.42,Mobile,Apple Pay,West,Online store,customer727@example.com
+2026-10-08 13:25,JHG-100767,62.54,Mobile,Shop Pay,South,Online store,customer1070@example.com
+2026-10-08 13:51,JHG-100769,17.3,Mobile,Shop Pay,Northeast,Online store,customer1198@example.com
+2026-10-08 14:07,JHG-100750,23.72,Desktop,Apple Pay,Midwest,Online store,customer372@example.com
+2026-10-08 14:09,JHG-100737,59.75,Tablet,Credit card,Midwest,Online store,customer1000@example.com
+2026-10-08 14:18,JHG-100754,27.85,Desktop,Shop Pay,South,Online store,customer1165@example.com
+2026-10-08 14:33,JHG-100757,32.42,Desktop,Shop Pay,West,Online store,customer730@example.com
+2026-10-08 14:40,JHG-100751,46.88,Desktop,PayPal,Northeast,Online store,customer1188@example.com
+2026-10-08 15:17,JHG-100742,40.0,Mobile,Shop Pay,West,Instagram shop,customer355@example.com
+2026-10-08 17:18,JHG-100763,40.31,Mobile,Shop Pay,West,Online store,customer342@example.com
+2026-10-08 17:34,JHG-100744,20.32,Desktop,Credit card,West,Online store,customer698@example.com
+2026-10-08 17:48,JHG-100738,63.71,Desktop,Shop Pay,West,Online store,customer653@example.com
+2026-10-08 17:49,JHG-100748,56.54,Mobile,Apple Pay,West,Online store,customer386@example.com
+2026-10-08 17:52,JHG-100740,50.6,Mobile,Apple Pay,South,Online store,customer1051@example.com
+2026-10-08 17:58,JHG-100753,28.3,Mobile,Apple Pay,Northeast,Pinterest,customer994@example.com
+2026-10-08 18:52,JHG-100755,38.57,Mobile,PayPal,South,Online store,customer699@example.com
+2026-10-08 19:16,JHG-100752,47.23,Tablet,Apple Pay,West,Online store,customer535@example.com
+2026-10-08 19:22,JHG-100756,44.95,Mobile,PayPal,Northeast,Online store,customer613@example.com
+2026-10-08 20:41,JHG-100747,42.11,Mobile,Apple Pay,South,Online store,customer153@example.com
+2026-10-08 21:15,JHG-100743,45.25,Mobile,Apple Pay,Midwest,Online store,customer177@example.com
+2026-10-08 21:46,JHG-100764,65.49,Mobile,Shop Pay,West,Online store,customer1024@example.com
+2026-10-08 21:51,JHG-100760,61.42,Mobile,Shop Pay,Midwest,Pinterest,customer469@example.com
+2026-10-08 22:51,JHG-100745,45.95,Mobile,Credit card,Midwest,Online store,customer1381@example.com
+2026-10-08 22:52,JHG-100749,42.34,Mobile,PayPal,South,Online store,customer1170@example.com
+2026-10-08 23:34,JHG-100741,51.55,Mobile,Shop Pay,West,Instagram shop,customer1208@example.com
+2026-10-09 00:09,JHG-100770,22.92,Mobile,Shop Pay,Midwest,Online store,customer900@example.com
+2026-10-09 00:49,JHG-100793,52.78,Mobile,Credit card,Midwest,Online store,customer649@example.com
+2026-10-09 01:59,JHG-100794,45.81,Mobile,Apple Pay,South,Online store,customer872@example.com
+2026-10-09 02:28,JHG-100788,71.0,Desktop,Credit card,Midwest,Online store,customer565@example.com
+2026-10-09 04:53,JHG-100787,48.93,Mobile,PayPal,Northeast,Online store,customer101@example.com
+2026-10-09 05:28,JHG-100789,51.2,Mobile,Shop Pay,West,Online store,customer775@example.com
+2026-10-09 08:21,JHG-100799,29.52,Mobile,Shop Pay,West,Online store,customer1090@example.com
+2026-10-09 09:46,JHG-100803,77.17,Desktop,Apple Pay,Midwest,Instagram shop,customer1248@example.com
+2026-10-09 10:40,JHG-100798,38.33,Tablet,Shop Pay,Midwest,Online store,customer787@example.com
+2026-10-09 10:52,JHG-100801,33.67,Desktop,Credit card,West,Online store,customer1085@example.com
+2026-10-09 11:08,JHG-100781,32.69,Desktop,Credit card,Midwest,Online store,customer215@example.com
+2026-10-09 11:09,JHG-100772,26.19,Desktop,Credit card,South,Online store,customer1112@example.com
+2026-10-09 11:23,JHG-100804,49.5,Desktop,Credit card,West,Instagram shop,customer1318@example.com
+2026-10-09 11:45,JHG-100790,73.8,Mobile,Credit card,South,Online store,customer668@example.com
+2026-10-09 11:50,JHG-100779,48.1,Desktop,Shop Pay,West,Online store,customer1188@example.com
+2026-10-09 11:57,JHG-100775,24.98,Mobile,Credit card,West,Online store,customer204@example.com
+2026-10-09 12:29,JHG-100806,58.52,Mobile,Shop Pay,Northeast,Online store,customer303@example.com
+2026-10-09 12:41,JHG-100792,104.26,Mobile,Shop Pay,West,Online store,customer1311@example.com
+2026-10-09 12:42,JHG-100786,34.37,Tablet,Credit card,Northeast,Pinterest,customer252@example.com
+2026-10-09 12:53,JHG-100783,36.75,Mobile,Shop Pay,South,Pinterest,customer1314@example.com
+2026-10-09 12:59,JHG-100771,28.22,Mobile,Shop Pay,Northeast,Online store,customer394@example.com
+2026-10-09 13:00,JHG-100776,26.34,Mobile,Shop Pay,Northeast,Online store,customer794@example.com
+2026-10-09 13:25,JHG-100782,57.11,Mobile,Shop Pay,Midwest,Online store,customer1258@example.com
+2026-10-09 13:28,JHG-100778,66.67,Desktop,Shop Pay,West,Online store,customer1139@example.com
+2026-10-09 13:33,JHG-100807,25.13,Mobile,Shop Pay,South,Online store,customer194@example.com
+2026-10-09 14:22,JHG-100795,37.29,Desktop,Credit card,West,Instagram shop,customer782@example.com
+2026-10-09 14:24,JHG-100774,41.25,Desktop,Shop Pay,West,Online store,customer340@example.com
+2026-10-09 15:35,JHG-100777,52.98,Desktop,Credit card,West,Online store,customer1365@example.com
+2026-10-09 16:42,JHG-100791,38.75,Desktop,Credit card,South,Online store,customer889@example.com
+2026-10-09 16:50,JHG-100805,21.78,Desktop,Credit card,Northeast,Online store,customer661@example.com
+2026-10-09 18:07,JHG-100796,46.56,Mobile,Shop Pay,Northeast,Online store,customer241@example.com
+2026-10-09 18:10,JHG-100802,72.36,Desktop,Shop Pay,South,Instagram shop,customer172@example.com
+2026-10-09 18:29,JHG-100780,53.88,Mobile,Shop Pay,West,Online store,customer216@example.com
+2026-10-09 19:08,JHG-100773,48.96,Mobile,Shop Pay,South,Online store,customer576@example.com
+2026-10-09 21:02,JHG-100785,27.27,Mobile,Credit card,Midwest,Online store,customer96@example.com
+2026-10-09 21:58,JHG-100800,41.01,Mobile,Shop Pay,Northeast,Online store,customer1056@example.com
+2026-10-09 22:01,JHG-100797,35.68,Desktop,Credit card,South,Online store,customer161@example.com
+2026-10-09 22:01,JHG-100784,30.22,Mobile,Shop Pay,South,Online store,customer943@example.com
+2026-10-10 01:19,JHG-100841,56.89,Mobile,Apple Pay,West,Instagram shop,customer703@example.com
+2026-10-10 02:48,JHG-100817,66.47,Tablet,Credit card,South,Online store,customer1097@example.com
+2026-10-10 05:47,JHG-100809,65.04,Desktop,Credit card,South,Online store,customer1258@example.com
+2026-10-10 06:49,JHG-100819,22.62,Mobile,Apple Pay,Midwest,Online store,customer847@example.com
+2026-10-10 07:22,JHG-100808,68.33,Mobile,Credit card,Midwest,Online store,customer148@example.com
+2026-10-10 07:49,JHG-100829,37.67,Mobile,Credit card,South,Online store,customer911@example.com
+2026-10-10 10:14,JHG-100822,88.14,Mobile,Credit card,South,Online store,customer197@example.com
+2026-10-10 10:31,JHG-100835,44.65,Desktop,Credit card,Northeast,Online store,customer707@example.com
+2026-10-10 10:42,JHG-100816,18.54,Mobile,Shop Pay,Midwest,Online store,customer77@example.com
+2026-10-10 10:46,JHG-100836,35.59,Mobile,Credit card,South,Online store,customer1389@example.com
+2026-10-10 11:03,JHG-100825,57.15,Mobile,PayPal,Midwest,Online store,customer1371@example.com
+2026-10-10 11:35,JHG-100812,34.39,Mobile,Shop Pay,Northeast,Online store,customer636@example.com
+2026-10-10 13:32,JHG-100828,41.17,Mobile,Shop Pay,West,Pinterest,customer140@example.com
+2026-10-10 13:50,JHG-100813,53.69,Mobile,Apple Pay,South,Online store,customer345@example.com
+2026-10-10 13:53,JHG-100830,52.18,Desktop,Credit card,West,Online store,customer334@example.com
+2026-10-10 14:59,JHG-100815,40.5,Desktop,Credit card,West,Online store,customer279@example.com
+2026-10-10 15:06,JHG-100814,33.47,Mobile,PayPal,Midwest,Online store,customer187@example.com
+2026-10-10 15:14,JHG-100824,59.58,Desktop,Credit card,Northeast,Online store,customer208@example.com
+2026-10-10 16:15,JHG-100811,42.95,Mobile,Shop Pay,South,Online store,customer1310@example.com
+2026-10-10 16:43,JHG-100826,65.45,Desktop,Credit card,South,Online store,customer409@example.com
+2026-10-10 17:53,JHG-100833,35.3,Mobile,PayPal,Northeast,Online store,customer684@example.com
+2026-10-10 17:58,JHG-100810,34.71,Desktop,PayPal,West,Online store,customer594@example.com
+2026-10-10 18:11,JHG-100839,43.63,Mobile,Shop Pay,Northeast,Online store,customer530@example.com
+2026-10-10 18:12,JHG-100827,53.12,Mobile,Shop Pay,Northeast,Online store,customer103@example.com
+2026-10-10 18:19,JHG-100831,41.77,Mobile,Shop Pay,West,Online store,customer335@example.com
+2026-10-10 18:25,JHG-100842,32.73,Mobile,Shop Pay,Northeast,Online store,customer1383@example.com
+2026-10-10 18:29,JHG-100832,19.65,Mobile,Shop Pay,Midwest,Online store,customer1016@example.com
+2026-10-10 18:47,JHG-100820,24.39,Desktop,Credit card,South,Online store,customer577@example.com
+2026-10-10 19:04,JHG-100821,41.06,Mobile,Shop Pay,Northeast,Online store,customer899@example.com
+2026-10-10 19:20,JHG-100823,40.65,Mobile,Shop Pay,West,Online store,customer950@example.com
+2026-10-10 19:43,JHG-100838,20.15,Mobile,Shop Pay,Midwest,Online store,customer611@example.com
+2026-10-10 20:06,JHG-100837,26.24,Mobile,Shop Pay,Northeast,Online store,customer1032@example.com
+2026-10-10 20:31,JHG-100818,31.94,Desktop,Shop Pay,West,Online store,customer860@example.com
+2026-10-10 21:36,JHG-100834,64.03,Desktop,Credit card,Northeast,Online store,customer896@example.com
+2026-10-10 21:36,JHG-100840,44.36,Mobile,Shop Pay,Northeast,Online store,customer1351@example.com
+2026-10-11 06:20,JHG-100863,48.07,Desktop,PayPal,Northeast,Online store,customer53@example.com
+2026-10-11 07:41,JHG-100855,25.14,Desktop,Shop Pay,West,Pinterest,customer450@example.com
+2026-10-11 08:28,JHG-100872,46.26,Desktop,Credit card,Northeast,Online store,customer1304@example.com
+2026-10-11 08:32,JHG-100849,73.96,Desktop,PayPal,South,Pinterest,customer722@example.com
+2026-10-11 08:53,JHG-100850,35.36,Desktop,Credit card,Midwest,Online store,customer350@example.com
+2026-10-11 09:09,JHG-100869,45.08,Mobile,Shop Pay,South,Online store,customer456@example.com
+2026-10-11 10:41,JHG-100867,33.98,Mobile,Apple Pay,South,Online store,customer145@example.com
+2026-10-11 10:51,JHG-100846,32.09,Mobile,Shop Pay,South,Online store,customer498@example.com
+2026-10-11 11:10,JHG-100843,82.45,Tablet,Credit card,West,Online store,customer50@example.com
+2026-10-11 11:31,JHG-100859,29.75,Desktop,PayPal,Northeast,Online store,customer1002@example.com
+2026-10-11 12:18,JHG-100856,86.75,Desktop,Credit card,South,Online store,customer576@example.com
+2026-10-11 12:41,JHG-100870,71.22,Mobile,PayPal,South,Online store,customer1167@example.com
+2026-10-11 13:40,JHG-100875,24.53,Desktop,Credit card,West,Online store,customer1299@example.com
+2026-10-11 13:47,JHG-100874,21.98,Mobile,Shop Pay,West,Online store,customer1346@example.com
+2026-10-11 14:15,JHG-100858,42.96,Desktop,Credit card,West,Online store,customer536@example.com
+2026-10-11 14:51,JHG-100868,51.12,Mobile,Shop Pay,West,Online store,customer1066@example.com
+2026-10-11 15:24,JHG-100848,40.67,Tablet,Shop Pay,Northeast,Online store,customer673@example.com
+2026-10-11 15:42,JHG-100861,55.77,Mobile,Apple Pay,Northeast,Instagram shop,customer1080@example.com
+2026-10-11 15:44,JHG-100864,90.17,Mobile,Apple Pay,Northeast,Online store,customer817@example.com
+2026-10-11 15:53,JHG-100853,23.24,Desktop,PayPal,Midwest,Pinterest,customer465@example.com
+2026-10-11 16:46,JHG-100852,45.8,Mobile,Credit card,Northeast,Online store,customer1110@example.com
+2026-10-11 17:02,JHG-100847,36.79,Mobile,Shop Pay,West,Pinterest,customer61@example.com
+2026-10-11 17:28,JHG-100851,26.37,Desktop,Credit card,Midwest,Online store,customer1000@example.com
+2026-10-11 18:29,JHG-100845,33.26,Desktop,Credit card,Midwest,Online store,customer1041@example.com
+2026-10-11 18:59,JHG-100857,73.88,Mobile,Shop Pay,West,Online store,customer912@example.com
+2026-10-11 19:13,JHG-100860,88.49,Desktop,Credit card,Northeast,Online store,customer684@example.com
+2026-10-11 19:39,JHG-100866,47.77,Mobile,Shop Pay,West,Online store,customer444@example.com
+2026-10-11 20:16,JHG-100844,28.17,Mobile,Shop Pay,West,Online store,customer1374@example.com
+2026-10-11 20:41,JHG-100873,46.24,Desktop,Credit card,Northeast,Online store,customer1103@example.com
+2026-10-11 21:59,JHG-100862,57.26,Tablet,Shop Pay,South,Online store,customer1219@example.com
+2026-10-11 22:04,JHG-100854,41.64,Tablet,Credit card,Midwest,Online store,customer1148@example.com
+2026-10-11 23:19,JHG-100865,53.25,Desktop,Credit card,South,Online store,customer1055@example.com
+2026-10-11 23:35,JHG-100871,29.15,Tablet,Credit card,Northeast,Online store,customer652@example.com
+2026-10-12 06:31,JHG-100889,38.36,Mobile,Shop Pay,Northeast,Online store,customer684@example.com
+2026-10-12 08:18,JHG-100890,40.05,Tablet,Credit card,West,Instagram shop,customer205@example.com
+2026-10-12 09:16,JHG-100879,95.87,Mobile,Shop Pay,Midwest,Online store,customer1350@example.com
+2026-10-12 09:57,JHG-100892,36.0,Desktop,Shop Pay,Northeast,Online store,customer84@example.com
+2026-10-12 10:28,JHG-100881,43.38,Mobile,Credit card,Northeast,Online store,customer762@example.com
+2026-10-12 10:37,JHG-100882,47.35,Mobile,Apple Pay,West,Online store,customer612@example.com
+2026-10-12 10:43,JHG-100900,49.99,Mobile,Shop Pay,South,Online store,customer636@example.com
+2026-10-12 10:48,JHG-100888,68.06,Mobile,PayPal,South,Instagram shop,customer51@example.com
+2026-10-12 11:08,JHG-100893,56.95,Mobile,Shop Pay,West,Online store,customer230@example.com
+2026-10-12 11:29,JHG-100880,75.12,Tablet,Shop Pay,West,Pinterest,customer618@example.com
+2026-10-12 11:31,JHG-100902,57.05,Mobile,Shop Pay,Northeast,Online store,customer292@example.com
+2026-10-12 13:05,JHG-100903,24.17,Desktop,Credit card,West,Online store,customer218@example.com
+2026-10-12 13:07,JHG-100894,53.73,Mobile,Shop Pay,West,Online store,customer1116@example.com
+2026-10-12 13:17,JHG-100896,45.66,Desktop,Credit card,Midwest,Online store,customer795@example.com
+2026-10-12 13:41,JHG-100884,62.52,Desktop,Credit card,Midwest,Online store,customer466@example.com
+2026-10-12 14:55,JHG-100905,36.12,Mobile,Shop Pay,South,Instagram shop,customer1040@example.com
+2026-10-12 16:29,JHG-100898,23.03,Mobile,Shop Pay,West,Instagram shop,customer1298@example.com
+2026-10-12 16:32,JHG-100897,88.32,Mobile,Shop Pay,South,Online store,customer494@example.com
+2026-10-12 16:56,JHG-100887,40.76,Tablet,Credit card,Northeast,Online store,customer1261@example.com
+2026-10-12 17:07,JHG-100895,43.35,Mobile,Shop Pay,West,Online store,customer1346@example.com
+2026-10-12 17:51,JHG-100878,30.87,Tablet,PayPal,South,Online store,customer1065@example.com
+2026-10-12 17:58,JHG-100908,48.26,Mobile,Shop Pay,Northeast,Pinterest,customer1188@example.com
+2026-10-12 18:56,JHG-100907,48.23,Desktop,Credit card,Northeast,Instagram shop,customer753@example.com
+2026-10-12 19:12,JHG-100886,29.93,Desktop,Shop Pay,Northeast,Online store,customer1333@example.com
+2026-10-12 19:25,JHG-100891,80.55,Desktop,Credit card,Midwest,Online store,customer597@example.com
+2026-10-12 19:27,JHG-100877,58.28,Mobile,Shop Pay,South,Online store,customer1134@example.com
+2026-10-12 19:32,JHG-100885,42.49,Mobile,Shop Pay,South,Online store,customer796@example.com
+2026-10-12 20:29,JHG-100883,52.19,Mobile,Shop Pay,Midwest,Online store,customer903@example.com
+2026-10-12 20:32,JHG-100906,52.86,Desktop,Credit card,South,Online store,customer1333@example.com
+2026-10-12 21:36,JHG-100876,63.08,Mobile,Shop Pay,Northeast,Online store,customer465@example.com
+2026-10-12 21:59,JHG-100901,70.17,Mobile,Apple Pay,Northeast,Online store,customer638@example.com
+2026-10-12 22:56,JHG-100899,49.97,Mobile,Shop Pay,Northeast,Online store,customer261@example.com
+2026-10-12 23:59,JHG-100904,48.52,Desktop,PayPal,South,Online store,customer705@example.com
+2026-10-13 00:18,JHG-100925,33.73,Desktop,Apple Pay,Northeast,Instagram shop,customer355@example.com
+2026-10-13 02:23,JHG-100917,45.3,Desktop,PayPal,South,Online store,customer151@example.com
+2026-10-13 03:51,JHG-100919,43.83,Desktop,Credit card,West,Online store,customer1021@example.com
+2026-10-13 08:42,JHG-100939,54.45,Desktop,Shop Pay,Northeast,Online store,customer1068@example.com
+2026-10-13 09:24,JHG-100910,45.61,Mobile,Shop Pay,West,Online store,customer302@example.com
+2026-10-13 09:50,JHG-100922,36.82,Mobile,Credit card,West,Online store,customer7@example.com
+2026-10-13 10:49,JHG-100930,35.65,Mobile,Shop Pay,South,Online store,customer431@example.com
+2026-10-13 11:09,JHG-100933,125.06,Mobile,Shop Pay,Midwest,Online store,customer675@example.com
+2026-10-13 11:13,JHG-100921,49.09,Tablet,Credit card,West,Online store,customer1196@example.com
+2026-10-13 11:20,JHG-100916,67.5,Mobile,Apple Pay,West,Online store,customer297@example.com
+2026-10-13 13:29,JHG-100920,39.72,Desktop,PayPal,Northeast,Online store,customer1275@example.com
+2026-10-13 13:54,JHG-100928,36.24,Mobile,Credit card,West,Online store,customer787@example.com
+2026-10-13 14:08,JHG-100932,55.7,Desktop,PayPal,Northeast,Online store,customer1308@example.com
+2026-10-13 14:17,JHG-100924,60.09,Mobile,Shop Pay,Northeast,Pinterest,customer284@example.com
+2026-10-13 14:25,JHG-100938,47.94,Desktop,Credit card,South,Online store,customer1050@example.com
+2026-10-13 15:00,JHG-100935,20.66,Desktop,PayPal,West,Online store,customer1124@example.com
+2026-10-13 16:00,JHG-100909,26.83,Mobile,Shop Pay,South,Online store,customer1203@example.com
+2026-10-13 16:14,JHG-100929,29.59,Mobile,Credit card,West,Online store,customer352@example.com
+2026-10-13 16:56,JHG-100931,63.43,Desktop,PayPal,West,Online store,customer420@example.com
+2026-10-13 17:04,JHG-100913,82.58,Mobile,Credit card,Northeast,Online store,customer1017@example.com
+2026-10-13 17:52,JHG-100914,40.56,Desktop,Credit card,West,Instagram shop,customer290@example.com
+2026-10-13 18:12,JHG-100911,47.77,Desktop,Credit card,South,Online store,customer901@example.com
+2026-10-13 18:48,JHG-100923,58.05,Mobile,Shop Pay,Northeast,Online store,customer671@example.com
+2026-10-13 19:29,JHG-100934,35.69,Desktop,Apple Pay,West,Instagram shop,customer1394@example.com
+2026-10-13 20:11,JHG-100918,45.14,Mobile,Credit card,West,Online store,customer1065@example.com
+2026-10-13 20:27,JHG-100912,64.82,Desktop,Shop Pay,West,Online store,customer995@example.com
+2026-10-13 20:42,JHG-100936,41.11,Mobile,Shop Pay,South,Online store,customer100@example.com
+2026-10-13 21:07,JHG-100927,31.33,Mobile,Shop Pay,West,Online store,customer1049@example.com
+2026-10-13 21:27,JHG-100937,42.1,Desktop,Shop Pay,Northeast,Online store,customer371@example.com
+2026-10-13 21:50,JHG-100926,41.33,Mobile,Apple Pay,Northeast,Online store,customer734@example.com
+2026-10-13 23:33,JHG-100915,33.31,Mobile,Shop Pay,Northeast,Online store,customer676@example.com
+2026-10-14 02:15,JHG-100946,31.53,Mobile,Credit card,Midwest,Instagram shop,customer1006@example.com
+2026-10-14 03:31,JHG-100950,37.14,Desktop,PayPal,West,Online store,customer1318@example.com
+2026-10-14 08:42,JHG-100952,47.75,Desktop,Shop Pay,West,Online store,customer671@example.com
+2026-10-14 09:17,JHG-100953,27.28,Mobile,Shop Pay,West,Online store,customer1229@example.com
+2026-10-14 09:47,JHG-100951,49.42,Mobile,Shop Pay,West,Online store,customer1067@example.com
+2026-10-14 10:57,JHG-100942,59.93,Desktop,Shop Pay,South,Online store,customer1160@example.com
+2026-10-14 11:03,JHG-100954,47.93,Mobile,Credit card,South,Online store,customer1318@example.com
+2026-10-14 11:37,JHG-100948,53.67,Desktop,Credit card,West,Online store,customer1367@example.com
+2026-10-14 12:26,JHG-100940,22.86,Desktop,Credit card,West,Online store,customer1049@example.com
+2026-10-14 13:01,JHG-100949,81.18,Mobile,Shop Pay,Northeast,Online store,customer1276@example.com
+2026-10-14 13:25,JHG-100967,31.15,Desktop,Credit card,West,Online store,customer961@example.com
+2026-10-14 14:03,JHG-100964,48.64,Desktop,PayPal,Midwest,Online store,customer574@example.com
+2026-10-14 14:10,JHG-100956,26.38,Mobile,Apple Pay,West,Online store,customer774@example.com
+2026-10-14 14:56,JHG-100961,35.16,Mobile,Shop Pay,South,Online store,customer17@example.com
+2026-10-14 15:11,JHG-100969,52.6,Mobile,Credit card,Northeast,Online store,customer1390@example.com
+2026-10-14 16:12,JHG-100959,18.33,Mobile,Shop Pay,West,Online store,customer1071@example.com
+2026-10-14 16:19,JHG-100962,31.15,Mobile,Shop Pay,West,Online store,customer671@example.com
+2026-10-14 16:50,JHG-100963,56.91,Mobile,Credit card,West,Instagram shop,customer491@example.com
+2026-10-14 17:04,JHG-100966,47.22,Desktop,PayPal,Northeast,Online store,customer1050@example.com
+2026-10-14 17:52,JHG-100960,26.94,Desktop,Credit card,South,Online store,customer524@example.com
+2026-10-14 18:39,JHG-100941,32.79,Desktop,Credit card,West,Online store,customer1035@example.com
+2026-10-14 18:45,JHG-100971,48.41,Mobile,Shop Pay,Northeast,Online store,customer941@example.com
+2026-10-14 18:52,JHG-100955,24.64,Mobile,Shop Pay,Midwest,Online store,customer1014@example.com
+2026-10-14 19:18,JHG-100970,62.87,Desktop,Shop Pay,Northeast,Online store,customer1111@example.com
+2026-10-14 19:45,JHG-100965,17.11,Mobile,PayPal,West,Online store,customer233@example.com
+2026-10-14 19:51,JHG-100943,97.72,Mobile,Credit card,South,Online store,customer1317@example.com
+2026-10-14 20:17,JHG-100945,31.38,Mobile,Shop Pay,South,Online store,customer90@example.com
+2026-10-14 20:25,JHG-100968,48.63,Mobile,PayPal,West,Pinterest,customer433@example.com
+2026-10-14 20:42,JHG-100947,63.81,Mobile,Shop Pay,Midwest,Online store,customer706@example.com
+2026-10-14 21:28,JHG-100957,20.12,Mobile,Apple Pay,South,Online store,customer1230@example.com
+2026-10-14 21:55,JHG-100958,51.16,Mobile,Shop Pay,South,Online store,customer37@example.com
+2026-10-14 22:24,JHG-100944,34.95,Mobile,Apple Pay,South,Pinterest,customer641@example.com
+2026-10-15 01:53,JHG-100974,50.59,Desktop,Credit card,Midwest,Online store,customer343@example.com
+2026-10-15 07:51,JHG-100991,55.47,Tablet,Shop Pay,West,Online store,customer596@example.com
+2026-10-15 08:28,JHG-100998,51.84,Mobile,Apple Pay,South,Pinterest,customer958@example.com
+2026-10-15 08:36,JHG-101000,27.99,Mobile,Shop Pay,West,Online store,customer266@example.com
+2026-10-15 10:15,JHG-100980,31.07,Mobile,Shop Pay,South,Online store,customer1298@example.com
+2026-10-15 10:23,JHG-100978,38.82,Mobile,Apple Pay,Midwest,Online store,customer431@example.com
+2026-10-15 10:24,JHG-100994,28.96,Desktop,PayPal,West,Instagram shop,customer1121@example.com
+2026-10-15 10:40,JHG-100989,34.3,Tablet,PayPal,West,Online store,customer342@example.com
+2026-10-15 10:50,JHG-100977,48.26,Mobile,Credit card,Northeast,Pinterest,customer77@example.com
+2026-10-15 10:53,JHG-100982,50.53,Desktop,Credit card,Northeast,Online store,customer1203@example.com
+2026-10-15 11:00,JHG-100999,69.01,Mobile,Shop Pay,Midwest,Online store,customer671@example.com
+2026-10-15 11:17,JHG-100997,75.68,Desktop,Credit card,West,Online store,customer1292@example.com
+2026-10-15 11:17,JHG-100975,77.74,Desktop,PayPal,South,Online store,customer1068@example.com
+2026-10-15 12:52,JHG-100987,44.84,Tablet,Credit card,South,Online store,customer407@example.com
+2026-10-15 13:58,JHG-101002,37.14,Mobile,Shop Pay,West,Instagram shop,customer1229@example.com
+2026-10-15 14:09,JHG-100990,57.0,Desktop,Credit card,Midwest,Online store,customer1339@example.com
+2026-10-15 14:38,JHG-100981,55.41,Desktop,Shop Pay,South,Online store,customer214@example.com
+2026-10-15 15:30,JHG-100979,41.28,Mobile,Credit card,West,Online store,customer932@example.com
+2026-10-15 16:35,JHG-100983,49.31,Desktop,Apple Pay,South,Online store,customer646@example.com
+2026-10-15 16:49,JHG-100996,77.38,Desktop,Credit card,West,Online store,customer865@example.com
+2026-10-15 18:11,JHG-100995,33.88,Mobile,Shop Pay,South,Online store,customer1066@example.com
+2026-10-15 19:03,JHG-100972,38.3,Desktop,PayPal,South,Instagram shop,customer887@example.com
+2026-10-15 19:37,JHG-100976,59.6,Desktop,Credit card,South,Online store,customer1167@example.com
+2026-10-15 19:38,JHG-100993,42.34,Mobile,Shop Pay,West,Online store,customer508@example.com
+2026-10-15 19:58,JHG-100984,47.39,Mobile,Shop Pay,West,Online store,customer835@example.com
+2026-10-15 20:22,JHG-100992,29.21,Mobile,Shop Pay,South,Online store,customer734@example.com
+2026-10-15 20:48,JHG-101003,29.12,Desktop,PayPal,Midwest,Online store,customer39@example.com
+2026-10-15 21:44,JHG-101001,34.67,Desktop,Credit card,Northeast,Online store,customer206@example.com
+2026-10-15 22:21,JHG-100988,71.89,Mobile,PayPal,West,Instagram shop,customer1396@example.com
+2026-10-15 22:55,JHG-100986,14.7,Desktop,PayPal,West,Online store,customer1016@example.com
+2026-10-15 23:03,JHG-100973,56.9,Mobile,Shop Pay,South,Online store,customer712@example.com
+2026-10-15 23:42,JHG-100985,39.99,Desktop,PayPal,Midwest,Online store,customer292@example.com
+2026-10-16 00:07,JHG-101016,80.28,Mobile,Shop Pay,West,Online store,customer347@example.com
+2026-10-16 05:56,JHG-101017,35.02,Mobile,Shop Pay,Midwest,Online store,customer994@example.com
+2026-10-16 08:25,JHG-101007,38.48,Mobile,Shop Pay,Northeast,Pinterest,customer722@example.com
+2026-10-16 08:48,JHG-101009,61.28,Mobile,Shop Pay,South,Online store,customer921@example.com
+2026-10-16 08:48,JHG-101022,22.33,Mobile,Shop Pay,South,Online store,customer614@example.com
+2026-10-16 09:13,JHG-101024,47.65,Tablet,Apple Pay,South,Online store,customer381@example.com
+2026-10-16 09:18,JHG-101005,86.87,Mobile,PayPal,Northeast,Online store,customer12@example.com
+2026-10-16 09:19,JHG-101020,73.27,Desktop,Credit card,West,Online store,customer1130@example.com
+2026-10-16 09:27,JHG-101034,39.11,Desktop,Credit card,West,Instagram shop,customer924@example.com
+2026-10-16 12:43,JHG-101029,31.97,Mobile,Shop Pay,West,Online store,customer1363@example.com
+2026-10-16 13:15,JHG-101033,25.32,Desktop,PayPal,Northeast,Online store,customer1256@example.com
+2026-10-16 13:24,JHG-101012,63.54,Desktop,Credit card,West,Online store,customer200@example.com
+2026-10-16 14:05,JHG-101013,52.09,Desktop,Credit card,Northeast,Online store,customer1227@example.com
+2026-10-16 14:53,JHG-101032,30.96,Desktop,Credit card,Northeast,Online store,customer808@example.com
+2026-10-16 15:04,JHG-101023,29.97,Mobile,Credit card,Midwest,Online store,customer384@example.com
+2026-10-16 15:13,JHG-101027,36.28,Desktop,Credit card,Midwest,Online store,customer1169@example.com
+2026-10-16 15:40,JHG-101011,89.38,Desktop,Credit card,Northeast,Online store,customer1337@example.com
+2026-10-16 15:55,JHG-101030,39.22,Mobile,Shop Pay,Midwest,Online store,customer109@example.com
+2026-10-16 16:25,JHG-101010,54.26,Mobile,Shop Pay,West,Online store,customer1013@example.com
+2026-10-16 17:06,JHG-101018,18.56,Mobile,PayPal,West,Online store,customer1206@example.com
+2026-10-16 17:11,JHG-101015,62.59,Desktop,PayPal,West,Online store,customer68@example.com
+2026-10-16 17:14,JHG-101026,43.3,Mobile,Shop Pay,South,Online store,customer1204@example.com
+2026-10-16 17:56,JHG-101004,35.8,Mobile,Credit card,South,Pinterest,customer1130@example.com
+2026-10-16 19:02,JHG-101008,35.59,Mobile,Shop Pay,Northeast,Online store,customer1000@example.com
+2026-10-16 19:04,JHG-101025,35.0,Mobile,Shop Pay,South,Online store,customer1388@example.com
+2026-10-16 20:17,JHG-101006,45.47,Desktop,Credit card,West,Online store,customer1221@example.com
+2026-10-16 20:35,JHG-101019,46.3,Mobile,Shop Pay,Northeast,Online store,customer576@example.com
+2026-10-16 21:37,JHG-101021,38.95,Tablet,Apple Pay,Northeast,Online store,customer120@example.com
+2026-10-16 22:11,JHG-101028,45.84,Mobile,Apple Pay,Northeast,Online store,customer138@example.com
+2026-10-16 22:23,JHG-101014,35.4,Mobile,Shop Pay,South,Online store,customer1225@example.com
+2026-10-16 23:29,JHG-101031,38.54,Desktop,PayPal,West,Instagram shop,customer850@example.com
+2026-10-17 00:19,JHG-101052,61.74,Desktop,PayPal,South,Online store,customer971@example.com
+2026-10-17 00:24,JHG-101067,35.64,Desktop,Apple Pay,South,Online store,customer77@example.com
+2026-10-17 01:11,JHG-101040,24.5,Desktop,Shop Pay,West,Online store,customer1292@example.com
+2026-10-17 07:46,JHG-101042,41.89,Desktop,Shop Pay,South,Online store,customer1157@example.com
+2026-10-17 08:59,JHG-101053,55.42,Mobile,Apple Pay,West,Online store,customer252@example.com
+2026-10-17 09:21,JHG-101054,21.7,Tablet,Apple Pay,Northeast,Online store,customer347@example.com
+2026-10-17 09:45,JHG-101044,38.03,Mobile,Credit card,West,Online store,customer710@example.com
+2026-10-17 09:47,JHG-101055,43.06,Mobile,Shop Pay,Midwest,Online store,customer526@example.com
+2026-10-17 09:55,JHG-101048,31.12,Mobile,Shop Pay,South,Instagram shop,customer1378@example.com
+2026-10-17 09:57,JHG-101038,35.89,Mobile,Shop Pay,Northeast,Online store,customer525@example.com
+2026-10-17 10:29,JHG-101041,25.5,Desktop,PayPal,Northeast,Online store,customer464@example.com
+2026-10-17 11:15,JHG-101066,56.16,Mobile,Shop Pay,South,Online store,customer746@example.com
+2026-10-17 11:56,JHG-101070,109.54,Desktop,PayPal,West,Instagram shop,customer888@example.com
+2026-10-17 12:08,JHG-101061,26.53,Tablet,Credit card,West,Online store,customer670@example.com
+2026-10-17 12:52,JHG-101050,44.03,Desktop,PayPal,South,Online store,customer769@example.com
+2026-10-17 12:58,JHG-101049,22.66,Mobile,Shop Pay,Midwest,Online store,customer11@example.com
+2026-10-17 12:58,JHG-101046,32.79,Desktop,Shop Pay,Northeast,Online store,customer217@example.com
+2026-10-17 13:04,JHG-101035,64.93,Desktop,PayPal,Midwest,Online store,customer465@example.com
+2026-10-17 13:24,JHG-101057,45.96,Mobile,PayPal,Northeast,Online store,customer981@example.com
+2026-10-17 14:01,JHG-101068,23.04,Tablet,Shop Pay,Midwest,Online store,customer1341@example.com
+2026-10-17 14:42,JHG-101059,17.92,Tablet,Apple Pay,South,Online store,customer947@example.com
+2026-10-17 15:29,JHG-101058,47.5,Desktop,Credit card,Northeast,Online store,customer8@example.com
+2026-10-17 15:36,JHG-101039,47.13,Mobile,Shop Pay,Northeast,Online store,customer286@example.com
+2026-10-17 15:36,JHG-101060,35.2,Mobile,Shop Pay,Midwest,Online store,customer833@example.com
+2026-10-17 16:18,JHG-101064,65.39,Mobile,Shop Pay,South,Online store,customer862@example.com
+2026-10-17 16:18,JHG-101036,74.81,Mobile,Shop Pay,South,Online store,customer213@example.com
+2026-10-17 16:20,JHG-101056,37.87,Mobile,Shop Pay,West,Online store,customer85@example.com
+2026-10-17 17:54,JHG-101047,38.3,Desktop,Shop Pay,South,Online store,customer1042@example.com
+2026-10-17 17:58,JHG-101063,29.59,Desktop,Credit card,South,Online store,customer408@example.com
+2026-10-17 18:40,JHG-101069,40.11,Desktop,Credit card,Northeast,Online store,customer569@example.com
+2026-10-17 19:43,JHG-101037,45.99,Desktop,Credit card,South,Online store,customer1158@example.com
+2026-10-17 20:00,JHG-101065,52.45,Mobile,Shop Pay,South,Online store,customer1108@example.com
+2026-10-17 20:52,JHG-101043,36.92,Mobile,Credit card,Northeast,Instagram shop,customer557@example.com
+2026-10-17 20:58,JHG-101045,39.91,Mobile,Credit card,West,Online store,customer308@example.com
+2026-10-17 21:49,JHG-101051,81.04,Desktop,Credit card,West,Online store,customer103@example.com
+2026-10-17 22:00,JHG-101062,31.79,Mobile,Shop Pay,Northeast,Online store,customer661@example.com
+2026-10-18 03:46,JHG-101092,40.45,Tablet,Credit card,Northeast,Online store,customer1333@example.com
+2026-10-18 06:49,JHG-101096,59.89,Mobile,Shop Pay,Northeast,Online store,customer1215@example.com
+2026-10-18 09:13,JHG-101094,58.62,Mobile,Shop Pay,Midwest,Online store,customer497@example.com
+2026-10-18 09:44,JHG-101076,28.78,Mobile,Shop Pay,Northeast,Online store,customer160@example.com
+2026-10-18 09:49,JHG-101101,34.78,Mobile,Apple Pay,West,Online store,customer451@example.com
+2026-10-18 09:49,JHG-101087,79.01,Desktop,PayPal,South,Online store,customer127@example.com
+2026-10-18 09:52,JHG-101098,52.59,Desktop,PayPal,Midwest,Online store,customer776@example.com
+2026-10-18 09:59,JHG-101084,51.86,Tablet,Shop Pay,Northeast,Online store,customer203@example.com
+2026-10-18 10:28,JHG-101075,22.64,Mobile,PayPal,West,Online store,customer243@example.com
+2026-10-18 10:43,JHG-101085,29.79,Desktop,Credit card,South,Online store,customer1048@example.com
+2026-10-18 11:01,JHG-101103,34.48,Desktop,Credit card,West,Online store,customer725@example.com
+2026-10-18 12:32,JHG-101078,38.69,Mobile,Credit card,Northeast,Online store,customer1317@example.com
+2026-10-18 12:44,JHG-101093,29.6,Desktop,Shop Pay,South,Online store,customer890@example.com
+2026-10-18 13:34,JHG-101097,30.35,Mobile,Apple Pay,South,Online store,customer279@example.com
+2026-10-18 13:35,JHG-101086,30.64,Mobile,Shop Pay,West,Online store,customer1271@example.com
+2026-10-18 15:03,JHG-101077,39.42,Desktop,PayPal,Midwest,Online store,customer13@example.com
+2026-10-18 15:49,JHG-101073,42.53,Desktop,Apple Pay,West,Online store,customer1054@example.com
+2026-10-18 16:50,JHG-101102,29.72,Desktop,Shop Pay,Midwest,Online store,customer1230@example.com
+2026-10-18 17:07,JHG-101089,83.4,Desktop,Shop Pay,West,Online store,customer237@example.com
+2026-10-18 17:32,JHG-101099,57.59,Mobile,Credit card,South,Online store,customer1154@example.com
+2026-10-18 17:54,JHG-101090,32.91,Desktop,Shop Pay,Midwest,Instagram shop,customer327@example.com
+2026-10-18 18:18,JHG-101072,55.97,Desktop,Credit card,Northeast,Online store,customer966@example.com
+2026-10-18 18:24,JHG-101081,25.74,Mobile,Shop Pay,Midwest,Online store,customer360@example.com
+2026-10-18 18:25,JHG-101071,53.04,Mobile,Shop Pay,Midwest,Online store,customer772@example.com
+2026-10-18 18:44,JHG-101091,36.81,Mobile,Shop Pay,South,Online store,customer692@example.com
+2026-10-18 18:50,JHG-101079,73.9,Desktop,Credit card,Northeast,Online store,customer540@example.com
+2026-10-18 18:55,JHG-101095,49.03,Mobile,Apple Pay,Northeast,Online store,customer862@example.com
+2026-10-18 19:22,JHG-101083,73.5,Mobile,Apple Pay,Northeast,Online store,customer486@example.com
+2026-10-18 19:56,JHG-101100,46.02,Tablet,Shop Pay,Midwest,Online store,customer211@example.com
+2026-10-18 22:24,JHG-101082,61.09,Mobile,Credit card,West,Online store,customer1018@example.com
+2026-10-18 22:36,JHG-101074,23.64,Mobile,Credit card,West,Online store,customer1053@example.com
+2026-10-18 23:05,JHG-101080,97.07,Desktop,Credit card,South,Instagram shop,customer618@example.com
+2026-10-18 23:22,JHG-101088,40.26,Mobile,PayPal,West,Online store,customer548@example.com
+2026-10-19 07:20,JHG-101107,54.04,Desktop,Credit card,West,Online store,customer392@example.com
+2026-10-19 07:45,JHG-101130,71.56,Desktop,Credit card,West,Instagram shop,customer397@example.com
+2026-10-19 08:27,JHG-101106,29.86,Desktop,Credit card,Northeast,Online store,customer9@example.com
+2026-10-19 08:53,JHG-101137,38.32,Mobile,Shop Pay,South,Online store,customer890@example.com
+2026-10-19 09:05,JHG-101112,43.84,Mobile,Shop Pay,West,Online store,customer98@example.com
+2026-10-19 09:27,JHG-101110,27.16,Mobile,Shop Pay,South,Online store,customer1248@example.com
+2026-10-19 09:36,JHG-101114,60.92,Mobile,Credit card,West,Online store,customer11@example.com
+2026-10-19 10:05,JHG-101134,89.23,Mobile,Apple Pay,South,Online store,customer71@example.com
+2026-10-19 10:49,JHG-101127,42.6,Mobile,Credit card,West,Online store,customer1319@example.com
+2026-10-19 11:17,JHG-101133,75.31,Desktop,Shop Pay,West,Online store,customer319@example.com
+2026-10-19 12:17,JHG-101136,41.0,Mobile,Apple Pay,South,Online store,customer1025@example.com
+2026-10-19 12:19,JHG-101113,52.04,Mobile,Apple Pay,Northeast,Online store,customer659@example.com
+2026-10-19 12:25,JHG-101139,74.03,Mobile,Credit card,Northeast,Online store,customer88@example.com
+2026-10-19 12:28,JHG-101122,84.53,Desktop,Credit card,Northeast,Online store,customer1210@example.com
+2026-10-19 12:46,JHG-101125,95.77,Mobile,Apple Pay,West,Online store,customer1321@example.com
+2026-10-19 12:46,JHG-101119,54.13,Mobile,PayPal,West,Online store,customer1271@example.com
+2026-10-19 12:56,JHG-101129,70.85,Mobile,Shop Pay,West,Pinterest,customer1351@example.com
+2026-10-19 13:19,JHG-101126,59.73,Mobile,Shop Pay,Northeast,Online store,customer1120@example.com
+2026-10-19 13:31,JHG-101138,77.72,Mobile,Shop Pay,West,Instagram shop,customer1347@example.com
+2026-10-19 13:38,JHG-101132,71.07,Mobile,Credit card,West,Online store,customer109@example.com
+2026-10-19 13:55,JHG-101104,70.32,Desktop,Credit card,Northeast,Online store,customer327@example.com
+2026-10-19 15:36,JHG-101135,23.58,Desktop,Credit card,South,Online store,customer513@example.com
+2026-10-19 16:51,JHG-101128,44.22,Desktop,Credit card,Northeast,Online store,customer145@example.com
+2026-10-19 17:22,JHG-101120,28.9,Desktop,PayPal,West,Pinterest,customer323@example.com
+2026-10-19 18:16,JHG-101109,40.48,Mobile,Shop Pay,Northeast,Online store,customer1269@example.com
+2026-10-19 18:36,JHG-101131,34.38,Desktop,Apple Pay,South,Online store,customer592@example.com
+2026-10-19 18:37,JHG-101116,43.51,Mobile,Credit card,West,Online store,customer977@example.com
+2026-10-19 18:43,JHG-101118,35.97,Desktop,Credit card,Midwest,Online store,customer210@example.com
+2026-10-19 19:06,JHG-101121,53.45,Tablet,Credit card,South,Instagram shop,customer159@example.com
+2026-10-19 19:17,JHG-101111,28.04,Desktop,PayPal,Northeast,Online store,customer174@example.com
+2026-10-19 19:29,JHG-101115,20.83,Mobile,Shop Pay,South,Online store,customer779@example.com
+2026-10-19 20:01,JHG-101108,37.18,Mobile,Shop Pay,South,Online store,customer526@example.com
+2026-10-19 20:23,JHG-101105,31.36,Desktop,Credit card,West,Online store,customer571@example.com
+2026-10-19 20:25,JHG-101117,38.6,Mobile,Shop Pay,West,Instagram shop,customer330@example.com
+2026-10-19 21:44,JHG-101124,32.6,Desktop,Shop Pay,West,Online store,customer1169@example.com
+2026-10-19 23:28,JHG-101123,23.99,Mobile,Credit card,South,Online store,customer1328@example.com
+2026-10-20 06:56,JHG-101144,46.11,Desktop,PayPal,South,Online store,customer901@example.com
+2026-10-20 07:11,JHG-101154,65.52,Mobile,Shop Pay,South,Online store,customer962@example.com
+2026-10-20 08:25,JHG-101157,65.68,Mobile,Shop Pay,Northeast,Online store,customer1370@example.com
+2026-10-20 10:43,JHG-101155,33.26,Desktop,Credit card,Midwest,Online store,customer1316@example.com
+2026-10-20 11:29,JHG-101169,53.13,Mobile,PayPal,South,Online store,customer858@example.com
+2026-10-20 11:43,JHG-101147,42.28,Mobile,Credit card,West,Online store,customer228@example.com
+2026-10-20 12:21,JHG-101141,48.59,Mobile,PayPal,West,Pinterest,customer784@example.com
+2026-10-20 12:32,JHG-101151,39.14,Desktop,PayPal,Midwest,Online store,customer384@example.com
+2026-10-20 13:41,JHG-101163,47.66,Mobile,Shop Pay,Northeast,Online store,customer81@example.com
+2026-10-20 13:50,JHG-101167,62.02,Mobile,PayPal,Midwest,Online store,customer649@example.com
+2026-10-20 15:28,JHG-101146,56.73,Mobile,Shop Pay,West,Online store,customer912@example.com
+2026-10-20 15:34,JHG-101150,63.1,Desktop,PayPal,Northeast,Online store,customer946@example.com
+2026-10-20 15:38,JHG-101153,49.5,Mobile,PayPal,Northeast,Pinterest,customer641@example.com
+2026-10-20 16:07,JHG-101165,68.47,Mobile,Credit card,West,Online store,customer1132@example.com
+2026-10-20 16:47,JHG-101161,39.97,Mobile,Shop Pay,South,Online store,customer85@example.com
+2026-10-20 16:53,JHG-101143,59.8,Desktop,Credit card,Northeast,Online store,customer1377@example.com
+2026-10-20 16:57,JHG-101156,38.65,Mobile,Apple Pay,South,Online store,customer372@example.com
+2026-10-20 17:06,JHG-101166,43.88,Desktop,Credit card,Northeast,Online store,customer352@example.com
+2026-10-20 18:33,JHG-101158,53.3,Mobile,PayPal,South,Instagram shop,customer1032@example.com
+2026-10-20 18:35,JHG-101140,44.53,Mobile,Shop Pay,South,Online store,customer348@example.com
+2026-10-20 18:36,JHG-101152,63.33,Mobile,Apple Pay,South,Online store,customer318@example.com
+2026-10-20 19:11,JHG-101148,34.1,Mobile,Credit card,South,Online store,customer39@example.com
+2026-10-20 19:26,JHG-101149,44.74,Desktop,Credit card,Northeast,Online store,customer384@example.com
+2026-10-20 19:40,JHG-101160,51.36,Desktop,Apple Pay,West,Online store,customer1218@example.com
+2026-10-20 19:46,JHG-101145,17.19,Mobile,Apple Pay,Northeast,Online store,customer1073@example.com
+2026-10-20 19:52,JHG-101168,46.32,Mobile,Shop Pay,Northeast,Online store,customer846@example.com
+2026-10-20 20:41,JHG-101164,50.98,Desktop,PayPal,Northeast,Online store,customer541@example.com
+2026-10-20 20:44,JHG-101159,60.98,Mobile,Credit card,West,Online store,customer560@example.com
+2026-10-20 21:05,JHG-101162,27.36,Desktop,Credit card,West,Online store,customer1106@example.com
+2026-10-20 22:56,JHG-101142,60.35,Mobile,Shop Pay,Midwest,Online store,customer1192@example.com
+2026-10-21 00:47,JHG-101191,47.76,Mobile,Shop Pay,West,Online store,customer865@example.com
+2026-10-21 00:49,JHG-101202,27.17,Mobile,Shop Pay,Midwest,Online store,customer390@example.com
+2026-10-21 07:54,JHG-101200,57.99,Desktop,Shop Pay,West,Instagram shop,customer91@example.com
+2026-10-21 08:07,JHG-101187,43.86,Desktop,Apple Pay,West,Pinterest,customer962@example.com
+2026-10-21 08:19,JHG-101185,24.61,Desktop,Credit card,Northeast,Online store,customer843@example.com
+2026-10-21 10:19,JHG-101183,43.21,Tablet,Credit card,West,Online store,customer326@example.com
+2026-10-21 10:33,JHG-101174,43.68,Desktop,Credit card,Midwest,Online store,customer1355@example.com
+2026-10-21 10:51,JHG-101198,70.64,Mobile,Shop Pay,Northeast,Online store,customer672@example.com
+2026-10-21 11:21,JHG-101173,40.04,Mobile,Shop Pay,Midwest,Online store,customer1108@example.com
+2026-10-21 12:20,JHG-101195,32.06,Mobile,Shop Pay,Midwest,Online store,customer524@example.com
+2026-10-21 12:44,JHG-101178,66.31,Desktop,Credit card,Northeast,Online store,customer332@example.com
+2026-10-21 13:41,JHG-101192,41.87,Mobile,Apple Pay,South,Online store,customer525@example.com
+2026-10-21 15:20,JHG-101186,35.32,Mobile,Shop Pay,West,Online store,customer1197@example.com
+2026-10-21 15:26,JHG-101190,47.52,Mobile,Shop Pay,West,Online store,customer750@example.com
+2026-10-21 15:50,JHG-101196,26.9,Desktop,PayPal,South,Instagram shop,customer1065@example.com
+2026-10-21 16:54,JHG-101177,29.6,Mobile,Credit card,South,Online store,customer708@example.com
+2026-10-21 17:07,JHG-101194,42.53,Desktop,Apple Pay,Midwest,Online store,customer350@example.com
+2026-10-21 17:29,JHG-101189,31.46,Mobile,Shop Pay,Northeast,Pinterest,customer387@example.com
+2026-10-21 17:48,JHG-101171,76.72,Desktop,Credit card,South,Online store,customer1373@example.com
+2026-10-21 18:20,JHG-101197,31.46,Desktop,Credit card,South,Online store,customer78@example.com
+2026-10-21 18:36,JHG-101181,65.11,Desktop,Credit card,West,Online store,customer801@example.com
+2026-10-21 18:47,JHG-101184,41.82,Desktop,Shop Pay,Northeast,Online store,customer347@example.com
+2026-10-21 19:37,JHG-101180,93.24,Mobile,Shop Pay,West,Online store,customer1394@example.com
+2026-10-21 19:43,JHG-101199,38.47,Desktop,Credit card,Northeast,Online store,customer849@example.com
+2026-10-21 19:47,JHG-101176,52.26,Mobile,Shop Pay,Northeast,Online store,customer9@example.com
+2026-10-21 20:26,JHG-101188,33.4,Desktop,Credit card,Northeast,Online store,customer95@example.com
+2026-10-21 20:40,JHG-101201,30.92,Desktop,PayPal,Northeast,Online store,customer107@example.com
+2026-10-21 20:42,JHG-101193,100.34,Desktop,Credit card,Midwest,Online store,customer694@example.com
+2026-10-21 21:00,JHG-101179,39.31,Mobile,Shop Pay,Northeast,Online store,customer1134@example.com
+2026-10-21 21:08,JHG-101170,46.35,Desktop,Shop Pay,West,Online store,customer972@example.com
+2026-10-21 21:13,JHG-101182,27.54,Mobile,Shop Pay,South,Online store,customer300@example.com
+2026-10-21 21:31,JHG-101203,31.2,Mobile,Shop Pay,Northeast,Instagram shop,customer891@example.com
+2026-10-21 22:01,JHG-101175,45.54,Tablet,Credit card,South,Online store,customer261@example.com
+2026-10-21 22:14,JHG-101172,45.05,Mobile,Credit card,South,Online store,customer718@example.com
+2026-10-22 03:31,JHG-101210,67.68,Mobile,Apple Pay,West,Online store,customer1121@example.com
+2026-10-22 06:08,JHG-101207,42.93,Desktop,PayPal,Northeast,Online store,customer822@example.com
+2026-10-22 07:24,JHG-101227,33.1,Mobile,Shop Pay,West,Online store,customer1034@example.com
+2026-10-22 07:47,JHG-101205,48.05,Mobile,Shop Pay,Northeast,Online store,customer1280@example.com
+2026-10-22 08:53,JHG-101218,37.26,Mobile,Apple Pay,West,Instagram shop,customer515@example.com
+2026-10-22 09:06,JHG-101233,97.23,Desktop,Credit card,Northeast,Online store,customer1314@example.com
+2026-10-22 09:17,JHG-101229,40.47,Desktop,Apple Pay,Northeast,Online store,customer563@example.com
+2026-10-22 09:28,JHG-101221,50.57,Desktop,Credit card,Midwest,Online store,customer225@example.com
+2026-10-22 09:39,JHG-101231,61.75,Mobile,Shop Pay,South,Online store,customer1394@example.com
+2026-10-22 09:51,JHG-101230,54.38,Mobile,Shop Pay,Midwest,Online store,customer49@example.com
+2026-10-22 10:33,JHG-101225,38.98,Mobile,PayPal,Northeast,Instagram shop,customer544@example.com
+2026-10-22 11:04,JHG-101208,19.13,Desktop,Credit card,West,Online store,customer302@example.com
+2026-10-22 11:08,JHG-101232,52.75,Mobile,Shop Pay,South,Instagram shop,customer341@example.com
+2026-10-22 12:18,JHG-101215,67.15,Mobile,PayPal,South,Online store,customer1197@example.com
+2026-10-22 12:23,JHG-101217,35.37,Mobile,PayPal,Northeast,Online store,customer456@example.com
+2026-10-22 12:28,JHG-101209,37.85,Desktop,Credit card,South,Online store,customer1134@example.com
+2026-10-22 12:52,JHG-101223,56.77,Mobile,PayPal,West,Pinterest,customer644@example.com
+2026-10-22 14:18,JHG-101228,51.5,Tablet,Credit card,Northeast,Online store,customer782@example.com
+2026-10-22 14:35,JHG-101213,38.03,Desktop,Credit card,Midwest,Online store,customer739@example.com
+2026-10-22 14:35,JHG-101226,62.34,Mobile,Apple Pay,West,Online store,customer879@example.com
+2026-10-22 14:53,JHG-101220,61.76,Desktop,Credit card,Midwest,Online store,customer206@example.com
+2026-10-22 15:49,JHG-101216,44.88,Desktop,Credit card,West,Online store,customer997@example.com
+2026-10-22 15:58,JHG-101224,42.64,Tablet,Credit card,Midwest,Pinterest,customer1232@example.com
+2026-10-22 16:46,JHG-101214,38.0,Mobile,Shop Pay,South,Online store,customer520@example.com
+2026-10-22 16:58,JHG-101206,64.11,Mobile,Apple Pay,West,Online store,customer1363@example.com
+2026-10-22 18:09,JHG-101222,39.64,Mobile,Shop Pay,West,Instagram shop,customer1209@example.com
+2026-10-22 19:54,JHG-101211,28.18,Mobile,PayPal,South,Online store,customer1149@example.com
+2026-10-22 20:27,JHG-101204,45.77,Desktop,Credit card,Midwest,Online store,customer490@example.com
+2026-10-22 21:22,JHG-101219,32.85,Desktop,Apple Pay,South,Online store,customer858@example.com
+2026-10-22 23:16,JHG-101212,38.13,Mobile,Shop Pay,South,Online store,customer681@example.com
+2026-10-23 00:23,JHG-101248,24.1,Desktop,Shop Pay,West,Online store,customer1329@example.com
+2026-10-23 01:54,JHG-101252,53.31,Mobile,Shop Pay,West,Online store,customer948@example.com
+2026-10-23 06:23,JHG-101263,54.03,Desktop,Shop Pay,West,Online store,customer1222@example.com
+2026-10-23 08:09,JHG-101238,42.45,Mobile,Shop Pay,Midwest,Instagram shop,customer311@example.com
+2026-10-23 08:45,JHG-101245,21.79,Mobile,Shop Pay,West,Online store,customer767@example.com
+2026-10-23 09:06,JHG-101246,32.86,Desktop,Shop Pay,Northeast,Online store,customer693@example.com
+2026-10-23 09:06,JHG-101261,41.35,Desktop,Shop Pay,West,Online store,customer395@example.com
+2026-10-23 09:14,JHG-101236,44.64,Mobile,Shop Pay,South,Online store,customer1399@example.com
+2026-10-23 09:38,JHG-101247,36.23,Mobile,Shop Pay,Midwest,Online store,customer74@example.com
+2026-10-23 09:39,JHG-101259,58.09,Mobile,Credit card,Midwest,Online store,customer1160@example.com
+2026-10-23 11:57,JHG-101254,73.97,Mobile,Credit card,West,Instagram shop,customer840@example.com
+2026-10-23 13:06,JHG-101257,68.5,Desktop,Shop Pay,South,Online store,customer134@example.com
+2026-10-23 13:42,JHG-101239,52.99,Desktop,PayPal,Midwest,Online store,customer713@example.com
+2026-10-23 13:56,JHG-101258,27.68,Mobile,Shop Pay,West,Online store,customer697@example.com
+2026-10-23 15:06,JHG-101240,73.09,Desktop,Shop Pay,West,Online store,customer326@example.com
+2026-10-23 15:52,JHG-101234,36.06,Mobile,Shop Pay,Northeast,Online store,customer286@example.com
+2026-10-23 17:21,JHG-101242,44.45,Mobile,Shop Pay,South,Online store,customer1053@example.com
+2026-10-23 17:52,JHG-101237,52.58,Mobile,PayPal,West,Online store,customer1055@example.com
+2026-10-23 18:12,JHG-101256,61.45,Mobile,Apple Pay,Midwest,Online store,customer881@example.com
+2026-10-23 18:23,JHG-101265,144.26,Mobile,Apple Pay,South,Online store,customer1083@example.com
+2026-10-23 18:37,JHG-101251,52.02,Tablet,Shop Pay,Northeast,Online store,customer925@example.com
+2026-10-23 19:03,JHG-101250,35.6,Mobile,Shop Pay,South,Online store,customer175@example.com
+2026-10-23 19:24,JHG-101264,64.01,Mobile,Credit card,West,Online store,customer1298@example.com
+2026-10-23 19:27,JHG-101262,28.9,Mobile,PayPal,South,Online store,customer187@example.com
+2026-10-23 19:34,JHG-101243,30.92,Desktop,Shop Pay,West,Online store,customer1137@example.com
+2026-10-23 20:04,JHG-101235,41.4,Tablet,Credit card,Northeast,Online store,customer505@example.com
+2026-10-23 20:45,JHG-101260,55.09,Mobile,Shop Pay,Midwest,Online store,customer1356@example.com
+2026-10-23 21:15,JHG-101253,30.59,Mobile,Apple Pay,Midwest,Online store,customer279@example.com
+2026-10-23 22:08,JHG-101249,31.04,Mobile,Credit card,West,Online store,customer844@example.com
+2026-10-23 22:23,JHG-101241,133.29,Mobile,Shop Pay,Midwest,Online store,customer1358@example.com
+2026-10-23 22:29,JHG-101255,52.85,Desktop,PayPal,West,Online store,customer177@example.com
+2026-10-23 22:51,JHG-101244,52.97,Desktop,PayPal,West,Online store,customer228@example.com
+2026-10-24 04:59,JHG-101287,61.08,Desktop,Credit card,Northeast,Online store,customer440@example.com
+2026-10-24 05:48,JHG-101275,34.87,Desktop,Apple Pay,West,Online store,customer1031@example.com
+2026-10-24 05:55,JHG-101266,65.47,Desktop,PayPal,West,Online store,customer1227@example.com
+2026-10-24 06:41,JHG-101285,99.07,Mobile,Shop Pay,South,Online store,customer1315@example.com
+2026-10-24 07:31,JHG-101297,47.3,Mobile,PayPal,South,Online store,customer136@example.com
+2026-10-24 07:35,JHG-101283,42.28,Mobile,Shop Pay,Northeast,Pinterest,customer680@example.com
+2026-10-24 09:04,JHG-101291,77.07,Mobile,Shop Pay,South,Online store,customer894@example.com
+2026-10-24 09:08,JHG-101279,59.49,Mobile,Shop Pay,South,Online store,customer1328@example.com
+2026-10-24 09:13,JHG-101290,35.89,Mobile,Apple Pay,Midwest,Online store,customer800@example.com
+2026-10-24 09:27,JHG-101300,51.97,Desktop,Credit card,West,Online store,customer1131@example.com
+2026-10-24 10:03,JHG-101286,26.05,Mobile,Shop Pay,West,Online store,customer954@example.com
+2026-10-24 10:34,JHG-101282,37.16,Mobile,Shop Pay,West,Online store,customer237@example.com
+2026-10-24 11:04,JHG-101293,32.47,Desktop,Credit card,South,Online store,customer691@example.com
+2026-10-24 11:28,JHG-101292,43.42,Tablet,Credit card,West,Online store,customer841@example.com
+2026-10-24 13:08,JHG-101270,70.69,Desktop,Credit card,Northeast,Online store,customer484@example.com
+2026-10-24 14:16,JHG-101288,26.95,Desktop,Credit card,South,Online store,customer291@example.com
+2026-10-24 14:32,JHG-101299,20.59,Mobile,Apple Pay,South,Online store,customer267@example.com
+2026-10-24 15:02,JHG-101301,83.67,Mobile,Credit card,Midwest,Online store,customer345@example.com
+2026-10-24 15:04,JHG-101298,49.99,Desktop,PayPal,South,Online store,customer136@example.com
+2026-10-24 15:15,JHG-101276,25.45,Desktop,Credit card,West,Online store,customer929@example.com
+2026-10-24 15:17,JHG-101269,76.17,Mobile,Shop Pay,South,Online store,customer23@example.com
+2026-10-24 16:45,JHG-101271,35.29,Desktop,PayPal,West,Online store,customer417@example.com
+2026-10-24 17:21,JHG-101289,52.29,Mobile,Apple Pay,South,Pinterest,customer747@example.com
+2026-10-24 17:48,JHG-101284,68.73,Desktop,Apple Pay,Northeast,Online store,customer114@example.com
+2026-10-24 17:54,JHG-101296,22.19,Mobile,Credit card,Northeast,Instagram shop,customer314@example.com
+2026-10-24 18:51,JHG-101280,52.98,Desktop,Credit card,South,Online store,customer895@example.com
+2026-10-24 19:04,JHG-101273,42.73,Desktop,PayPal,West,Instagram shop,customer856@example.com
+2026-10-24 19:28,JHG-101268,26.6,Mobile,Shop Pay,Northeast,Instagram shop,customer422@example.com
+2026-10-24 19:46,JHG-101278,43.21,Mobile,PayPal,Northeast,Online store,customer1085@example.com
+2026-10-24 19:46,JHG-101295,44.0,Mobile,Apple Pay,South,Online store,customer183@example.com
+2026-10-24 20:07,JHG-101281,31.03,Desktop,Credit card,Midwest,Online store,customer908@example.com
+2026-10-24 20:10,JHG-101277,24.24,Desktop,PayPal,Midwest,Online store,customer731@example.com
+2026-10-24 21:24,JHG-101267,37.29,Desktop,Credit card,South,Online store,customer704@example.com
+2026-10-24 21:35,JHG-101294,21.77,Mobile,Shop Pay,South,Instagram shop,customer1238@example.com
+2026-10-24 22:12,JHG-101274,60.45,Desktop,Credit card,South,Instagram shop,customer752@example.com
+2026-10-24 23:15,JHG-101272,82.7,Mobile,Credit card,West,Online store,customer121@example.com
+2026-10-25 01:53,JHG-101313,22.03,Mobile,Credit card,West,Online store,customer697@example.com
+2026-10-25 05:05,JHG-101325,41.52,Mobile,Shop Pay,West,Online store,customer659@example.com
+2026-10-25 07:47,JHG-101309,34.69,Desktop,Shop Pay,South,Instagram shop,customer178@example.com
+2026-10-25 08:35,JHG-101307,43.75,Mobile,Apple Pay,Midwest,Online store,customer327@example.com
+2026-10-25 08:52,JHG-101312,47.29,Desktop,Credit card,West,Online store,customer1360@example.com
+2026-10-25 09:44,JHG-101322,37.63,Desktop,PayPal,West,Online store,customer226@example.com
+2026-10-25 10:04,JHG-101319,51.46,Desktop,Credit card,Northeast,Online store,customer1140@example.com
+2026-10-25 10:08,JHG-101316,51.33,Mobile,Shop Pay,Northeast,Online store,customer1264@example.com
+2026-10-25 10:48,JHG-101324,18.15,Mobile,Shop Pay,Northeast,Online store,customer1120@example.com
+2026-10-25 11:31,JHG-101308,40.98,Desktop,Shop Pay,Northeast,Online store,customer484@example.com
+2026-10-25 11:41,JHG-101323,49.27,Desktop,Shop Pay,South,Online store,customer394@example.com
+2026-10-25 11:52,JHG-101317,36.45,Mobile,PayPal,West,Online store,customer716@example.com
+2026-10-25 12:50,JHG-101314,33.21,Mobile,Credit card,South,Online store,customer987@example.com
+2026-10-25 13:09,JHG-101327,67.13,Mobile,Shop Pay,Midwest,Online store,customer1038@example.com
+2026-10-25 13:09,JHG-101321,42.08,Desktop,Credit card,Northeast,Online store,customer385@example.com
+2026-10-25 13:15,JHG-101315,30.33,Mobile,Apple Pay,West,Online store,customer40@example.com
+2026-10-25 13:25,JHG-101320,52.75,Desktop,PayPal,West,Online store,customer477@example.com
+2026-10-25 13:52,JHG-101302,43.5,Mobile,PayPal,South,Online store,customer919@example.com
+2026-10-25 14:04,JHG-101318,98.38,Mobile,Shop Pay,South,Instagram shop,customer363@example.com
+2026-10-25 14:39,JHG-101311,60.34,Mobile,Shop Pay,South,Online store,customer1182@example.com
+2026-10-25 15:58,JHG-101332,34.21,Mobile,Shop Pay,Northeast,Instagram shop,customer1045@example.com
+2026-10-25 16:18,JHG-101331,68.23,Mobile,Shop Pay,West,Online store,customer1233@example.com
+2026-10-25 16:34,JHG-101303,36.98,Tablet,Credit card,South,Online store,customer570@example.com
+2026-10-25 17:11,JHG-101310,33.08,Mobile,Shop Pay,South,Online store,customer913@example.com
+2026-10-25 17:22,JHG-101306,60.31,Mobile,Shop Pay,West,Online store,customer540@example.com
+2026-10-25 17:40,JHG-101328,30.71,Mobile,Credit card,Midwest,Online store,customer842@example.com
+2026-10-25 18:40,JHG-101326,63.77,Mobile,Credit card,Northeast,Online store,customer554@example.com
+2026-10-25 19:02,JHG-101305,60.84,Desktop,Shop Pay,West,Online store,customer1063@example.com
+2026-10-25 19:16,JHG-101330,34.94,Desktop,PayPal,South,Online store,customer1010@example.com
+2026-10-25 19:36,JHG-101329,31.33,Mobile,Shop Pay,South,Online store,customer69@example.com
+2026-10-25 23:56,JHG-101304,67.0,Mobile,Credit card,South,Online store,customer283@example.com
+2026-10-26 01:26,JHG-101353,37.7,Mobile,Shop Pay,Northeast,Instagram shop,customer164@example.com
+2026-10-26 02:36,JHG-101364,36.44,Mobile,Shop Pay,South,Online store,customer1112@example.com
+2026-10-26 07:38,JHG-101345,29.87,Mobile,Shop Pay,South,Online store,customer1142@example.com
+2026-10-26 09:12,JHG-101361,45.02,Desktop,Credit card,Northeast,Instagram shop,customer130@example.com
+2026-10-26 09:12,JHG-101350,29.56,Mobile,PayPal,South,Pinterest,customer921@example.com
+2026-10-26 09:51,JHG-101360,26.9,Desktop,Apple Pay,West,Instagram shop,customer711@example.com
+2026-10-26 10:18,JHG-101351,57.68,Desktop,PayPal,Northeast,Online store,customer992@example.com
+2026-10-26 10:23,JHG-101349,66.19,Tablet,PayPal,Northeast,Online store,customer706@example.com
+2026-10-26 11:20,JHG-101363,47.74,Mobile,Shop Pay,West,Online store,customer360@example.com
+2026-10-26 11:45,JHG-101337,32.28,Desktop,Credit card,South,Online store,customer369@example.com
+2026-10-26 12:23,JHG-101357,55.85,Desktop,PayPal,Midwest,Online store,customer348@example.com
+2026-10-26 12:41,JHG-101348,46.14,Mobile,Shop Pay,Northeast,Online store,customer1189@example.com
+2026-10-26 12:50,JHG-101358,73.71,Desktop,Apple Pay,West,Online store,customer983@example.com
+2026-10-26 13:00,JHG-101346,30.28,Desktop,PayPal,West,Online store,customer985@example.com
+2026-10-26 13:00,JHG-101335,44.12,Mobile,Shop Pay,South,Online store,customer1195@example.com
+2026-10-26 13:13,JHG-101334,48.61,Mobile,PayPal,South,Online store,customer481@example.com
+2026-10-26 13:44,JHG-101336,40.84,Mobile,Credit card,Northeast,Online store,customer775@example.com
+2026-10-26 14:05,JHG-101333,34.53,Mobile,Shop Pay,Midwest,Instagram shop,customer762@example.com
+2026-10-26 14:39,JHG-101366,45.67,Mobile,Shop Pay,West,Online store,customer324@example.com
+2026-10-26 14:47,JHG-101339,39.56,Mobile,Shop Pay,West,Online store,customer46@example.com
+2026-10-26 15:02,JHG-101338,22.12,Mobile,Shop Pay,West,Online store,customer271@example.com
+2026-10-26 16:52,JHG-101340,53.56,Mobile,Shop Pay,West,Online store,customer210@example.com
+2026-10-26 17:05,JHG-101359,75.5,Mobile,Shop Pay,South,Online store,customer954@example.com
+2026-10-26 17:21,JHG-101356,44.84,Desktop,Credit card,West,Online store,customer1134@example.com
+2026-10-26 17:29,JHG-101341,67.21,Mobile,PayPal,South,Online store,customer995@example.com
+2026-10-26 17:58,JHG-101355,68.22,Desktop,Shop Pay,South,Online store,customer1095@example.com
+2026-10-26 18:04,JHG-101344,107.47,Mobile,Shop Pay,Midwest,Online store,customer1287@example.com
+2026-10-26 18:37,JHG-101365,76.11,Mobile,Credit card,Northeast,Online store,customer817@example.com
+2026-10-26 19:03,JHG-101343,88.26,Desktop,Shop Pay,Northeast,Online store,customer904@example.com
+2026-10-26 20:07,JHG-101354,36.28,Desktop,Shop Pay,Northeast,Online store,customer536@example.com
+2026-10-26 21:07,JHG-101347,26.67,Mobile,Shop Pay,Midwest,Instagram shop,customer963@example.com
+2026-10-26 22:10,JHG-101342,41.48,Mobile,Shop Pay,West,Online store,customer490@example.com
+2026-10-26 22:27,JHG-101352,50.58,Desktop,Credit card,Northeast,Pinterest,customer1248@example.com
+2026-10-26 22:27,JHG-101367,31.57,Mobile,Shop Pay,West,Online store,customer33@example.com
+2026-10-26 22:28,JHG-101362,63.68,Mobile,Shop Pay,Northeast,Online store,customer1084@example.com
+2026-10-27 08:16,JHG-101372,48.82,Mobile,Shop Pay,Midwest,Online store,customer644@example.com
+2026-10-27 08:52,JHG-101382,50.9,Mobile,Shop Pay,South,Instagram shop,customer1388@example.com
+2026-10-27 09:28,JHG-101397,53.35,Tablet,Credit card,Northeast,Online store,customer157@example.com
+2026-10-27 10:02,JHG-101388,42.49,Desktop,Shop Pay,West,Online store,customer390@example.com
+2026-10-27 10:13,JHG-101370,47.71,Mobile,Shop Pay,Midwest,Online store,customer966@example.com
+2026-10-27 10:36,JHG-101392,55.76,Mobile,Shop Pay,West,Online store,customer1314@example.com
+2026-10-27 10:59,JHG-101378,43.48,Mobile,Shop Pay,West,Online store,customer68@example.com
+2026-10-27 10:59,JHG-101383,32.72,Mobile,Shop Pay,West,Instagram shop,customer1065@example.com
+2026-10-27 11:20,JHG-101373,42.37,Desktop,Credit card,Northeast,Online store,customer623@example.com
+2026-10-27 12:35,JHG-101371,40.49,Mobile,PayPal,Midwest,Online store,customer487@example.com
+2026-10-27 13:39,JHG-101384,59.76,Mobile,Shop Pay,South,Online store,customer1374@example.com
+2026-10-27 14:19,JHG-101395,43.22,Mobile,PayPal,West,Online store,customer41@example.com
+2026-10-27 14:33,JHG-101368,60.64,Desktop,PayPal,West,Online store,customer1041@example.com
+2026-10-27 16:55,JHG-101375,29.22,Desktop,PayPal,South,Online store,customer1220@example.com
+2026-10-27 17:02,JHG-101387,66.41,Mobile,Apple Pay,West,Online store,customer593@example.com
+2026-10-27 17:10,JHG-101390,28.68,Desktop,Shop Pay,South,Online store,customer1127@example.com
+2026-10-27 17:36,JHG-101377,26.91,Mobile,PayPal,West,Online store,customer296@example.com
+2026-10-27 18:23,JHG-101379,39.66,Desktop,Credit card,Midwest,Online store,customer1226@example.com
+2026-10-27 18:34,JHG-101376,69.49,Mobile,Apple Pay,West,Online store,customer895@example.com
+2026-10-27 18:36,JHG-101391,42.86,Tablet,Apple Pay,Midwest,Online store,customer1138@example.com
+2026-10-27 18:37,JHG-101393,42.69,Mobile,Shop Pay,South,Online store,customer237@example.com
+2026-10-27 18:40,JHG-101394,45.73,Mobile,Shop Pay,West,Online store,customer1233@example.com
+2026-10-27 18:49,JHG-101385,22.75,Mobile,PayPal,West,Online store,customer588@example.com
+2026-10-27 18:58,JHG-101380,63.23,Desktop,Shop Pay,West,Online store,customer824@example.com
+2026-10-27 19:28,JHG-101386,21.18,Desktop,PayPal,Northeast,Online store,customer985@example.com
+2026-10-27 20:01,JHG-101389,26.0,Mobile,Shop Pay,West,Online store,customer749@example.com
+2026-10-27 20:04,JHG-101396,43.01,Mobile,Shop Pay,Midwest,Online store,customer540@example.com
+2026-10-27 20:20,JHG-101369,77.71,Mobile,Shop Pay,West,Online store,customer315@example.com
+2026-10-27 21:13,JHG-101374,45.93,Mobile,Shop Pay,West,Online store,customer252@example.com
+2026-10-27 21:37,JHG-101381,49.06,Desktop,PayPal,West,Online store,customer744@example.com
+2026-10-28 09:02,JHG-101412,50.96,Mobile,Shop Pay,Midwest,Online store,customer1385@example.com
+2026-10-28 09:10,JHG-101418,35.63,Mobile,Shop Pay,West,Online store,customer871@example.com
+2026-10-28 09:14,JHG-101405,49.11,Mobile,Credit card,Northeast,Online store,customer47@example.com
+2026-10-28 09:57,JHG-101409,30.36,Mobile,Apple Pay,West,Instagram shop,customer275@example.com
+2026-10-28 10:33,JHG-101421,75.13,Mobile,Shop Pay,Northeast,Online store,customer1019@example.com
+2026-10-28 10:36,JHG-101424,58.2,Mobile,Apple Pay,Northeast,Online store,customer1337@example.com
+2026-10-28 11:26,JHG-101414,24.41,Mobile,Shop Pay,South,Instagram shop,customer768@example.com
+2026-10-28 11:59,JHG-101407,31.45,Mobile,Shop Pay,West,Online store,customer528@example.com
+2026-10-28 12:08,JHG-101408,32.04,Mobile,Credit card,Northeast,Instagram shop,customer517@example.com
+2026-10-28 12:26,JHG-101422,70.92,Mobile,Shop Pay,West,Online store,customer327@example.com
+2026-10-28 12:33,JHG-101399,40.05,Mobile,Shop Pay,West,Instagram shop,customer232@example.com
+2026-10-28 12:52,JHG-101402,39.28,Mobile,Shop Pay,Midwest,Online store,customer640@example.com
+2026-10-28 13:21,JHG-101427,60.73,Desktop,Credit card,South,Online store,customer904@example.com
+2026-10-28 13:27,JHG-101400,27.37,Desktop,Shop Pay,Midwest,Online store,customer1397@example.com
+2026-10-28 13:29,JHG-101420,86.26,Mobile,Credit card,South,Online store,customer1352@example.com
+2026-10-28 14:02,JHG-101426,62.11,Mobile,Shop Pay,West,Online store,customer495@example.com
+2026-10-28 14:17,JHG-101404,45.51,Mobile,Apple Pay,West,Online store,customer283@example.com
+2026-10-28 15:15,JHG-101423,49.99,Mobile,Credit card,Northeast,Online store,customer85@example.com
+2026-10-28 16:45,JHG-101410,26.57,Mobile,Shop Pay,West,Online store,customer469@example.com
+2026-10-28 17:31,JHG-101416,38.44,Mobile,Shop Pay,West,Online store,customer531@example.com
+2026-10-28 18:45,JHG-101419,39.09,Mobile,Credit card,West,Online store,customer631@example.com
+2026-10-28 18:48,JHG-101401,51.51,Mobile,Shop Pay,South,Online store,customer625@example.com
+2026-10-28 19:01,JHG-101415,31.64,Desktop,Credit card,Northeast,Online store,customer1122@example.com
+2026-10-28 19:15,JHG-101413,89.94,Mobile,Shop Pay,Midwest,Online store,customer470@example.com
+2026-10-28 19:39,JHG-101411,30.5,Desktop,Credit card,West,Online store,customer1132@example.com
+2026-10-28 19:52,JHG-101406,38.95,Desktop,PayPal,Northeast,Online store,customer1329@example.com
+2026-10-28 20:35,JHG-101403,26.84,Desktop,Shop Pay,South,Instagram shop,customer869@example.com
+2026-10-28 21:41,JHG-101425,41.66,Mobile,Credit card,South,Online store,customer1059@example.com
+2026-10-28 22:09,JHG-101417,34.42,Tablet,Shop Pay,West,Online store,customer461@example.com
+2026-10-28 23:40,JHG-101398,34.04,Mobile,Shop Pay,Midwest,Online store,customer789@example.com
+2026-10-29 08:04,JHG-101443,53.04,Mobile,Credit card,South,Online store,customer693@example.com
+2026-10-29 08:21,JHG-101444,46.45,Mobile,Shop Pay,Northeast,Online store,customer780@example.com
+2026-10-29 09:32,JHG-101428,43.12,Desktop,Shop Pay,South,Online store,customer802@example.com
+2026-10-29 10:10,JHG-101452,41.38,Mobile,PayPal,Midwest,Online store,customer504@example.com
+2026-10-29 10:19,JHG-101457,38.61,Mobile,Shop Pay,Northeast,Online store,customer437@example.com
+2026-10-29 10:20,JHG-101439,52.77,Mobile,Shop Pay,Midwest,Online store,customer348@example.com
+2026-10-29 11:06,JHG-101431,41.64,Mobile,Shop Pay,Northeast,Online store,customer660@example.com
+2026-10-29 11:37,JHG-101430,39.84,Mobile,Apple Pay,West,Online store,customer345@example.com
+2026-10-29 11:45,JHG-101456,28.2,Mobile,Shop Pay,Northeast,Online store,customer800@example.com
+2026-10-29 11:47,JHG-101446,54.05,Mobile,Shop Pay,West,Online store,customer1284@example.com
+2026-10-29 12:15,JHG-101436,50.34,Mobile,Apple Pay,Northeast,Instagram shop,customer540@example.com
+2026-10-29 12:28,JHG-101451,48.6,Mobile,Credit card,Midwest,Online store,customer640@example.com
+2026-10-29 12:34,JHG-101432,56.45,Mobile,Apple Pay,Northeast,Online store,customer376@example.com
+2026-10-29 12:57,JHG-101433,38.49,Mobile,Credit card,South,Online store,customer1263@example.com
+2026-10-29 13:12,JHG-101450,47.05,Desktop,Credit card,Northeast,Online store,customer281@example.com
+2026-10-29 13:15,JHG-101460,59.91,Mobile,Shop Pay,Midwest,Online store,customer815@example.com
+2026-10-29 15:28,JHG-101447,54.63,Mobile,Credit card,South,Instagram shop,customer317@example.com
+2026-10-29 15:38,JHG-101459,37.61,Mobile,Credit card,Northeast,Online store,customer1130@example.com
+2026-10-29 15:42,JHG-101454,38.79,Mobile,Apple Pay,Midwest,Pinterest,customer70@example.com
+2026-10-29 17:19,JHG-101448,40.35,Desktop,PayPal,West,Online store,customer21@example.com
+2026-10-29 17:39,JHG-101455,73.7,Mobile,Credit card,Midwest,Online store,customer785@example.com
+2026-10-29 18:34,JHG-101429,52.57,Desktop,PayPal,West,Online store,customer1123@example.com
+2026-10-29 19:25,JHG-101440,43.6,Mobile,Apple Pay,West,Online store,customer596@example.com
+2026-10-29 19:42,JHG-101449,48.16,Mobile,Shop Pay,West,Instagram shop,customer1094@example.com
+2026-10-29 20:04,JHG-101445,42.76,Desktop,Shop Pay,Midwest,Online store,customer523@example.com
+2026-10-29 20:06,JHG-101442,47.22,Desktop,Shop Pay,South,Online store,customer654@example.com
+2026-10-29 20:13,JHG-101441,90.32,Mobile,Credit card,South,Online store,customer310@example.com
+2026-10-29 20:42,JHG-101438,41.75,Desktop,Shop Pay,Midwest,Online store,customer653@example.com
+2026-10-29 20:49,JHG-101435,47.78,Desktop,Credit card,South,Instagram shop,customer632@example.com
+2026-10-29 20:53,JHG-101453,68.21,Desktop,Credit card,West,Online store,customer364@example.com
+2026-10-29 21:10,JHG-101458,67.36,Desktop,Shop Pay,Northeast,Online store,customer1349@example.com
+2026-10-29 21:19,JHG-101437,49.62,Desktop,PayPal,West,Instagram shop,customer39@example.com
+2026-10-29 21:27,JHG-101434,38.98,Mobile,Credit card,South,Online store,customer1377@example.com
+2026-10-30 00:16,JHG-101491,45.41,Mobile,Shop Pay,West,Online store,customer717@example.com
+2026-10-30 04:01,JHG-101471,117.32,Mobile,Shop Pay,West,Online store,customer1212@example.com
+2026-10-30 04:25,JHG-101464,68.21,Desktop,Credit card,West,Online store,customer530@example.com
+2026-10-30 05:40,JHG-101472,55.63,Mobile,Shop Pay,Northeast,Online store,customer441@example.com
+2026-10-30 07:22,JHG-101488,42.6,Mobile,Apple Pay,Midwest,Online store,customer939@example.com
+2026-10-30 07:24,JHG-101468,24.97,Mobile,Shop Pay,West,Online store,customer482@example.com
+2026-10-30 07:57,JHG-101467,50.38,Desktop,Apple Pay,West,Online store,customer1215@example.com
+2026-10-30 08:23,JHG-101493,29.02,Desktop,Credit card,West,Online store,customer733@example.com
+2026-10-30 09:33,JHG-101465,94.4,Tablet,Credit card,West,Online store,customer679@example.com
+2026-10-30 09:34,JHG-101481,37.11,Mobile,Credit card,West,Online store,customer767@example.com
+2026-10-30 10:07,JHG-101492,31.18,Mobile,PayPal,Northeast,Online store,customer1150@example.com
+2026-10-30 10:32,JHG-101477,37.08,Desktop,PayPal,West,Online store,customer1236@example.com
+2026-10-30 10:47,JHG-101475,35.74,Mobile,Apple Pay,Midwest,Online store,customer191@example.com
+2026-10-30 11:23,JHG-101480,72.84,Tablet,Credit card,Northeast,Pinterest,customer1313@example.com
+2026-10-30 11:36,JHG-101461,53.8,Mobile,Shop Pay,West,Online store,customer23@example.com
+2026-10-30 11:42,JHG-101463,30.31,Desktop,Credit card,Midwest,Online store,customer163@example.com
+2026-10-30 11:56,JHG-101486,53.77,Mobile,Shop Pay,West,Online store,customer575@example.com
+2026-10-30 13:31,JHG-101487,28.74,Tablet,Apple Pay,Midwest,Online store,customer1048@example.com
+2026-10-30 13:36,JHG-101476,53.26,Mobile,Credit card,West,Pinterest,customer928@example.com
+2026-10-30 13:50,JHG-101466,49.72,Mobile,PayPal,South,Online store,customer108@example.com
+2026-10-30 13:55,JHG-101462,43.76,Desktop,PayPal,West,Online store,customer421@example.com
+2026-10-30 14:37,JHG-101490,42.96,Mobile,Credit card,West,Instagram shop,customer333@example.com
+2026-10-30 15:20,JHG-101478,41.59,Desktop,PayPal,Midwest,Online store,customer511@example.com
+2026-10-30 16:16,JHG-101485,68.03,Mobile,Shop Pay,West,Online store,customer437@example.com
+2026-10-30 18:48,JHG-101484,43.68,Mobile,PayPal,South,Online store,customer530@example.com
+2026-10-30 19:51,JHG-101473,51.19,Mobile,Shop Pay,Northeast,Pinterest,customer476@example.com
+2026-10-30 20:09,JHG-101470,38.36,Desktop,Credit card,West,Online store,customer583@example.com
+2026-10-30 20:47,JHG-101482,22.98,Mobile,Shop Pay,South,Online store,customer616@example.com
+2026-10-30 20:58,JHG-101483,38.06,Desktop,Shop Pay,Northeast,Online store,customer481@example.com
+2026-10-30 21:02,JHG-101474,36.33,Mobile,Shop Pay,Northeast,Instagram shop,customer1060@example.com
+2026-10-30 21:23,JHG-101469,49.3,Mobile,Shop Pay,Northeast,Online store,customer1059@example.com
+2026-10-30 21:42,JHG-101479,60.39,Mobile,Apple Pay,West,Online store,customer925@example.com
+2026-10-30 21:46,JHG-101489,26.65,Mobile,Shop Pay,Midwest,Online store,customer821@example.com
+2026-10-31 00:18,JHG-101519,35.22,Mobile,Apple Pay,West,Online store,customer1264@example.com
+2026-10-31 07:58,JHG-101512,24.09,Desktop,Credit card,West,Online store,customer637@example.com
+2026-10-31 08:28,JHG-101501,55.97,Mobile,Credit card,Northeast,Instagram shop,customer255@example.com
+2026-10-31 08:48,JHG-101497,57.07,Desktop,PayPal,Northeast,Online store,customer932@example.com
+2026-10-31 09:40,JHG-101506,45.12,Mobile,Shop Pay,West,Online store,customer117@example.com
+2026-10-31 10:25,JHG-101520,38.63,Mobile,Shop Pay,West,Online store,customer825@example.com
+2026-10-31 10:28,JHG-101513,43.34,Desktop,Credit card,South,Online store,customer1159@example.com
+2026-10-31 11:14,JHG-101504,47.04,Desktop,Shop Pay,West,Online store,customer962@example.com
+2026-10-31 11:20,JHG-101511,23.16,Mobile,Credit card,South,Online store,customer814@example.com
+2026-10-31 11:48,JHG-101503,74.91,Desktop,Credit card,Northeast,Online store,customer1317@example.com
+2026-10-31 12:23,JHG-101507,26.47,Mobile,Credit card,South,Online store,customer635@example.com
+2026-10-31 12:56,JHG-101505,49.26,Mobile,Shop Pay,West,Online store,customer338@example.com
+2026-10-31 13:07,JHG-101495,37.32,Mobile,Credit card,South,Instagram shop,customer1215@example.com
+2026-10-31 13:14,JHG-101515,30.95,Mobile,Shop Pay,West,Online store,customer471@example.com
+2026-10-31 14:26,JHG-101518,69.22,Desktop,Shop Pay,West,Online store,customer1060@example.com
+2026-10-31 14:30,JHG-101527,22.13,Mobile,Credit card,West,Online store,customer486@example.com
+2026-10-31 14:32,JHG-101496,42.8,Desktop,Credit card,Midwest,Online store,customer1178@example.com
+2026-10-31 14:45,JHG-101522,45.8,Mobile,PayPal,South,Online store,customer232@example.com
+2026-10-31 15:05,JHG-101523,68.4,Desktop,Credit card,South,Online store,customer421@example.com
+2026-10-31 15:34,JHG-101521,58.64,Desktop,PayPal,South,Online store,customer1396@example.com
+2026-10-31 15:41,JHG-101526,42.79,Mobile,PayPal,South,Online store,customer394@example.com
+2026-10-31 15:52,JHG-101525,62.35,Desktop,Credit card,South,Online store,customer1199@example.com
+2026-10-31 16:02,JHG-101516,107.74,Desktop,Apple Pay,Northeast,Pinterest,customer319@example.com
+2026-10-31 16:38,JHG-101524,65.16,Tablet,Shop Pay,Midwest,Online store,customer84@example.com
+2026-10-31 16:51,JHG-101498,35.5,Mobile,Shop Pay,Northeast,Online store,customer181@example.com
+2026-10-31 16:52,JHG-101502,107.58,Desktop,PayPal,Northeast,Online store,customer928@example.com
+2026-10-31 17:39,JHG-101528,47.51,Mobile,Shop Pay,West,Online store,customer324@example.com
+2026-10-31 18:15,JHG-101508,37.04,Mobile,Shop Pay,West,Online store,customer555@example.com
+2026-10-31 18:39,JHG-101517,49.9,Mobile,Credit card,West,Online store,customer1310@example.com
+2026-10-31 19:03,JHG-101509,33.47,Tablet,Shop Pay,West,Online store,customer472@example.com
+2026-10-31 19:22,JHG-101500,55.02,Mobile,Shop Pay,South,Pinterest,customer983@example.com
+2026-10-31 19:27,JHG-101529,76.37,Desktop,Credit card,West,Online store,customer1276@example.com
+2026-10-31 19:57,JHG-101499,29.28,Desktop,Credit card,South,Online store,customer889@example.com
+2026-10-31 21:02,JHG-101510,28.12,Mobile,Credit card,Northeast,Instagram shop,customer1007@example.com
+2026-10-31 21:16,JHG-101494,28.09,Mobile,Credit card,South,Pinterest,customer17@example.com
+2026-10-31 22:17,JHG-101514,36.68,Mobile,PayPal,Midwest,Instagram shop,customer603@example.com
+2026-11-01 02:48,JHG-101559,52.17,Mobile,Credit card,Northeast,Instagram shop,customer641@example.com
+2026-11-01 08:19,JHG-101531,55.02,Desktop,Credit card,South,Online store,customer402@example.com
+2026-11-01 08:34,JHG-101560,18.45,Mobile,Shop Pay,West,Online store,customer226@example.com
+2026-11-01 08:39,JHG-101548,36.31,Desktop,PayPal,West,Online store,customer1084@example.com
+2026-11-01 09:08,JHG-101542,46.67,Desktop,Credit card,West,Online store,customer1233@example.com
+2026-11-01 10:03,JHG-101541,22.62,Desktop,Credit card,West,Online store,customer178@example.com
+2026-11-01 10:37,JHG-101532,37.14,Desktop,PayPal,Midwest,Online store,customer691@example.com
+2026-11-01 11:22,JHG-101555,27.41,Desktop,Shop Pay,South,Online store,customer343@example.com
+2026-11-01 12:20,JHG-101539,56.86,Desktop,Credit card,West,Online store,customer925@example.com
+2026-11-01 13:00,JHG-101561,49.31,Mobile,Shop Pay,West,Online store,customer409@example.com
+2026-11-01 13:26,JHG-101562,61.41,Mobile,Shop Pay,Northeast,Online store,customer1229@example.com
+2026-11-01 13:45,JHG-101530,21.58,Mobile,Shop Pay,West,Online store,customer1005@example.com
+2026-11-01 14:30,JHG-101533,35.27,Desktop,Shop Pay,West,Online store,customer1220@example.com
+2026-11-01 16:49,JHG-101538,26.78,Desktop,Shop Pay,Northeast,Online store,customer1256@example.com
+2026-11-01 17:09,JHG-101536,48.43,Mobile,Shop Pay,Northeast,Online store,customer1088@example.com
+2026-11-01 17:34,JHG-101546,72.52,Mobile,Shop Pay,Midwest,Instagram shop,customer216@example.com
+2026-11-01 17:40,JHG-101544,44.09,Desktop,Credit card,West,Online store,customer1182@example.com
+2026-11-01 17:40,JHG-101558,35.81,Desktop,Credit card,Northeast,Online store,customer521@example.com
+2026-11-01 18:34,JHG-101534,53.45,Desktop,Credit card,South,Online store,customer896@example.com
+2026-11-01 18:48,JHG-101543,35.95,Mobile,Apple Pay,West,Online store,customer1308@example.com
+2026-11-01 19:42,JHG-101550,73.98,Mobile,Shop Pay,Northeast,Online store,customer1073@example.com
+2026-11-01 20:02,JHG-101537,29.36,Mobile,Credit card,South,Instagram shop,customer951@example.com
+2026-11-01 20:22,JHG-101552,33.76,Desktop,PayPal,West,Online store,customer1237@example.com
+2026-11-01 20:39,JHG-101535,47.6,Mobile,Shop Pay,West,Online store,customer585@example.com
+2026-11-01 20:48,JHG-101540,72.0,Mobile,PayPal,South,Online store,customer961@example.com
+2026-11-01 20:51,JHG-101556,40.52,Mobile,Apple Pay,West,Online store,customer771@example.com
+2026-11-01 20:52,JHG-101545,85.71,Desktop,PayPal,Midwest,Online store,customer1330@example.com
+2026-11-01 21:06,JHG-101553,83.09,Mobile,Shop Pay,Midwest,Online store,customer394@example.com
+2026-11-01 21:13,JHG-101551,31.62,Desktop,Shop Pay,West,Instagram shop,customer1295@example.com
+2026-11-01 21:43,JHG-101549,23.64,Desktop,PayPal,Northeast,Online store,customer1348@example.com
+2026-11-01 22:32,JHG-101547,47.44,Desktop,Credit card,West,Pinterest,customer401@example.com
+2026-11-01 22:39,JHG-101557,51.7,Desktop,Shop Pay,Midwest,Online store,customer1379@example.com
+2026-11-01 23:54,JHG-101554,21.01,Desktop,PayPal,South,Online store,customer662@example.com
+2026-11-02 00:37,JHG-101563,36.27,Desktop,Credit card,Midwest,Online store,customer537@example.com
+2026-11-02 00:54,JHG-101591,52.17,Tablet,Shop Pay,Northeast,Online store,customer83@example.com
+2026-11-02 06:12,JHG-101572,47.64,Mobile,Shop Pay,West,Online store,customer1302@example.com
+2026-11-02 06:29,JHG-101596,63.27,Mobile,PayPal,West,Online store,customer1127@example.com
+2026-11-02 08:01,JHG-101569,49.02,Desktop,Credit card,Northeast,Online store,customer1212@example.com
+2026-11-02 09:23,JHG-101584,25.87,Mobile,Shop Pay,South,Online store,customer1189@example.com
+2026-11-02 09:33,JHG-101564,32.9,Tablet,Shop Pay,West,Online store,customer338@example.com
+2026-11-02 11:02,JHG-101593,87.34,Mobile,Shop Pay,West,Online store,customer359@example.com
+2026-11-02 11:48,JHG-101590,17.39,Desktop,Shop Pay,Northeast,Online store,customer787@example.com
+2026-11-02 11:55,JHG-101594,40.38,Mobile,Shop Pay,South,Online store,customer870@example.com
+2026-11-02 13:01,JHG-101571,52.07,Mobile,Shop Pay,Northeast,Online store,customer1262@example.com
+2026-11-02 13:03,JHG-101576,43.6,Tablet,Credit card,Midwest,Pinterest,customer1294@example.com
+2026-11-02 13:09,JHG-101565,47.11,Desktop,Credit card,West,Online store,customer513@example.com
+2026-11-02 13:11,JHG-101575,69.83,Mobile,Credit card,West,Online store,customer367@example.com
+2026-11-02 13:31,JHG-101566,29.13,Mobile,Shop Pay,Midwest,Online store,customer613@example.com
+2026-11-02 14:23,JHG-101570,55.98,Tablet,Shop Pay,West,Pinterest,customer658@example.com
+2026-11-02 14:59,JHG-101586,53.33,Mobile,Shop Pay,South,Online store,customer602@example.com
+2026-11-02 15:27,JHG-101574,48.34,Desktop,Shop Pay,West,Online store,customer59@example.com
+2026-11-02 18:01,JHG-101568,67.15,Desktop,PayPal,South,Online store,customer298@example.com
+2026-11-02 19:10,JHG-101582,36.9,Desktop,PayPal,Northeast,Pinterest,customer37@example.com
+2026-11-02 19:10,JHG-101592,39.31,Desktop,Credit card,Northeast,Online store,customer1022@example.com
+2026-11-02 19:37,JHG-101581,26.93,Mobile,Shop Pay,Northeast,Online store,customer1118@example.com
+2026-11-02 19:43,JHG-101567,52.79,Desktop,Credit card,West,Online store,customer341@example.com
+2026-11-02 19:45,JHG-101578,48.77,Desktop,PayPal,West,Online store,customer1180@example.com
+2026-11-02 20:10,JHG-101589,30.5,Mobile,Apple Pay,Northeast,Online store,customer1106@example.com
+2026-11-02 20:33,JHG-101595,38.01,Desktop,PayPal,South,Online store,customer952@example.com
+2026-11-02 20:57,JHG-101583,25.74,Mobile,PayPal,West,Online store,customer1060@example.com
+2026-11-02 21:00,JHG-101573,59.98,Mobile,Apple Pay,South,Instagram shop,customer406@example.com
+2026-11-02 21:10,JHG-101585,59.59,Desktop,Credit card,West,Online store,customer824@example.com
+2026-11-02 21:11,JHG-101597,54.65,Desktop,PayPal,Midwest,Online store,customer668@example.com
+2026-11-02 21:15,JHG-101587,39.44,Desktop,Shop Pay,Northeast,Online store,customer1170@example.com
+2026-11-02 21:16,JHG-101580,59.22,Mobile,Credit card,West,Online store,customer1152@example.com
+2026-11-02 22:31,JHG-101588,22.17,Mobile,Shop Pay,Northeast,Online store,customer1070@example.com
+2026-11-02 22:50,JHG-101579,67.99,Mobile,PayPal,West,Online store,customer758@example.com
+2026-11-02 23:35,JHG-101577,62.23,Mobile,PayPal,West,Online store,customer544@example.com
+2026-11-03 01:28,JHG-101608,45.37,Mobile,Shop Pay,South,Pinterest,customer723@example.com
+2026-11-03 06:29,JHG-101611,44.28,Desktop,Shop Pay,South,Online store,customer1348@example.com
+2026-11-03 06:58,JHG-101615,28.08,Mobile,Shop Pay,South,Online store,customer452@example.com
+2026-11-03 08:05,JHG-101610,46.58,Mobile,Shop Pay,West,Online store,customer772@example.com
+2026-11-03 08:44,JHG-101599,66.44,Mobile,Apple Pay,South,Online store,customer271@example.com
+2026-11-03 09:01,JHG-101598,63.53,Mobile,Shop Pay,South,Online store,customer855@example.com
+2026-11-03 10:05,JHG-101614,28.64,Desktop,Shop Pay,West,Online store,customer634@example.com
+2026-11-03 10:18,JHG-101605,36.74,Mobile,PayPal,Northeast,Online store,customer1319@example.com
+2026-11-03 11:05,JHG-101604,40.34,Desktop,PayPal,Northeast,Instagram shop,customer321@example.com
+2026-11-03 12:20,JHG-101622,69.98,Desktop,PayPal,South,Online store,customer302@example.com
+2026-11-03 12:30,JHG-101607,64.72,Desktop,PayPal,Midwest,Online store,customer732@example.com
+2026-11-03 13:12,JHG-101602,80.22,Desktop,Credit card,South,Online store,customer257@example.com
+2026-11-03 14:24,JHG-101620,21.49,Desktop,PayPal,Midwest,Online store,customer622@example.com
+2026-11-03 15:18,JHG-101601,46.03,Mobile,Apple Pay,West,Pinterest,customer1032@example.com
+2026-11-03 15:49,JHG-101609,39.06,Mobile,Apple Pay,West,Online store,customer826@example.com
+2026-11-03 15:52,JHG-101606,74.25,Desktop,Shop Pay,South,Online store,customer1278@example.com
+2026-11-03 16:10,JHG-101603,82.1,Tablet,Shop Pay,West,Online store,customer873@example.com
+2026-11-03 16:21,JHG-101618,28.29,Mobile,Credit card,West,Online store,customer522@example.com
+2026-11-03 16:22,JHG-101623,51.88,Desktop,Shop Pay,South,Online store,customer382@example.com
+2026-11-03 16:39,JHG-101612,29.56,Desktop,Shop Pay,Northeast,Online store,customer590@example.com
+2026-11-03 17:24,JHG-101600,23.68,Desktop,Credit card,West,Online store,customer351@example.com
+2026-11-03 18:03,JHG-101619,50.54,Desktop,Credit card,South,Online store,customer1077@example.com
+2026-11-03 18:43,JHG-101616,43.66,Desktop,Shop Pay,West,Online store,customer996@example.com
+2026-11-03 18:53,JHG-101617,33.01,Desktop,PayPal,West,Online store,customer1219@example.com
+2026-11-03 19:45,JHG-101621,48.92,Mobile,Credit card,Northeast,Online store,customer277@example.com
+2026-11-03 20:40,JHG-101613,24.48,Mobile,Credit card,West,Online store,customer667@example.com
+2026-11-04 03:42,JHG-101630,22.66,Desktop,Credit card,Northeast,Online store,customer1131@example.com
+2026-11-04 08:47,JHG-101638,56.52,Desktop,Shop Pay,Midwest,Online store,customer693@example.com
+2026-11-04 09:59,JHG-101628,37.39,Desktop,Shop Pay,West,Online store,customer341@example.com
+2026-11-04 10:07,JHG-101629,55.39,Mobile,PayPal,Northeast,Online store,customer1097@example.com
+2026-11-04 10:17,JHG-101645,54.57,Desktop,PayPal,South,Online store,customer844@example.com
+2026-11-04 10:18,JHG-101632,55.55,Mobile,Apple Pay,South,Online store,customer770@example.com
+2026-11-04 13:35,JHG-101646,44.99,Mobile,PayPal,West,Online store,customer910@example.com
+2026-11-04 14:18,JHG-101642,42.44,Mobile,Credit card,West,Online store,customer66@example.com
+2026-11-04 15:10,JHG-101624,60.78,Desktop,Shop Pay,Northeast,Online store,customer551@example.com
+2026-11-04 15:11,JHG-101637,34.76,Desktop,Shop Pay,South,Online store,customer921@example.com
+2026-11-04 16:09,JHG-101636,23.32,Mobile,Credit card,West,Online store,customer743@example.com
+2026-11-04 16:17,JHG-101641,34.08,Desktop,Shop Pay,Midwest,Instagram shop,customer714@example.com
+2026-11-04 16:38,JHG-101644,26.01,Desktop,Shop Pay,West,Online store,customer838@example.com
+2026-11-04 17:15,JHG-101631,34.08,Desktop,PayPal,Northeast,Online store,customer234@example.com
+2026-11-04 17:41,JHG-101625,61.5,Desktop,PayPal,Midwest,Online store,customer371@example.com
+2026-11-04 17:58,JHG-101627,40.11,Mobile,Credit card,West,Online store,customer1298@example.com
+2026-11-04 20:13,JHG-101640,38.89,Tablet,PayPal,South,Online store,customer270@example.com
+2026-11-04 20:25,JHG-101639,21.69,Desktop,Credit card,West,Online store,customer845@example.com
+2026-11-04 21:50,JHG-101626,46.52,Desktop,Credit card,South,Online store,customer218@example.com
+2026-11-04 22:13,JHG-101643,52.85,Desktop,Credit card,South,Online store,customer1309@example.com
+2026-11-04 22:13,JHG-101634,22.77,Desktop,PayPal,South,Pinterest,customer335@example.com
+2026-11-04 22:40,JHG-101633,48.14,Mobile,Apple Pay,West,Online store,customer120@example.com
+2026-11-04 22:42,JHG-101635,32.44,Desktop,Credit card,West,Online store,customer1035@example.com
+2026-11-05 00:29,JHG-101670,37.44,Mobile,PayPal,West,Online store,customer525@example.com
+2026-11-05 04:19,JHG-101664,80.81,Tablet,Credit card,South,Online store,customer36@example.com
+2026-11-05 06:16,JHG-101651,48.98,Desktop,PayPal,South,Online store,customer663@example.com
+2026-11-05 07:38,JHG-101667,68.64,Desktop,PayPal,Midwest,Online store,customer106@example.com
+2026-11-05 08:14,JHG-101648,25.22,Mobile,Apple Pay,West,Online store,customer555@example.com
+2026-11-05 09:08,JHG-101672,26.63,Desktop,Credit card,South,Instagram shop,customer932@example.com
+2026-11-05 10:52,JHG-101654,36.75,Desktop,Credit card,Northeast,Online store,customer6@example.com
+2026-11-05 11:29,JHG-101659,34.95,Desktop,Shop Pay,Midwest,Online store,customer1266@example.com
+2026-11-05 11:39,JHG-101656,57.58,Mobile,Apple Pay,West,Online store,customer713@example.com
+2026-11-05 11:58,JHG-101650,36.43,Desktop,PayPal,West,Online store,customer1195@example.com
+2026-11-05 12:02,JHG-101658,34.43,Desktop,Credit card,West,Online store,customer211@example.com
+2026-11-05 12:10,JHG-101674,53.99,Mobile,Shop Pay,West,Online store,customer191@example.com
+2026-11-05 12:27,JHG-101649,51.15,Desktop,Credit card,West,Online store,customer850@example.com
+2026-11-05 14:06,JHG-101661,62.63,Mobile,PayPal,Northeast,Online store,customer909@example.com
+2026-11-05 15:01,JHG-101669,48.69,Desktop,Credit card,South,Online store,customer710@example.com
+2026-11-05 15:21,JHG-101663,46.69,Mobile,Apple Pay,South,Online store,customer1327@example.com
+2026-11-05 17:28,JHG-101666,69.48,Desktop,Credit card,South,Instagram shop,customer632@example.com
+2026-11-05 18:10,JHG-101660,57.55,Desktop,PayPal,Northeast,Online store,customer514@example.com
+2026-11-05 18:39,JHG-101657,87.2,Desktop,Shop Pay,South,Online store,customer652@example.com
+2026-11-05 18:44,JHG-101653,51.84,Mobile,Credit card,Northeast,Online store,customer808@example.com
+2026-11-05 18:50,JHG-101655,38.18,Mobile,Shop Pay,West,Online store,customer1007@example.com
+2026-11-05 18:56,JHG-101673,85.97,Mobile,Shop Pay,South,Online store,customer468@example.com
+2026-11-05 19:00,JHG-101668,43.99,Mobile,Apple Pay,Midwest,Instagram shop,customer1074@example.com
+2026-11-05 19:35,JHG-101652,34.22,Mobile,Credit card,West,Online store,customer246@example.com
+2026-11-05 20:18,JHG-101662,42.55,Desktop,Credit card,Northeast,Instagram shop,customer837@example.com
+2026-11-05 21:16,JHG-101665,29.15,Desktop,Shop Pay,West,Online store,customer1282@example.com
+2026-11-05 21:39,JHG-101671,65.99,Tablet,PayPal,South,Online store,customer258@example.com
+2026-11-05 22:47,JHG-101647,38.2,Mobile,PayPal,South,Pinterest,customer502@example.com
+2026-11-06 05:12,JHG-101678,35.66,Desktop,Credit card,South,Online store,customer163@example.com
+2026-11-06 09:14,JHG-101695,47.6,Tablet,Credit card,South,Online store,customer556@example.com
+2026-11-06 10:00,JHG-101694,35.72,Mobile,Apple Pay,Midwest,Online store,customer1123@example.com
+2026-11-06 10:25,JHG-101689,45.69,Mobile,Credit card,West,Online store,customer45@example.com
+2026-11-06 10:53,JHG-101676,127.43,Mobile,Credit card,West,Online store,customer717@example.com
+2026-11-06 11:27,JHG-101696,32.52,Desktop,PayPal,South,Online store,customer998@example.com
+2026-11-06 12:40,JHG-101687,76.46,Desktop,Credit card,West,Online store,customer1278@example.com
+2026-11-06 12:46,JHG-101688,30.68,Mobile,Shop Pay,Northeast,Online store,customer630@example.com
+2026-11-06 13:00,JHG-101691,50.45,Mobile,Shop Pay,Northeast,Online store,customer562@example.com
+2026-11-06 13:19,JHG-101684,13.12,Desktop,PayPal,Northeast,Online store,customer62@example.com
+2026-11-06 16:43,JHG-101682,26.32,Desktop,Credit card,West,Online store,customer952@example.com
+2026-11-06 18:10,JHG-101681,50.22,Desktop,PayPal,West,Online store,customer371@example.com
+2026-11-06 18:26,JHG-101692,25.28,Mobile,Credit card,Northeast,Online store,customer49@example.com
+2026-11-06 19:43,JHG-101698,22.02,Mobile,PayPal,Midwest,Online store,customer902@example.com
+2026-11-06 19:56,JHG-101680,27.39,Mobile,Apple Pay,West,Online store,customer830@example.com
+2026-11-06 20:07,JHG-101686,43.71,Mobile,Credit card,West,Online store,customer627@example.com
+2026-11-06 20:25,JHG-101675,52.55,Mobile,Credit card,South,Instagram shop,customer564@example.com
+2026-11-06 20:46,JHG-101677,40.96,Desktop,PayPal,Northeast,Online store,customer273@example.com
+2026-11-06 21:27,JHG-101697,149.0,Mobile,Credit card,West,Online store,customer1004@example.com
+2026-11-06 21:30,JHG-101693,43.35,Mobile,Shop Pay,Northeast,Online store,customer229@example.com
+2026-11-06 21:36,JHG-101690,36.39,Desktop,PayPal,West,Online store,customer1008@example.com
+2026-11-06 21:59,JHG-101685,48.62,Mobile,Apple Pay,West,Instagram shop,customer1301@example.com
+2026-11-06 22:16,JHG-101679,29.56,Desktop,PayPal,Northeast,Online store,customer91@example.com
+2026-11-06 23:47,JHG-101683,26.58,Desktop,Credit card,Northeast,Online store,customer331@example.com
+2026-11-07 02:17,JHG-101699,59.85,Mobile,Credit card,West,Online store,customer902@example.com
+2026-11-07 09:34,JHG-101708,74.24,Mobile,PayPal,South,Online store,customer167@example.com
+2026-11-07 10:19,JHG-101707,104.05,Desktop,Shop Pay,Midwest,Online store,customer133@example.com
+2026-11-07 12:19,JHG-101712,33.29,Mobile,Apple Pay,West,Online store,customer150@example.com
+2026-11-07 12:42,JHG-101724,35.52,Desktop,Credit card,Northeast,Online store,customer896@example.com
+2026-11-07 13:04,JHG-101716,65.5,Desktop,Credit card,Northeast,Online store,customer1097@example.com
+2026-11-07 13:19,JHG-101703,45.32,Desktop,Credit card,West,Pinterest,customer431@example.com
+2026-11-07 15:01,JHG-101700,63.0,Mobile,Apple Pay,Northeast,Online store,customer1066@example.com
+2026-11-07 15:15,JHG-101723,43.03,Desktop,PayPal,South,Instagram shop,customer1245@example.com
+2026-11-07 15:29,JHG-101702,74.27,Desktop,Credit card,West,Online store,customer636@example.com
+2026-11-07 15:36,JHG-101718,45.09,Tablet,Shop Pay,South,Online store,customer1007@example.com
+2026-11-07 16:01,JHG-101720,65.37,Desktop,Apple Pay,West,Online store,customer254@example.com
+2026-11-07 16:11,JHG-101721,45.97,Mobile,Credit card,South,Online store,customer1120@example.com
+2026-11-07 16:18,JHG-101713,49.75,Desktop,Credit card,Midwest,Online store,customer1065@example.com
+2026-11-07 16:29,JHG-101719,46.47,Desktop,PayPal,West,Instagram shop,customer698@example.com
+2026-11-07 17:00,JHG-101710,58.14,Mobile,Credit card,Midwest,Instagram shop,customer1157@example.com
+2026-11-07 17:00,JHG-101714,25.81,Mobile,PayPal,Northeast,Online store,customer726@example.com
+2026-11-07 17:02,JHG-101709,21.86,Desktop,Credit card,South,Online store,customer671@example.com
+2026-11-07 17:50,JHG-101704,45.66,Mobile,PayPal,Northeast,Instagram shop,customer1264@example.com
+2026-11-07 18:31,JHG-101722,46.46,Desktop,Apple Pay,West,Online store,customer442@example.com
+2026-11-07 18:41,JHG-101715,49.13,Tablet,Credit card,South,Online store,customer1119@example.com
+2026-11-07 19:36,JHG-101711,41.78,Desktop,Credit card,Midwest,Online store,customer106@example.com
+2026-11-07 20:43,JHG-101717,23.29,Desktop,Shop Pay,Northeast,Online store,customer855@example.com
+2026-11-07 21:53,JHG-101705,25.29,Desktop,Credit card,South,Online store,customer530@example.com
+2026-11-07 21:55,JHG-101706,51.71,Mobile,Credit card,West,Online store,customer1221@example.com
+2026-11-07 23:26,JHG-101701,77.96,Mobile,Shop Pay,West,Online store,customer443@example.com
+2026-11-08 04:50,JHG-101739,36.41,Desktop,Apple Pay,Northeast,Online store,customer356@example.com
+2026-11-08 09:11,JHG-101747,106.22,Tablet,Shop Pay,West,Online store,customer795@example.com
+2026-11-08 10:06,JHG-101736,43.46,Mobile,Shop Pay,South,Online store,customer736@example.com
+2026-11-08 10:15,JHG-101744,57.83,Mobile,PayPal,South,Online store,customer1225@example.com
+2026-11-08 10:53,JHG-101726,40.88,Desktop,Credit card,Midwest,Online store,customer318@example.com
+2026-11-08 11:26,JHG-101745,35.07,Tablet,Shop Pay,South,Online store,customer460@example.com
+2026-11-08 11:40,JHG-101728,50.91,Desktop,Credit card,Northeast,Online store,customer692@example.com
+2026-11-08 14:36,JHG-101730,53.18,Mobile,Credit card,Midwest,Instagram shop,customer1041@example.com
+2026-11-08 16:52,JHG-101731,74.95,Mobile,Credit card,South,Online store,customer1186@example.com
+2026-11-08 16:59,JHG-101733,52.54,Mobile,Apple Pay,West,Pinterest,customer682@example.com
+2026-11-08 17:08,JHG-101737,49.05,Mobile,Shop Pay,West,Online store,customer335@example.com
+2026-11-08 17:39,JHG-101735,32.44,Desktop,PayPal,Northeast,Online store,customer545@example.com
+2026-11-08 17:40,JHG-101742,88.95,Tablet,Shop Pay,Northeast,Pinterest,customer248@example.com
+2026-11-08 18:07,JHG-101741,54.87,Mobile,Apple Pay,South,Online store,customer1229@example.com
+2026-11-08 19:22,JHG-101729,53.41,Mobile,Credit card,Northeast,Online store,customer442@example.com
+2026-11-08 19:44,JHG-101738,55.69,Tablet,Shop Pay,West,Online store,customer801@example.com
+2026-11-08 19:55,JHG-101743,66.46,Desktop,Shop Pay,Northeast,Online store,customer414@example.com
+2026-11-08 20:43,JHG-101746,29.02,Desktop,Credit card,West,Online store,customer189@example.com
+2026-11-08 20:58,JHG-101734,31.02,Desktop,Credit card,Northeast,Online store,customer543@example.com
+2026-11-08 21:37,JHG-101725,35.21,Desktop,PayPal,Northeast,Online store,customer1220@example.com
+2026-11-08 22:18,JHG-101740,42.51,Desktop,Credit card,West,Online store,customer814@example.com
+2026-11-08 23:04,JHG-101732,57.23,Desktop,Shop Pay,South,Online store,customer27@example.com
+2026-11-08 23:20,JHG-101727,20.34,Desktop,Credit card,West,Online store,customer481@example.com
